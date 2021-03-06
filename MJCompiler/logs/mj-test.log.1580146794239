@@ -1,0 +1,170 @@
+INFO  18:38:14,031 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:38:14,078 - #2 program
+INFO  18:38:14,078 - #15 test302
+INFO  18:38:14,078 - #43 const
+INFO  18:38:14,079 - #15 int
+INFO  18:38:14,079 - #15 jedan
+INFO  18:38:14,080 - #12 =
+INFO  18:38:14,080 - #14 1
+INFO  18:38:14,080 - #5 ;
+INFO  18:38:14,080 - #15 int
+INFO  18:38:14,080 - #15 i
+INFO  18:38:14,080 - #5 ;
+INFO  18:38:14,080 - #15 bool
+INFO  18:38:14,081 - #15 ibool
+INFO  18:38:14,081 - #5 ;
+INFO  18:38:14,081 - #15 int
+INFO  18:38:14,081 - #15 niz
+INFO  18:38:14,081 - #25 [
+INFO  18:38:14,081 - #26 ]
+INFO  18:38:14,081 - #5 ;
+INFO  18:38:14,081 - #3 {
+INFO  18:38:14,107 - #15 int
+INFO  18:38:14,108 - #15 sum
+INFO  18:38:14,108 - #6 (
+INFO  18:38:14,108 - #15 int
+INFO  18:38:14,108 - #15 z
+INFO  18:38:14,108 - #8 ,
+INFO  18:38:14,109 - #15 int
+INFO  18:38:14,109 - #15 d
+INFO  18:38:14,109 - #7 )
+INFO  18:38:14,109 - #3 {
+INFO  18:38:14,109 - #10 return
+INFO  18:38:14,110 - #15 z
+INFO  18:38:14,110 - #11 +
+INFO  18:38:14,110 - #15 d
+INFO  18:38:14,110 - #5 ;
+INFO  18:38:14,111 - #4 }
+INFO  18:38:14,111 - #15 int
+INFO  18:38:14,111 - #15 inkrement
+INFO  18:38:14,111 - #6 (
+INFO  18:38:14,112 - #15 int
+INFO  18:38:14,112 - #15 a
+INFO  18:38:14,112 - #8 ,
+INFO  18:38:14,112 - #15 int
+INFO  18:38:14,112 - #15 inc
+INFO  18:38:14,112 - #7 )
+INFO  18:38:14,112 - #15 int
+INFO  18:38:14,112 - #15 pom
+INFO  18:38:14,112 - #5 ;
+INFO  18:38:14,112 - #3 {
+INFO  18:38:14,112 - #9 print
+INFO  18:38:14,112 - #6 (
+INFO  18:38:14,112 - #15 a
+INFO  18:38:14,112 - #7 )
+INFO  18:38:14,112 - #5 ;
+INFO  18:38:14,113 - #9 print
+INFO  18:38:14,113 - #6 (
+INFO  18:38:14,113 - #16 -
+INFO  18:38:14,113 - #7 )
+INFO  18:38:14,113 - #5 ;
+INFO  18:38:14,113 - #9 print
+INFO  18:38:14,113 - #6 (
+INFO  18:38:14,113 - #15 inc
+INFO  18:38:14,113 - #7 )
+INFO  18:38:14,113 - #5 ;
+INFO  18:38:14,113 - #9 print
+INFO  18:38:14,114 - #6 (
+INFO  18:38:14,114 - #15 eol
+INFO  18:38:14,114 - #7 )
+INFO  18:38:14,119 - #5 ;
+INFO  18:38:14,120 - #18 if
+INFO  18:38:14,120 - #6 (
+INFO  18:38:14,120 - #15 inc
+INFO  18:38:14,120 - #37 ==
+INFO  18:38:14,121 - #15 jedan
+INFO  18:38:14,121 - #7 )
+INFO  18:38:14,122 - #15 pom
+INFO  18:38:14,122 - #12 =
+INFO  18:38:14,122 - #14 1
+INFO  18:38:14,122 - #5 ;
+INFO  18:38:14,122 - #19 else
+INFO  18:38:14,122 - #18 if
+INFO  18:38:14,123 - #6 (
+INFO  18:38:14,123 - #15 inc
+INFO  18:38:14,123 - #37 ==
+INFO  18:38:14,123 - #14 2
+INFO  18:38:14,123 - #7 )
+INFO  18:38:14,123 - #15 pom
+INFO  18:38:14,123 - #12 =
+INFO  18:38:14,123 - #15 a
+INFO  18:38:14,123 - #5 ;
+INFO  18:38:14,124 - #10 return
+INFO  18:38:14,124 - #15 sum
+INFO  18:38:14,124 - #6 (
+INFO  18:38:14,124 - #15 a
+INFO  18:38:14,124 - #8 ,
+INFO  18:38:14,125 - #15 pom
+INFO  18:38:14,125 - #7 )
+INFO  18:38:14,125 - #5 ;
+INFO  18:38:14,125 - #4 }
+INFO  18:38:14,125 - #15 bool
+INFO  18:38:14,125 - #15 verify
+INFO  18:38:14,125 - #6 (
+INFO  18:38:14,126 - #7 )
+INFO  18:38:14,126 - #3 {
+INFO  18:38:14,126 - #9 print
+INFO  18:38:14,126 - #6 (
+INFO  18:38:14,126 - #16 v
+INFO  18:38:14,127 - #7 )
+INFO  18:38:14,127 - #5 ;
+INFO  18:38:14,127 - #10 return
+INFO  18:38:14,127 - #17 false
+INFO  18:38:14,127 - #5 ;
+INFO  18:38:14,127 - #4 }
+INFO  18:38:14,127 - #13 void
+INFO  18:38:14,127 - #15 main
+INFO  18:38:14,127 - #6 (
+INFO  18:38:14,127 - #7 )
+INFO  18:38:14,128 - #3 {
+INFO  18:38:14,128 - #15 i
+INFO  18:38:14,128 - #12 =
+INFO  18:38:14,128 - #14 0
+INFO  18:38:14,128 - #5 ;
+INFO  18:38:14,128 - #31 for
+INFO  18:38:14,128 - #6 (
+INFO  18:38:14,129 - #15 i
+INFO  18:38:14,129 - #12 =
+INFO  18:38:14,129 - #14 0
+INFO  18:38:14,129 - #5 ;
+INFO  18:38:14,129 - #15 i
+INFO  18:38:14,129 - #41 <
+INFO  18:38:14,130 - #14 3
+INFO  18:38:14,130 - #5 ;
+INFO  18:38:14,130 - #15 i
+INFO  18:38:14,130 - #20 ++
+INFO  18:38:14,130 - #7 )
+INFO  18:38:14,130 - #3 {
+INFO  18:38:14,131 - #9 print
+INFO  18:38:14,131 - #6 (
+INFO  18:38:14,131 - #15 i
+INFO  18:38:14,131 - #7 )
+INFO  18:38:14,131 - #5 ;
+INFO  18:38:14,131 - #4 }
+INFO  18:38:14,131 - #4 }
+INFO  18:38:14,131 - #4 }
+INFO  18:38:14,142 - Deklarisana je promenljiva jedan tipa 1 i vrednosti 1 na liniji 5
+INFO  18:38:14,142 - Deklarisana je promenljiva i tipa 1 na liniji 7
+INFO  18:38:14,142 - Deklarisana je promenljiva ibool tipa 5 na liniji 8
+INFO  18:38:14,142 - Deklarisana je promenljiva(niz) niz tipa 1 na liniji 10
+INFO  18:38:14,143 - Procesira se metoda sum povratnog tipa 1 na liniji 13
+INFO  18:38:14,143 - Deklarisan je formalni parametar z tipa 1 na poziciji 0 na liniji 13
+INFO  18:38:14,143 - Deklarisan je formalni parametar d tipa 1 na poziciji 1 na liniji 13
+INFO  18:38:14,143 - Return tip se slaze sa tipom funkcije na liniji 16
+INFO  18:38:14,143 - Procesira se metoda inkrement povratnog tipa 1 na liniji 20
+INFO  18:38:14,143 - Deklarisan je formalni parametar a tipa 1 na poziciji 0 na liniji 20
+INFO  18:38:14,143 - Deklarisan je formalni parametar inc tipa 1 na poziciji 1 na liniji 20
+INFO  18:38:14,143 - Deklarisana je promenljiva pom tipa 1 na liniji 20
+INFO  18:38:14,144 - Tipovi su kompatibilni  na liniji 24
+INFO  18:38:14,144 - Tipovi su kompatibilni  na liniji 25
+INFO  18:38:14,144 - Pronadjen je poziv funkcijesum na liniji 28
+INFO  18:38:14,144 - Return tip se slaze sa tipom funkcije na liniji 28
+INFO  18:38:14,144 - Procesira se metoda verify povratnog tipa 5 na liniji 31
+INFO  18:38:14,144 - Return tip se slaze sa tipom funkcije na liniji 33
+INFO  18:38:14,144 - Procesira se metoda main bez povratnog tipa (0) na liniji 36
+INFO  18:38:14,145 - Tipovi su kompatibilni  na liniji 38
+INFO  18:38:14,145 - Tipovi su kompatibilni  na liniji 39
+INFO  18:38:14,145 - Tip je kompatibilan sa operatorom ++ na liniji 39
+INFO  18:38:14,145 - Print calls = 6
+INFO  18:38:14,146 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:38:14,165 - Parsiranje uspesno zavrseno!

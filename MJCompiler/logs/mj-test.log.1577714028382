@@ -1,0 +1,48 @@
+INFO  14:49:42,788 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:49:42,825 - #2 program
+INFO  14:49:42,825 - #15 MJProgram
+INFO  14:49:42,825 - #3 {
+INFO  14:49:42,826 - #15 int
+INFO  14:49:42,826 - #15 fja
+INFO  14:49:42,826 - #6 (
+INFO  14:49:42,827 - #7 )
+INFO  14:49:42,827 - #15 int
+INFO  14:49:42,827 - #15 c
+INFO  14:49:42,828 - #5 ;
+INFO  14:49:42,828 - #15 int
+INFO  14:49:42,828 - #15 b
+INFO  14:49:42,828 - #5 ;
+INFO  14:49:42,828 - #3 {
+INFO  14:49:42,829 - #15 c
+INFO  14:49:42,829 - #12 =
+INFO  14:49:42,830 - #14 2
+INFO  14:49:42,830 - #5 ;
+INFO  14:49:42,830 - #10 return
+INFO  14:49:42,831 - #15 c
+INFO  14:49:42,831 - #11 +
+INFO  14:49:42,831 - #14 2
+INFO  14:49:42,832 - #5 ;
+INFO  14:49:42,832 - #4 }
+INFO  14:49:42,832 - #15 int
+INFO  14:49:42,833 - #15 main
+INFO  14:49:42,833 - #6 (
+INFO  14:49:42,833 - #7 )
+INFO  14:49:42,833 - #3 {
+INFO  14:49:42,833 - #15 fja
+INFO  14:49:42,833 - #6 (
+INFO  14:49:42,833 - #7 )
+INFO  14:49:42,834 - #5 ;
+INFO  14:49:42,834 - #4 }
+INFO  14:49:42,834 - #4 }
+INFO  14:49:42,847 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+INFO  14:49:42,847 - Deklarisana je promenljiva c tipa 1 na liniji 13
+INFO  14:49:42,847 - Deklarisana je promenljiva b tipa 1 na liniji 13
+INFO  14:49:42,847 - Procesira se c na liniji 14 na liniji 14
+INFO  14:49:42,847 - Tipovi su kompatibilni  na liniji 14
+INFO  14:49:42,847 - Procesira se c na liniji 15 na liniji 15
+INFO  14:49:42,847 - Return tip se slaze sa tipom funkcije na liniji 15
+INFO  14:49:42,847 - Procesira se metoda main povratnog tipa 1 na liniji 18
+INFO  14:49:42,848 - Procesira se fja na liniji 19 na liniji 19
+ERROR 14:49:42,848 - Semanticka greska na liniji 18 funkcija main nema return iskaz
+INFO  14:49:42,848 - Print calls = 0
+INFO  14:49:42,849 - Parsiranje uspesno zavrseno!

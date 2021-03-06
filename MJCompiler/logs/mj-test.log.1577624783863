@@ -1,0 +1,105 @@
+INFO  14:05:48,687 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:05:48,721 - #2 program
+INFO  14:05:48,721 - #15 MJProgram
+INFO  14:05:48,721 - #15 int
+INFO  14:05:48,722 - #15 u
+INFO  14:05:48,723 - #25 [
+INFO  14:05:48,723 - #26 ]
+INFO  14:05:48,723 - #8 ,
+INFO  14:05:48,723 - #15 n
+INFO  14:05:48,723 - #8 ,
+INFO  14:05:48,723 - #15 i
+INFO  14:05:48,723 - #25 [
+INFO  14:05:48,723 - #26 ]
+INFO  14:05:48,723 - #5 ;
+INFO  14:05:48,724 - #43 const
+INFO  14:05:48,724 - #15 int
+INFO  14:05:48,725 - #15 in
+INFO  14:05:48,725 - #12 =
+INFO  14:05:48,725 - #16 c
+INFO  14:05:48,725 - #5 ;
+INFO  14:05:48,725 - #43 const
+INFO  14:05:48,727 - #15 int
+INFO  14:05:48,727 - #15 p
+INFO  14:05:48,727 - #12 =
+INFO  14:05:48,727 - #14 2
+INFO  14:05:48,727 - #5 ;
+INFO  14:05:48,727 - #43 const
+INFO  14:05:48,727 - #15 char
+INFO  14:05:48,727 - #15 pui
+INFO  14:05:48,728 - #12 =
+INFO  14:05:48,728 - #16 a
+INFO  14:05:48,728 - #5 ;
+INFO  14:05:48,728 - #43 const
+INFO  14:05:48,728 - #15 bool
+INFO  14:05:48,728 - #15 init
+INFO  14:05:48,728 - #12 =
+INFO  14:05:48,728 - #17 true
+INFO  14:05:48,728 - #8 ,
+INFO  14:05:48,728 - #15 false1
+INFO  14:05:48,728 - #12 =
+INFO  14:05:48,728 - #17 false
+INFO  14:05:48,728 - #8 ,
+INFO  14:05:48,729 - #15 ddddd
+INFO  14:05:48,729 - #12 =
+INFO  14:05:48,729 - #14 5
+INFO  14:05:48,729 - #5 ;
+INFO  14:05:48,729 - #43 const
+INFO  14:05:48,729 - #15 int
+INFO  14:05:48,730 - #15 a
+INFO  14:05:48,730 - #12 =
+INFO  14:05:48,730 - #14 1
+INFO  14:05:48,730 - #8 ,
+INFO  14:05:48,730 - #15 b
+INFO  14:05:48,730 - #12 =
+INFO  14:05:48,730 - #14 22
+INFO  14:05:48,730 - #8 ,
+INFO  14:05:48,730 - #15 c
+INFO  14:05:48,730 - #12 =
+INFO  14:05:48,730 - #17 false
+INFO  14:05:48,731 - #5 ;
+INFO  14:05:48,731 - #3 {
+INFO  14:05:48,731 - #15 int
+INFO  14:05:48,732 - #15 fja
+INFO  14:05:48,732 - #6 (
+INFO  14:05:48,732 - #7 )
+INFO  14:05:48,732 - #3 {
+INFO  14:05:48,733 - #4 }
+INFO  14:05:48,733 - #15 inte
+INFO  14:05:48,734 - #15 fja2
+INFO  14:05:48,734 - #6 (
+INFO  14:05:48,734 - #15 int
+INFO  14:05:48,734 - #15 n
+INFO  14:05:48,734 - #8 ,
+INFO  14:05:48,734 - #15 int
+INFO  14:05:48,734 - #15 n
+INFO  14:05:48,735 - #7 )
+INFO  14:05:48,735 - #3 {
+INFO  14:05:48,735 - #4 }
+INFO  14:05:48,735 - #13 void
+INFO  14:05:48,735 - #15 funkcija
+INFO  14:05:48,735 - #6 (
+INFO  14:05:48,735 - #7 )
+INFO  14:05:48,735 - #3 {
+INFO  14:05:48,735 - #4 }
+INFO  14:05:48,736 - #4 }
+INFO  14:05:48,749 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  14:05:48,749 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  14:05:48,749 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 14:05:48,749 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  14:05:48,749 - Deklarisana je promenljiva p tipa 1 i vrednosti 2 na liniji 7
+INFO  14:05:48,749 - Deklarisana je promenljiva pui tipa 2 i vrednosti a na liniji 8
+ERROR 14:05:48,749 - Semanticka greska na liniji 9 varijabli ddddd pogresno definisan tip
+INFO  14:05:48,749 - Deklarisana je promenljiva false1 tipa 5 i vrednosti false na liniji 9
+INFO  14:05:48,750 - Deklarisana je promenljiva init tipa 5 i vrednosti true na liniji 9
+ERROR 14:05:48,750 - Semanticka greska na liniji 10 varijabli c pogresno definisan tip
+INFO  14:05:48,750 - Deklarisana je promenljiva b tipa 1 i vrednosti 22 na liniji 10
+INFO  14:05:48,750 - Deklarisana je promenljiva a tipa 1 i vrednosti 1 na liniji 10
+INFO  14:05:48,750 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+ERROR 14:05:48,750 - Nije pronadjen tip inte u tabeli simbola
+INFO  14:05:48,750 - Procesira se metoda fja2 povratnog tipa 0 na liniji 16
+INFO  14:05:48,750 - Deklarisan je formalni parametar n tipa 1 na poziciji 0 na liniji 16
+ERROR 14:05:48,750 - Semanticka greska na liniji 16 formalni parametar n vec definisan
+INFO  14:05:48,751 - Procesira se metoda funkcija bez povratnog tipa (0) na liniji 20
+INFO  14:05:48,751 - Print calls = 0
+INFO  14:05:48,752 - Parsiranje uspesno zavrseno!

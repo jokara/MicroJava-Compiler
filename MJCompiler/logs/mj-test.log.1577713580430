@@ -1,0 +1,62 @@
+INFO  04:12:34,368 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  04:12:34,430 - #2 program
+INFO  04:12:34,430 - #15 MJProgram
+INFO  04:12:34,431 - #15 int
+INFO  04:12:34,432 - #15 x
+INFO  04:12:34,433 - #5 ;
+INFO  04:12:34,433 - #15 int
+INFO  04:12:34,434 - #15 y
+INFO  04:12:34,434 - #5 ;
+INFO  04:12:34,434 - #15 int
+INFO  04:12:34,435 - #15 u
+INFO  04:12:34,435 - #25 [
+INFO  04:12:34,435 - #26 ]
+INFO  04:12:34,435 - #8 ,
+INFO  04:12:34,435 - #15 n
+INFO  04:12:34,435 - #8 ,
+INFO  04:12:34,435 - #15 i
+INFO  04:12:34,435 - #25 [
+INFO  04:12:34,435 - #26 ]
+INFO  04:12:34,435 - #5 ;
+INFO  04:12:34,436 - #3 {
+INFO  04:12:34,436 - #15 int
+INFO  04:12:34,438 - #15 fja
+INFO  04:12:34,438 - #6 (
+INFO  04:12:34,438 - #7 )
+INFO  04:12:34,439 - #15 int
+INFO  04:12:34,439 - #15 c
+INFO  04:12:34,439 - #5 ;
+INFO  04:12:34,439 - #15 int
+INFO  04:12:34,439 - #15 b
+INFO  04:12:34,439 - #5 ;
+INFO  04:12:34,439 - #3 {
+INFO  04:12:34,440 - #15 c
+INFO  04:12:34,440 - #12 =
+INFO  04:12:34,441 - #14 2
+INFO  04:12:34,441 - #5 ;
+INFO  04:12:34,442 - #10 return
+INFO  04:12:34,442 - #15 c
+INFO  04:12:34,442 - #11 +
+INFO  04:12:34,442 - #14 2
+INFO  04:12:34,443 - #5 ;
+INFO  04:12:34,444 - #4 }
+INFO  04:12:34,444 - #15 int
+INFO  04:12:34,445 - #15 main
+INFO  04:12:34,445 - #6 (
+INFO  04:12:34,446 - #7 )
+INFO  04:12:34,446 - #3 {
+INFO  04:12:34,446 - #15 fja
+INFO  04:12:34,446 - #6 (
+INFO  04:12:34,446 - #7 )
+INFO  04:12:34,446 - #5 ;
+INFO  04:12:34,446 - #4 }
+INFO  04:12:34,446 - #4 }
+INFO  04:12:34,471 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  04:12:34,471 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  04:12:34,471 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  04:12:34,471 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  04:12:34,472 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+INFO  04:12:34,472 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+INFO  04:12:34,474 - Deklarisana je promenljiva c tipa 1 na liniji 13
+INFO  04:12:34,474 - Deklarisana je promenljiva b tipa 1 na liniji 13
+INFO  04:12:34,475 - Procesira se c na liniji 14 na liniji 14

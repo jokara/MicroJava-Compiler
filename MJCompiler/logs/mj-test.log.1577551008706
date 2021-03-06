@@ -1,0 +1,54 @@
+INFO  17:32:59,370 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:32:59,404 - #2 program
+INFO  17:32:59,405 - #15 MJProgram
+INFO  17:32:59,405 - #15 int
+INFO  17:32:59,406 - #15 x
+INFO  17:32:59,407 - #5 ;
+INFO  17:32:59,407 - #15 int
+INFO  17:32:59,407 - #15 y
+INFO  17:32:59,407 - #5 ;
+INFO  17:32:59,407 - #15 int
+INFO  17:32:59,407 - #15 u
+INFO  17:32:59,407 - #25 [
+INFO  17:32:59,408 - #26 ]
+INFO  17:32:59,408 - #8 ,
+INFO  17:32:59,408 - #15 s
+INFO  17:32:59,408 - #8 ,
+INFO  17:32:59,408 - #15 i
+INFO  17:32:59,408 - #25 [
+INFO  17:32:59,408 - #26 ]
+INFO  17:32:59,408 - #5 ;
+INFO  17:32:59,408 - #15 char
+INFO  17:32:59,409 - #15 i
+INFO  17:32:59,409 - #5 ;
+INFO  17:32:59,409 - #43 const
+INFO  17:32:59,409 - #15 int
+INFO  17:32:59,410 - #15 in
+INFO  17:32:59,410 - #12 =
+INFO  17:32:59,410 - #16 c
+INFO  17:32:59,410 - #5 ;
+INFO  17:32:59,411 - #43 const
+INFO  17:32:59,411 - #15 int
+INFO  17:32:59,411 - #15 p
+INFO  17:32:59,411 - #12 =
+INFO  17:32:59,411 - #14 2
+INFO  17:32:59,411 - #5 ;
+INFO  17:32:59,411 - #43 const
+INFO  17:32:59,411 - #15 char
+INFO  17:32:59,411 - #15 i
+INFO  17:32:59,411 - #12 =
+INFO  17:32:59,411 - #14 4
+INFO  17:32:59,412 - #5 ;
+INFO  17:32:59,412 - #3 {
+INFO  17:32:59,412 - #4 }
+INFO  17:32:59,426 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  17:32:59,426 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  17:32:59,426 - Deklarisana je promenljiva s tipa 1 na liniji 3
+INFO  17:32:59,426 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  17:32:59,426 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 17:32:59,426 - Semanticka greska na liniji 4 varijabla i vec definisana
+ERROR 17:32:59,426 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  17:32:59,426 - Deklarisana je promenljiva(niz) p tipa 1 na liniji 7
+ERROR 17:32:59,427 - Semanticka greska na liniji 8 varijabla(niz) i vec definisana
+INFO  17:32:59,427 - Print calls = 0
+INFO  17:32:59,428 - Parsiranje uspesno zavrseno!

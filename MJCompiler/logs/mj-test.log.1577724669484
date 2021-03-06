@@ -1,0 +1,60 @@
+INFO  17:50:37,293 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:50:37,334 - #2 program
+INFO  17:50:37,334 - #15 MJProgram
+INFO  17:50:37,334 - #15 char
+INFO  17:50:37,335 - #15 r
+INFO  17:50:37,336 - #5 ;
+INFO  17:50:37,336 - #43 const
+INFO  17:50:37,336 - #15 int
+INFO  17:50:37,337 - #15 o
+INFO  17:50:37,337 - #12 =
+INFO  17:50:37,337 - #14 0
+INFO  17:50:37,338 - #8 ,
+INFO  17:50:37,338 - #15 p
+INFO  17:50:37,338 - #12 =
+INFO  17:50:37,338 - #14 1
+INFO  17:50:37,338 - #5 ;
+INFO  17:50:37,338 - #15 int
+INFO  17:50:37,339 - #15 b
+INFO  17:50:37,339 - #5 ;
+INFO  17:50:37,339 - #3 {
+INFO  17:50:37,339 - #15 int
+INFO  17:50:37,340 - #15 f
+INFO  17:50:37,340 - #6 (
+INFO  17:50:37,340 - #7 )
+INFO  17:50:37,341 - #3 {
+INFO  17:50:37,341 - #15 b
+INFO  17:50:37,341 - #12 =
+INFO  17:50:37,341 - #14 5
+INFO  17:50:37,341 - #11 +
+INFO  17:50:37,342 - #14 4
+INFO  17:50:37,342 - #28 *
+INFO  17:50:37,342 - #14 3
+INFO  17:50:37,343 - #11 +
+INFO  17:50:37,343 - #15 b
+INFO  17:50:37,343 - #28 *
+INFO  17:50:37,344 - #14 2
+INFO  17:50:37,344 - #5 ;
+INFO  17:50:37,344 - #15 m
+INFO  17:50:37,344 - #12 =
+INFO  17:50:37,345 - #16 a
+INFO  17:50:37,345 - #5 ;
+INFO  17:50:37,345 - #10 return
+INFO  17:50:37,345 - #16 k
+INFO  17:50:37,345 - #5 ;
+INFO  17:50:37,345 - #4 }
+INFO  17:50:37,345 - #4 }
+INFO  17:50:37,359 - Deklarisana je promenljiva r tipa 2 na liniji 3
+INFO  17:50:37,360 - Deklarisana je promenljiva p tipa 1 i vrednosti 1 na liniji 7
+INFO  17:50:37,360 - Deklarisana je promenljiva o tipa 1 i vrednosti 0 na liniji 7
+INFO  17:50:37,360 - Deklarisana je promenljiva b tipa 1 na liniji 8
+INFO  17:50:37,360 - Procesira se metoda f povratnog tipa 1 na liniji 13
+INFO  17:50:37,360 - Procesira se b na liniji 14 na liniji 14
+INFO  17:50:37,360 - Procesira se b na liniji 14 na liniji 14
+INFO  17:50:37,361 - Tipovi su kompatibilni  na liniji 14
+ERROR 17:50:37,361 - Semanticka greska na liniji 15 varijabla m nije deklarisana
+INFO  17:50:37,361 - Procesira se noObj na liniji 15 na liniji 15
+ERROR 17:50:37,361 - Semanticka greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+ERROR 17:50:37,361 - Semanticka greska na liniji 16 tip izraza u return se ne slaze sa tipom povratne vrednosti
+INFO  17:50:37,361 - Print calls = 0
+INFO  17:50:37,362 - Parsiranje uspesno zavrseno!

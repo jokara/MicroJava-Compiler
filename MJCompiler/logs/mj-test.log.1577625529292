@@ -1,0 +1,131 @@
+INFO  14:18:27,564 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:18:27,603 - #2 program
+INFO  14:18:27,603 - #15 MJProgram
+INFO  14:18:27,603 - #15 int
+INFO  14:18:27,604 - #15 u
+INFO  14:18:27,605 - #25 [
+INFO  14:18:27,605 - #26 ]
+INFO  14:18:27,605 - #8 ,
+INFO  14:18:27,605 - #15 n
+INFO  14:18:27,605 - #8 ,
+INFO  14:18:27,605 - #15 i
+INFO  14:18:27,605 - #25 [
+INFO  14:18:27,605 - #26 ]
+INFO  14:18:27,605 - #5 ;
+INFO  14:18:27,605 - #43 const
+INFO  14:18:27,606 - #15 int
+INFO  14:18:27,607 - #15 in
+INFO  14:18:27,607 - #12 =
+INFO  14:18:27,607 - #16 c
+INFO  14:18:27,607 - #5 ;
+INFO  14:18:27,607 - #43 const
+INFO  14:18:27,608 - #15 int
+INFO  14:18:27,608 - #15 p
+INFO  14:18:27,608 - #12 =
+INFO  14:18:27,608 - #14 2
+INFO  14:18:27,608 - #5 ;
+INFO  14:18:27,608 - #43 const
+INFO  14:18:27,609 - #15 char
+INFO  14:18:27,609 - #15 pui
+INFO  14:18:27,609 - #12 =
+INFO  14:18:27,609 - #16 a
+INFO  14:18:27,609 - #5 ;
+INFO  14:18:27,609 - #43 const
+INFO  14:18:27,609 - #15 bool
+INFO  14:18:27,609 - #15 init
+INFO  14:18:27,609 - #12 =
+INFO  14:18:27,609 - #17 true
+INFO  14:18:27,609 - #8 ,
+INFO  14:18:27,610 - #15 false1
+INFO  14:18:27,610 - #12 =
+INFO  14:18:27,610 - #17 false
+INFO  14:18:27,610 - #8 ,
+INFO  14:18:27,610 - #15 ddddd
+INFO  14:18:27,610 - #12 =
+INFO  14:18:27,610 - #14 5
+INFO  14:18:27,610 - #5 ;
+INFO  14:18:27,610 - #43 const
+INFO  14:18:27,611 - #15 int
+INFO  14:18:27,611 - #15 a
+INFO  14:18:27,611 - #12 =
+INFO  14:18:27,611 - #14 1
+INFO  14:18:27,611 - #8 ,
+INFO  14:18:27,611 - #15 b
+INFO  14:18:27,611 - #12 =
+INFO  14:18:27,611 - #14 22
+INFO  14:18:27,612 - #8 ,
+INFO  14:18:27,612 - #15 c
+INFO  14:18:27,612 - #12 =
+INFO  14:18:27,612 - #17 false
+INFO  14:18:27,612 - #5 ;
+INFO  14:18:27,612 - #3 {
+INFO  14:18:27,612 - #15 int
+INFO  14:18:27,613 - #15 fja
+INFO  14:18:27,613 - #6 (
+INFO  14:18:27,613 - #7 )
+INFO  14:18:27,614 - #3 {
+INFO  14:18:27,614 - #4 }
+INFO  14:18:27,614 - #15 inte
+INFO  14:18:27,615 - #15 fja2
+INFO  14:18:27,621 - #6 (
+INFO  14:18:27,621 - #15 int
+INFO  14:18:27,621 - #15 fj
+INFO  14:18:27,621 - #8 ,
+INFO  14:18:27,621 - #15 int
+INFO  14:18:27,621 - #15 n
+INFO  14:18:27,622 - #8 ,
+INFO  14:18:27,622 - #15 int
+INFO  14:18:27,622 - #15 k
+INFO  14:18:27,622 - #25 [
+INFO  14:18:27,622 - #26 ]
+INFO  14:18:27,622 - #8 ,
+INFO  14:18:27,623 - #15 char
+INFO  14:18:27,623 - #15 c
+INFO  14:18:27,623 - #25 [
+INFO  14:18:27,623 - #26 ]
+INFO  14:18:27,623 - #8 ,
+INFO  14:18:27,623 - #15 bool
+INFO  14:18:27,623 - #15 b
+INFO  14:18:27,623 - #25 [
+INFO  14:18:27,623 - #26 ]
+INFO  14:18:27,623 - #7 )
+INFO  14:18:27,623 - #15 int
+INFO  14:18:27,624 - #15 f
+INFO  14:18:27,624 - #5 ;
+INFO  14:18:27,624 - #15 int
+INFO  14:18:27,624 - #15 m
+INFO  14:18:27,624 - #5 ;
+INFO  14:18:27,624 - #3 {
+INFO  14:18:27,624 - #4 }
+INFO  14:18:27,624 - #13 void
+INFO  14:18:27,624 - #15 funkcija
+INFO  14:18:27,624 - #6 (
+INFO  14:18:27,625 - #7 )
+INFO  14:18:27,625 - #3 {
+INFO  14:18:27,625 - #4 }
+INFO  14:18:27,625 - #4 }
+INFO  14:18:27,639 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  14:18:27,639 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  14:18:27,639 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 14:18:27,639 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  14:18:27,639 - Deklarisana je promenljiva p tipa 1 i vrednosti 2 na liniji 7
+INFO  14:18:27,639 - Deklarisana je promenljiva pui tipa 2 i vrednosti a na liniji 8
+ERROR 14:18:27,640 - Semanticka greska na liniji 9 varijabli ddddd pogresno definisan tip
+INFO  14:18:27,640 - Deklarisana je promenljiva false1 tipa 5 i vrednosti false na liniji 9
+INFO  14:18:27,640 - Deklarisana je promenljiva init tipa 5 i vrednosti true na liniji 9
+ERROR 14:18:27,640 - Semanticka greska na liniji 10 varijabli c pogresno definisan tip
+INFO  14:18:27,640 - Deklarisana je promenljiva b tipa 1 i vrednosti 22 na liniji 10
+INFO  14:18:27,640 - Deklarisana je promenljiva a tipa 1 i vrednosti 1 na liniji 10
+INFO  14:18:27,640 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+ERROR 14:18:27,640 - Nije pronadjen tip inte u tabeli simbola
+INFO  14:18:27,640 - Procesira se metoda fja2 povratnog tipa 0 na liniji 16
+INFO  14:18:27,640 - Deklarisan je formalni parametar fj tipa 1 na poziciji 0 na liniji 16
+INFO  14:18:27,640 - Deklarisan je formalni parametar n tipa 1 na poziciji 1 na liniji 16
+INFO  14:18:27,641 - Deklarisan je formalni parametar(niz)k tipa 1 na poziciji 2 na liniji 16
+INFO  14:18:27,641 - Deklarisan je formalni parametar(niz)c tipa 2 na poziciji 3 na liniji 16
+INFO  14:18:27,641 - Deklarisan je formalni parametar(niz)b tipa 5 na poziciji 4 na liniji 16
+INFO  14:18:27,641 - Deklarisana je promenljiva f tipa 1 na liniji 17
+INFO  14:18:27,641 - Deklarisana je promenljiva m tipa 1 na liniji 17
+INFO  14:18:27,641 - Procesira se metoda funkcija bez povratnog tipa (0) na liniji 22
+INFO  14:18:27,641 - Print calls = 0
+INFO  14:18:27,642 - Parsiranje uspesno zavrseno!

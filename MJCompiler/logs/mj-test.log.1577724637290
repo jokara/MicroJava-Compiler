@@ -1,0 +1,60 @@
+INFO  17:50:12,359 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:50:12,397 - #2 program
+INFO  17:50:12,398 - #15 MJProgram
+INFO  17:50:12,398 - #15 char
+INFO  17:50:12,399 - #15 r
+INFO  17:50:12,399 - #5 ;
+INFO  17:50:12,400 - #43 const
+INFO  17:50:12,400 - #15 int
+INFO  17:50:12,401 - #15 o
+INFO  17:50:12,401 - #12 =
+INFO  17:50:12,401 - #14 0
+INFO  17:50:12,401 - #8 ,
+INFO  17:50:12,401 - #15 p
+INFO  17:50:12,401 - #12 =
+INFO  17:50:12,402 - #14 1
+INFO  17:50:12,402 - #5 ;
+INFO  17:50:12,402 - #3 {
+INFO  17:50:12,402 - #15 int
+INFO  17:50:12,403 - #15 f
+INFO  17:50:12,403 - #6 (
+INFO  17:50:12,403 - #7 )
+INFO  17:50:12,404 - #3 {
+INFO  17:50:12,404 - #15 b
+INFO  17:50:12,405 - #12 =
+INFO  17:50:12,405 - #14 5
+INFO  17:50:12,405 - #11 +
+INFO  17:50:12,405 - #14 4
+INFO  17:50:12,406 - #28 *
+INFO  17:50:12,406 - #14 3
+INFO  17:50:12,406 - #11 +
+INFO  17:50:12,407 - #15 b
+INFO  17:50:12,407 - #28 *
+INFO  17:50:12,407 - #14 2
+INFO  17:50:12,408 - #5 ;
+INFO  17:50:12,408 - #15 m
+INFO  17:50:12,408 - #12 =
+INFO  17:50:12,408 - #16 a
+INFO  17:50:12,408 - #5 ;
+INFO  17:50:12,409 - #10 return
+INFO  17:50:12,409 - #16 k
+INFO  17:50:12,409 - #5 ;
+INFO  17:50:12,409 - #4 }
+INFO  17:50:12,409 - #4 }
+INFO  17:50:12,427 - Deklarisana je promenljiva r tipa 2 na liniji 3
+INFO  17:50:12,427 - Deklarisana je promenljiva p tipa 1 i vrednosti 1 na liniji 7
+INFO  17:50:12,427 - Deklarisana je promenljiva o tipa 1 i vrednosti 0 na liniji 7
+INFO  17:50:12,427 - Procesira se metoda f povratnog tipa 1 na liniji 13
+ERROR 17:50:12,427 - Semanticka greska na liniji 14 varijabla b nije deklarisana
+INFO  17:50:12,427 - Procesira se noObj na liniji 14 na liniji 14
+ERROR 17:50:12,428 - Semanticka greska na liniji 14 varijabla b nije deklarisana
+INFO  17:50:12,428 - Procesira se noObj na liniji 14 na liniji 14
+ERROR 17:50:12,428 - Semanticka greska na liniji 14 nisu tipovi kompatibilni u izrazu za mnozenje/deljenje
+ERROR 17:50:12,428 - Semanticka greska na liniji 14 nisu tipovi kompatibilni u izrazu za sabiranje/oduzimanje
+INFO  17:50:12,428 - Tipovi su kompatibilni  na liniji 14
+ERROR 17:50:12,428 - Semanticka greska na liniji 15 varijabla m nije deklarisana
+INFO  17:50:12,428 - Procesira se noObj na liniji 15 na liniji 15
+ERROR 17:50:12,428 - Semanticka greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+ERROR 17:50:12,428 - Semanticka greska na liniji 16 tip izraza u return se ne slaze sa tipom povratne vrednosti
+INFO  17:50:12,428 - Print calls = 0
+INFO  17:50:12,430 - Parsiranje uspesno zavrseno!

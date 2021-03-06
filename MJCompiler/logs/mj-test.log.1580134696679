@@ -1,0 +1,288 @@
+INFO  15:13:11,175 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:13:11,233 - #2 program
+INFO  15:13:11,234 - #15 test301
+INFO  15:13:11,234 - #43 const
+INFO  15:13:11,235 - #15 int
+INFO  15:13:11,235 - #15 nula
+INFO  15:13:11,236 - #12 =
+INFO  15:13:11,236 - #14 0
+INFO  15:13:11,236 - #5 ;
+INFO  15:13:11,236 - #43 const
+INFO  15:13:11,237 - #15 int
+INFO  15:13:11,237 - #15 jedan
+INFO  15:13:11,237 - #12 =
+INFO  15:13:11,237 - #14 1
+INFO  15:13:11,237 - #5 ;
+INFO  15:13:11,237 - #43 const
+INFO  15:13:11,237 - #15 int
+INFO  15:13:11,237 - #15 pet
+INFO  15:13:11,238 - #12 =
+INFO  15:13:11,238 - #14 5
+INFO  15:13:11,239 - #5 ;
+INFO  15:13:11,298 - #15 int
+INFO  15:13:11,300 - #15 niz
+INFO  15:13:11,300 - #25 [
+INFO  15:13:11,301 - #26 ]
+INFO  15:13:11,301 - #5 ;
+INFO  15:13:11,302 - #15 char
+INFO  15:13:11,303 - #15 nizch
+INFO  15:13:11,303 - #25 [
+INFO  15:13:11,304 - #26 ]
+INFO  15:13:11,304 - #5 ;
+INFO  15:13:11,304 - #3 {
+INFO  15:13:11,305 - #13 void
+INFO  15:13:11,307 - #15 incInput
+INFO  15:13:11,308 - #6 (
+INFO  15:13:11,310 - #7 )
+INFO  15:13:11,312 - #15 int
+INFO  15:13:11,313 - #15 i
+INFO  15:13:11,313 - #5 ;
+INFO  15:13:11,314 - #3 {
+INFO  15:13:11,314 - #22 read
+INFO  15:13:11,316 - #6 (
+INFO  15:13:11,317 - #15 i
+INFO  15:13:11,317 - #7 )
+INFO  15:13:11,318 - #5 ;
+INFO  15:13:11,320 - #9 print
+INFO  15:13:11,321 - #6 (
+INFO  15:13:11,321 - #15 i
+INFO  15:13:11,321 - #7 )
+INFO  15:13:11,322 - #5 ;
+INFO  15:13:11,323 - #15 i
+INFO  15:13:11,323 - #20 ++
+INFO  15:13:11,323 - #5 ;
+INFO  15:13:11,323 - #9 print
+INFO  15:13:11,323 - #6 (
+INFO  15:13:11,324 - #15 i
+INFO  15:13:11,324 - #7 )
+INFO  15:13:11,324 - #5 ;
+INFO  15:13:11,324 - #4 }
+INFO  15:13:11,324 - #13 void
+INFO  15:13:11,325 - #15 main
+INFO  15:13:11,325 - #6 (
+INFO  15:13:11,326 - #7 )
+INFO  15:13:11,326 - #15 int
+INFO  15:13:11,326 - #15 bodovi
+INFO  15:13:11,327 - #5 ;
+INFO  15:13:11,327 - #3 {
+INFO  15:13:11,327 - #15 bodovi
+INFO  15:13:11,328 - #12 =
+INFO  15:13:11,328 - #14 0
+INFO  15:13:11,329 - #5 ;
+INFO  15:13:11,330 - #15 bodovi
+INFO  15:13:11,330 - #20 ++
+INFO  15:13:11,330 - #5 ;
+INFO  15:13:11,331 - #15 bodovi
+INFO  15:13:11,331 - #12 =
+INFO  15:13:11,331 - #15 bodovi
+INFO  15:13:11,332 - #11 +
+INFO  15:13:11,332 - #15 jedan
+INFO  15:13:11,333 - #5 ;
+INFO  15:13:11,334 - #15 bodovi
+INFO  15:13:11,334 - #12 =
+INFO  15:13:11,334 - #15 bodovi
+INFO  15:13:11,334 - #28 *
+INFO  15:13:11,335 - #15 pet
+INFO  15:13:11,336 - #5 ;
+INFO  15:13:11,337 - #15 bodovi
+INFO  15:13:11,337 - #21 --
+INFO  15:13:11,338 - #5 ;
+INFO  15:13:11,339 - #9 print
+INFO  15:13:11,339 - #6 (
+INFO  15:13:11,339 - #15 bodovi
+INFO  15:13:11,339 - #7 )
+INFO  15:13:11,339 - #5 ;
+INFO  15:13:11,340 - #15 niz
+INFO  15:13:11,340 - #12 =
+INFO  15:13:11,340 - #24 new
+INFO  15:13:11,340 - #15 int
+INFO  15:13:11,340 - #25 [
+INFO  15:13:11,341 - #14 3
+INFO  15:13:11,341 - #26 ]
+INFO  15:13:11,341 - #5 ;
+INFO  15:13:11,341 - #15 niz
+INFO  15:13:11,342 - #25 [
+INFO  15:13:11,342 - #15 nula
+INFO  15:13:11,342 - #26 ]
+INFO  15:13:11,342 - #12 =
+INFO  15:13:11,342 - #15 jedan
+INFO  15:13:11,342 - #5 ;
+INFO  15:13:11,343 - #15 niz
+INFO  15:13:11,343 - #25 [
+INFO  15:13:11,343 - #14 1
+INFO  15:13:11,343 - #26 ]
+INFO  15:13:11,343 - #12 =
+INFO  15:13:11,343 - #14 2
+INFO  15:13:11,344 - #5 ;
+INFO  15:13:11,344 - #15 niz
+INFO  15:13:11,344 - #25 [
+INFO  15:13:11,344 - #15 niz
+INFO  15:13:11,344 - #25 [
+INFO  15:13:11,344 - #15 jedan
+INFO  15:13:11,344 - #26 ]
+INFO  15:13:11,345 - #26 ]
+INFO  15:13:11,345 - #12 =
+INFO  15:13:11,345 - #15 niz
+INFO  15:13:11,345 - #25 [
+INFO  15:13:11,345 - #15 niz
+INFO  15:13:11,346 - #25 [
+INFO  15:13:11,346 - #14 0
+INFO  15:13:11,346 - #26 ]
+INFO  15:13:11,346 - #26 ]
+INFO  15:13:11,346 - #28 *
+INFO  15:13:11,346 - #14 3
+INFO  15:13:11,354 - #5 ;
+INFO  15:13:11,354 - #15 bodovi
+INFO  15:13:11,354 - #12 =
+INFO  15:13:11,354 - #15 niz
+INFO  15:13:11,354 - #25 [
+INFO  15:13:11,354 - #14 2
+INFO  15:13:11,354 - #26 ]
+INFO  15:13:11,354 - #29 /
+INFO  15:13:11,354 - #15 niz
+INFO  15:13:11,355 - #25 [
+INFO  15:13:11,355 - #14 0
+INFO  15:13:11,355 - #26 ]
+INFO  15:13:11,355 - #5 ;
+INFO  15:13:11,356 - #9 print
+INFO  15:13:11,356 - #6 (
+INFO  15:13:11,356 - #15 bodovi
+INFO  15:13:11,356 - #7 )
+INFO  15:13:11,356 - #5 ;
+INFO  15:13:11,356 - #9 print
+INFO  15:13:11,356 - #6 (
+INFO  15:13:11,356 - #15 niz
+INFO  15:13:11,356 - #25 [
+INFO  15:13:11,356 - #14 2
+INFO  15:13:11,356 - #26 ]
+INFO  15:13:11,356 - #7 )
+INFO  15:13:11,357 - #5 ;
+INFO  15:13:11,357 - #15 nizch
+INFO  15:13:11,357 - #12 =
+INFO  15:13:11,357 - #24 new
+INFO  15:13:11,357 - #15 char
+INFO  15:13:11,357 - #25 [
+INFO  15:13:11,357 - #14 3
+INFO  15:13:11,357 - #26 ]
+INFO  15:13:11,358 - #5 ;
+INFO  15:13:11,358 - #15 nizch
+INFO  15:13:11,358 - #25 [
+INFO  15:13:11,358 - #14 0
+INFO  15:13:11,358 - #26 ]
+INFO  15:13:11,358 - #12 =
+INFO  15:13:11,358 - #16 a
+INFO  15:13:11,358 - #5 ;
+INFO  15:13:11,358 - #15 nizch
+INFO  15:13:11,358 - #25 [
+INFO  15:13:11,358 - #15 jedan
+INFO  15:13:11,358 - #26 ]
+INFO  15:13:11,359 - #12 =
+INFO  15:13:11,359 - #16 b
+INFO  15:13:11,359 - #5 ;
+INFO  15:13:11,359 - #15 nizch
+INFO  15:13:11,359 - #25 [
+INFO  15:13:11,359 - #15 pet
+INFO  15:13:11,359 - #23 -
+INFO  15:13:11,359 - #14 3
+INFO  15:13:11,359 - #26 ]
+INFO  15:13:11,360 - #12 =
+INFO  15:13:11,360 - #16 c
+INFO  15:13:11,360 - #5 ;
+INFO  15:13:11,360 - #9 print
+INFO  15:13:11,360 - #6 (
+INFO  15:13:11,360 - #15 nizch
+INFO  15:13:11,360 - #25 [
+INFO  15:13:11,360 - #14 1
+INFO  15:13:11,360 - #26 ]
+INFO  15:13:11,360 - #7 )
+INFO  15:13:11,360 - #5 ;
+INFO  15:13:11,360 - #9 print
+INFO  15:13:11,360 - #6 (
+INFO  15:13:11,360 - #15 nizch
+INFO  15:13:11,361 - #25 [
+INFO  15:13:11,361 - #15 jedan
+INFO  15:13:11,361 - #28 *
+INFO  15:13:11,361 - #14 2
+INFO  15:13:11,361 - #26 ]
+INFO  15:13:11,361 - #7 )
+INFO  15:13:11,361 - #5 ;
+INFO  15:13:11,361 - #15 bodovi
+INFO  15:13:11,361 - #12 =
+INFO  15:13:11,361 - #15 bodovi
+INFO  15:13:11,361 - #11 +
+INFO  15:13:11,361 - #6 (
+INFO  15:13:11,361 - #15 pet
+INFO  15:13:11,361 - #28 *
+INFO  15:13:11,361 - #15 jedan
+INFO  15:13:11,361 - #23 -
+INFO  15:13:11,361 - #14 1
+INFO  15:13:11,361 - #7 )
+INFO  15:13:11,361 - #28 *
+INFO  15:13:11,362 - #15 bodovi
+INFO  15:13:11,362 - #23 -
+INFO  15:13:11,362 - #6 (
+INFO  15:13:11,362 - #14 3
+INFO  15:13:11,362 - #30 %
+INFO  15:13:11,362 - #14 2
+INFO  15:13:11,362 - #11 +
+INFO  15:13:11,363 - #14 3
+INFO  15:13:11,363 - #28 *
+INFO  15:13:11,363 - #14 2
+INFO  15:13:11,363 - #23 -
+INFO  15:13:11,363 - #14 3
+INFO  15:13:11,363 - #7 )
+INFO  15:13:11,363 - #5 ;
+INFO  15:13:11,363 - #9 print
+INFO  15:13:11,363 - #6 (
+INFO  15:13:11,363 - #15 bodovi
+INFO  15:13:11,363 - #7 )
+INFO  15:13:11,363 - #5 ;
+INFO  15:13:11,363 - #15 incInput
+INFO  15:13:11,363 - #6 (
+INFO  15:13:11,363 - #7 )
+INFO  15:13:11,364 - #5 ;
+INFO  15:13:11,364 - #4 }
+INFO  15:13:11,364 - #4 }
+INFO  15:13:11,378 - Deklarisana je promenljiva nula tipa 1 i vrednosti 0 na liniji 5
+INFO  15:13:11,378 - Deklarisana je promenljiva jedan tipa 1 i vrednosti 1 na liniji 6
+INFO  15:13:11,378 - Deklarisana je promenljiva pet tipa 1 i vrednosti 5 na liniji 7
+INFO  15:13:11,378 - Deklarisana je promenljiva(niz) niz tipa 1 na liniji 9
+INFO  15:13:11,378 - Deklarisana je promenljiva(niz) nizch tipa 2 na liniji 10
+INFO  15:13:11,378 - Procesira se metoda incInput bez povratnog tipa (0) na liniji 13
+INFO  15:13:11,379 - Deklarisana je promenljiva i tipa 1 na liniji 14
+ERROR 15:13:11,379 - Ne odgovara dati tip instrukciji read na liniji 16
+INFO  15:13:11,379 - Tip je kompatibilan sa operatorom ++ na liniji 18
+INFO  15:13:11,379 - Procesira se metoda main bez povratnog tipa (0) na liniji 22
+INFO  15:13:11,379 - Deklarisana je promenljiva bodovi tipa 1 na liniji 23
+INFO  15:13:11,379 - Tipovi su kompatibilni  na liniji 25
+INFO  15:13:11,379 - Tip je kompatibilan sa operatorom ++ na liniji 26
+INFO  15:13:11,380 - Tipovi su kompatibilni  na liniji 27
+INFO  15:13:11,380 - Tipovi su kompatibilni  na liniji 28
+INFO  15:13:11,380 - Tip je kompatibilan sa operatorom -- na liniji 29
+INFO  15:13:11,380 - Tipovi su kompatibilni  na liniji 33
+INFO  15:13:11,380 - Procesira se niz na liniji 34 na liniji 34
+INFO  15:13:11,380 - Tipovi su kompatibilni  na liniji 34
+INFO  15:13:11,380 - Procesira se niz na liniji 35 na liniji 35
+INFO  15:13:11,380 - Tipovi su kompatibilni  na liniji 35
+INFO  15:13:11,380 - Procesira se niz na liniji 36 na liniji 36
+INFO  15:13:11,380 - Procesira se niz na liniji 36 na liniji 36
+INFO  15:13:11,380 - Procesira se niz na liniji 36 na liniji 36
+INFO  15:13:11,380 - Procesira se niz na liniji 36 na liniji 36
+INFO  15:13:11,380 - Tipovi su kompatibilni  na liniji 36
+INFO  15:13:11,381 - Procesira se niz na liniji 37 na liniji 37
+INFO  15:13:11,381 - Procesira se niz na liniji 37 na liniji 37
+INFO  15:13:11,381 - Tipovi su kompatibilni  na liniji 37
+INFO  15:13:11,381 - Procesira se niz na liniji 39 na liniji 39
+INFO  15:13:11,381 - Tipovi su kompatibilni  na liniji 42
+INFO  15:13:11,381 - Procesira se nizch na liniji 43 na liniji 43
+INFO  15:13:11,381 - Tipovi su kompatibilni  na liniji 43
+INFO  15:13:11,381 - Procesira se nizch na liniji 44 na liniji 44
+INFO  15:13:11,381 - Tipovi su kompatibilni  na liniji 44
+INFO  15:13:11,381 - Procesira se nizch na liniji 45 na liniji 45
+INFO  15:13:11,381 - Tipovi su kompatibilni  na liniji 45
+INFO  15:13:11,381 - Procesira se nizch na liniji 46 na liniji 46
+INFO  15:13:11,381 - Procesira se nizch na liniji 47 na liniji 47
+INFO  15:13:11,381 - Tipovi su kompatibilni  na liniji 50
+INFO  15:13:11,381 - Pronadjen je poziv funkcijeincInput na liniji 53
+INFO  15:13:11,381 - Print calls = 8
+INFO  15:13:11,383 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj

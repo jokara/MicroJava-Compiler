@@ -1,0 +1,62 @@
+INFO  10:45:33,230 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:45:33,781 - #2 program
+INFO  10:45:33,781 - #15 MJProgram
+INFO  10:45:33,782 - #43 const
+INFO  10:45:33,794 - #15 int
+INFO  10:45:33,798 - #15 in
+INFO  10:45:33,804 - #12 =
+INFO  10:45:33,805 - #16 c
+INFO  10:45:33,805 - #5 ;
+INFO  10:45:33,805 - #43 const
+INFO  10:45:33,805 - #15 int
+INFO  10:45:33,805 - #15 p
+INFO  10:45:33,805 - #12 =
+INFO  10:45:33,805 - #14 2
+INFO  10:45:33,806 - #5 ;
+INFO  10:45:33,806 - #43 const
+INFO  10:45:33,806 - #15 char
+INFO  10:45:33,806 - #15 pui
+INFO  10:45:33,806 - #12 =
+INFO  10:45:33,806 - #14 4
+INFO  10:45:33,806 - #5 ;
+INFO  10:45:33,807 - #43 const
+INFO  10:45:33,807 - #15 bool
+INFO  10:45:33,807 - #15 init
+INFO  10:45:33,807 - #12 =
+INFO  10:45:33,807 - #17 true
+INFO  10:45:33,807 - #8 ,
+INFO  10:45:33,807 - #15 false1
+INFO  10:45:33,807 - #12 =
+INFO  10:45:33,807 - #17 false
+INFO  10:45:33,808 - #8 ,
+INFO  10:45:33,808 - #15 ddddd
+INFO  10:45:33,808 - #12 =
+INFO  10:45:33,808 - #14 5
+INFO  10:45:33,808 - #5 ;
+INFO  10:45:33,808 - #43 const
+INFO  10:45:33,808 - #15 int
+INFO  10:45:33,808 - #15 a
+INFO  10:45:33,809 - #12 =
+INFO  10:45:33,809 - #14 1
+INFO  10:45:33,809 - #8 ,
+INFO  10:45:33,809 - #15 b
+INFO  10:45:33,809 - #12 =
+INFO  10:45:33,809 - #14 22
+INFO  10:45:33,809 - #8 ,
+INFO  10:45:33,809 - #15 c
+INFO  10:45:33,809 - #12 =
+INFO  10:45:33,809 - #17 false
+INFO  10:45:33,809 - #5 ;
+INFO  10:45:33,810 - #3 {
+INFO  10:45:33,810 - #4 }
+ERROR 10:45:33,860 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  10:45:33,860 - Deklarisana je promenljiva p tipa 1 na liniji 7
+ERROR 10:45:33,860 - Semanticka greska na liniji 8 varijabli pui pogresno definisan tip
+ERROR 10:45:33,860 - Semanticka greska na liniji 9 varijabli ddddd pogresno definisan tip
+INFO  10:45:33,860 - Deklarisana je promenljiva false1 tipa 5 na liniji 9
+INFO  10:45:33,860 - Deklarisana je promenljiva init tipa 5 na liniji 9
+ERROR 10:45:33,860 - Semanticka greska na liniji 10 varijabli c pogresno definisan tip
+INFO  10:45:33,860 - Deklarisana je promenljiva b tipa 1 na liniji 10
+INFO  10:45:33,860 - Deklarisana je promenljiva a tipa 1 na liniji 10
+INFO  10:45:33,860 - Print calls = 0
+INFO  10:45:33,861 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,61 @@
+INFO  03:02:57,024 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  03:02:57,059 - #2 program
+INFO  03:02:57,060 - #15 MJProgram
+INFO  03:02:57,060 - #15 int
+INFO  03:02:57,061 - #15 x
+INFO  03:02:57,061 - #5 ;
+INFO  03:02:57,062 - #15 int
+INFO  03:02:57,062 - #15 y
+INFO  03:02:57,062 - #5 ;
+INFO  03:02:57,062 - #15 int
+INFO  03:02:57,062 - #15 u
+INFO  03:02:57,062 - #25 [
+INFO  03:02:57,062 - #26 ]
+INFO  03:02:57,063 - #8 ,
+INFO  03:02:57,063 - #15 n
+INFO  03:02:57,063 - #8 ,
+INFO  03:02:57,063 - #15 i
+INFO  03:02:57,063 - #25 [
+INFO  03:02:57,063 - #26 ]
+INFO  03:02:57,063 - #5 ;
+INFO  03:02:57,063 - #3 {
+INFO  03:02:57,063 - #15 int
+INFO  03:02:57,064 - #15 fja
+INFO  03:02:57,064 - #6 (
+INFO  03:02:57,064 - #7 )
+INFO  03:02:57,065 - #15 int
+INFO  03:02:57,065 - #15 c
+INFO  03:02:57,065 - #5 ;
+INFO  03:02:57,065 - #3 {
+INFO  03:02:57,065 - #15 c
+INFO  03:02:57,065 - #12 =
+INFO  03:02:57,066 - #14 2
+INFO  03:02:57,066 - #5 ;
+INFO  03:02:57,066 - #10 return
+INFO  03:02:57,067 - #15 c
+INFO  03:02:57,067 - #11 +
+INFO  03:02:57,067 - #14 2
+INFO  03:02:57,068 - #5 ;
+INFO  03:02:57,068 - #4 }
+INFO  03:02:57,068 - #15 int
+INFO  03:02:57,069 - #15 main
+INFO  03:02:57,069 - #6 (
+INFO  03:02:57,069 - #7 )
+INFO  03:02:57,069 - #3 {
+INFO  03:02:57,069 - #15 k
+INFO  03:02:57,069 - #6 (
+INFO  03:02:57,069 - #7 )
+INFO  03:02:57,069 - #5 ;
+INFO  03:02:57,070 - #4 }
+INFO  03:02:57,070 - #4 }
+INFO  03:02:57,082 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  03:02:57,082 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  03:02:57,082 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  03:02:57,082 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  03:02:57,082 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+INFO  03:02:57,083 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+INFO  03:02:57,083 - Deklarisana je promenljiva c tipa 1 na liniji 13
+INFO  03:02:57,083 - Procesira se metoda main povratnog tipa 1 na liniji 18
+ERROR 03:02:57,083 - Semanticka greska na liniji 19 varijabla k nije deklarisana
+INFO  03:02:57,083 - Print calls = 0
+INFO  03:02:57,084 - Parsiranje uspesno zavrseno!

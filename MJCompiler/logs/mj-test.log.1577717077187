@@ -1,0 +1,257 @@
+INFO  15:43:15,975 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:43:16,013 - #2 program
+INFO  15:43:16,013 - #15 MJProgram
+INFO  15:43:16,013 - #15 char
+INFO  15:43:16,014 - #15 r
+INFO  15:43:16,015 - #5 ;
+INFO  15:43:16,015 - #43 const
+INFO  15:43:16,015 - #15 char
+INFO  15:43:16,016 - #15 m
+INFO  15:43:16,016 - #12 =
+INFO  15:43:16,016 - #16 a
+INFO  15:43:16,016 - #8 ,
+INFO  15:43:16,016 - #15 n
+INFO  15:43:16,016 - #12 =
+INFO  15:43:16,016 - #16 s
+INFO  15:43:16,016 - #5 ;
+INFO  15:43:16,016 - #15 int
+INFO  15:43:16,017 - #15 b
+INFO  15:43:16,017 - #8 ,
+INFO  15:43:16,017 - #15 x
+INFO  15:43:16,017 - #25 [
+INFO  15:43:16,018 - #26 ]
+INFO  15:43:16,018 - #8 ,
+INFO  15:43:16,018 - #15 y
+INFO  15:43:16,018 - #25 [
+INFO  15:43:16,018 - #26 ]
+INFO  15:43:16,018 - #8 ,
+INFO  15:43:16,018 - #15 z
+INFO  15:43:16,018 - #25 [
+INFO  15:43:16,018 - #26 ]
+INFO  15:43:16,018 - #5 ;
+INFO  15:43:16,018 - #43 const
+INFO  15:43:16,019 - #15 bool
+INFO  15:43:16,019 - #15 flag
+INFO  15:43:16,019 - #12 =
+INFO  15:43:16,019 - #17 true
+INFO  15:43:16,019 - #8 ,
+INFO  15:43:16,019 - #15 k
+INFO  15:43:16,019 - #12 =
+INFO  15:43:16,019 - #17 false
+INFO  15:43:16,020 - #5 ;
+INFO  15:43:16,020 - #43 const
+INFO  15:43:16,020 - #15 int
+INFO  15:43:16,020 - #15 o
+INFO  15:43:16,020 - #12 =
+INFO  15:43:16,020 - #14 0
+INFO  15:43:16,020 - #8 ,
+INFO  15:43:16,020 - #15 p
+INFO  15:43:16,020 - #12 =
+INFO  15:43:16,021 - #14 1
+INFO  15:43:16,021 - #5 ;
+INFO  15:43:16,021 - #3 {
+INFO  15:43:16,021 - #15 int
+INFO  15:43:16,022 - #15 fja
+INFO  15:43:16,022 - #6 (
+INFO  15:43:16,022 - #15 int
+INFO  15:43:16,022 - #15 p
+INFO  15:43:16,022 - #8 ,
+INFO  15:43:16,023 - #15 int
+INFO  15:43:16,023 - #15 p2
+INFO  15:43:16,023 - #25 [
+INFO  15:43:16,023 - #26 ]
+INFO  15:43:16,023 - #8 ,
+INFO  15:43:16,023 - #15 bool
+INFO  15:43:16,023 - #15 m
+INFO  15:43:16,024 - #8 ,
+INFO  15:43:16,024 - #15 char
+INFO  15:43:16,024 - #15 c
+INFO  15:43:16,024 - #25 [
+INFO  15:43:16,024 - #26 ]
+INFO  15:43:16,024 - #7 )
+INFO  15:43:16,024 - #15 int
+INFO  15:43:16,024 - #15 f
+INFO  15:43:16,024 - #5 ;
+INFO  15:43:16,024 - #15 int
+INFO  15:43:16,025 - #15 y
+INFO  15:43:16,025 - #5 ;
+INFO  15:43:16,025 - #3 {
+INFO  15:43:16,025 - #9 print
+INFO  15:43:16,026 - #6 (
+INFO  15:43:16,026 - #15 p
+INFO  15:43:16,026 - #11 +
+INFO  15:43:16,027 - #14 3
+INFO  15:43:16,028 - #8 ,
+INFO  15:43:16,029 - #14 2
+INFO  15:43:16,030 - #7 )
+INFO  15:43:16,030 - #5 ;
+INFO  15:43:16,030 - #9 print
+INFO  15:43:16,030 - #6 (
+INFO  15:43:16,030 - #15 p
+INFO  15:43:16,030 - #11 +
+INFO  15:43:16,030 - #14 3
+INFO  15:43:16,030 - #11 +
+INFO  15:43:16,031 - #16 a
+INFO  15:43:16,031 - #8 ,
+INFO  15:43:16,031 - #14 2
+INFO  15:43:16,031 - #7 )
+INFO  15:43:16,031 - #5 ;
+INFO  15:43:16,031 - #15 f
+INFO  15:43:16,031 - #12 =
+INFO  15:43:16,031 - #14 1
+INFO  15:43:16,032 - #5 ;
+INFO  15:43:16,032 - #15 m
+INFO  15:43:16,032 - #12 =
+INFO  15:43:16,032 - #17 true
+INFO  15:43:16,032 - #5 ;
+INFO  15:43:16,032 - #15 p
+INFO  15:43:16,032 - #21 --
+INFO  15:43:16,033 - #5 ;
+INFO  15:43:16,033 - #15 p
+INFO  15:43:16,033 - #12 =
+INFO  15:43:16,033 - #14 3
+INFO  15:43:16,033 - #11 +
+INFO  15:43:16,033 - #24 new
+INFO  15:43:16,033 - #15 int
+INFO  15:43:16,033 - #5 ;
+INFO  15:43:16,033 - #15 p
+INFO  15:43:16,033 - #12 =
+INFO  15:43:16,034 - #14 3
+INFO  15:43:16,034 - #11 +
+INFO  15:43:16,034 - #24 new
+INFO  15:43:16,034 - #15 char
+INFO  15:43:16,034 - #5 ;
+INFO  15:43:16,034 - #15 p
+INFO  15:43:16,034 - #20 ++
+INFO  15:43:16,034 - #5 ;
+INFO  15:43:16,035 - #15 p
+INFO  15:43:16,035 - #12 =
+INFO  15:43:16,035 - #24 new
+INFO  15:43:16,035 - #15 int
+INFO  15:43:16,035 - #25 [
+INFO  15:43:16,035 - #14 1
+INFO  15:43:16,035 - #26 ]
+INFO  15:43:16,040 - #5 ;
+INFO  15:43:16,041 - #15 p
+INFO  15:43:16,041 - #12 =
+INFO  15:43:16,041 - #24 new
+INFO  15:43:16,041 - #15 int
+INFO  15:43:16,041 - #25 [
+INFO  15:43:16,041 - #17 true
+INFO  15:43:16,041 - #26 ]
+INFO  15:43:16,041 - #5 ;
+INFO  15:43:16,041 - #15 m
+INFO  15:43:16,041 - #12 =
+INFO  15:43:16,041 - #24 new
+INFO  15:43:16,041 - #15 char
+INFO  15:43:16,041 - #5 ;
+INFO  15:43:16,041 - #15 p
+INFO  15:43:16,041 - #12 =
+INFO  15:43:16,041 - #15 p
+INFO  15:43:16,041 - #11 +
+INFO  15:43:16,041 - #17 true
+INFO  15:43:16,041 - #5 ;
+INFO  15:43:16,041 - #15 c
+INFO  15:43:16,041 - #20 ++
+INFO  15:43:16,041 - #5 ;
+INFO  15:43:16,041 - #22 read
+INFO  15:43:16,041 - #6 (
+INFO  15:43:16,042 - #15 m
+INFO  15:43:16,042 - #7 )
+INFO  15:43:16,042 - #5 ;
+INFO  15:43:16,042 - #22 read
+INFO  15:43:16,042 - #6 (
+INFO  15:43:16,042 - #15 p
+INFO  15:43:16,042 - #7 )
+INFO  15:43:16,042 - #5 ;
+INFO  15:43:16,042 - #15 p
+INFO  15:43:16,042 - #6 (
+INFO  15:43:16,042 - #7 )
+INFO  15:43:16,042 - #5 ;
+INFO  15:43:16,042 - #15 fja
+INFO  15:43:16,042 - #6 (
+INFO  15:43:16,042 - #14 2
+INFO  15:43:16,042 - #7 )
+INFO  15:43:16,043 - #5 ;
+INFO  15:43:16,043 - #10 return
+INFO  15:43:16,043 - #23 -
+INFO  15:43:16,043 - #15 p
+INFO  15:43:16,043 - #5 ;
+INFO  15:43:16,043 - #4 }
+INFO  15:43:16,043 - #15 int
+INFO  15:43:16,044 - #15 f
+INFO  15:43:16,044 - #6 (
+INFO  15:43:16,044 - #7 )
+INFO  15:43:16,044 - #3 {
+INFO  15:43:16,045 - #15 fja
+INFO  15:43:16,045 - #6 (
+INFO  15:43:16,045 - #14 2
+INFO  15:43:16,045 - #11 +
+INFO  15:43:16,045 - #14 3
+INFO  15:43:16,045 - #7 )
+INFO  15:43:16,045 - #5 ;
+INFO  15:43:16,045 - #10 return
+INFO  15:43:16,045 - #16 k
+INFO  15:43:16,045 - #5 ;
+INFO  15:43:16,045 - #4 }
+INFO  15:43:16,045 - #4 }
+INFO  15:43:16,060 - Deklarisana je promenljiva r tipa 2 na liniji 3
+INFO  15:43:16,060 - Deklarisana je promenljiva n tipa 2 i vrednosti s na liniji 4
+INFO  15:43:16,060 - Deklarisana je promenljiva m tipa 2 i vrednosti a na liniji 4
+INFO  15:43:16,060 - Deklarisana je promenljiva b tipa 1 na liniji 5
+INFO  15:43:16,060 - Deklarisana je promenljiva(niz) z tipa 1 na liniji 5
+INFO  15:43:16,060 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 5
+INFO  15:43:16,060 - Deklarisana je promenljiva(niz) x tipa 1 na liniji 5
+INFO  15:43:16,060 - Deklarisana je promenljiva k tipa 5 i vrednosti false na liniji 6
+INFO  15:43:16,060 - Deklarisana je promenljiva flag tipa 5 i vrednosti true na liniji 6
+INFO  15:43:16,060 - Deklarisana je promenljiva p tipa 1 i vrednosti 1 na liniji 7
+INFO  15:43:16,060 - Deklarisana je promenljiva o tipa 1 i vrednosti 0 na liniji 7
+INFO  15:43:16,060 - Procesira se metoda fja povratnog tipa 1 na liniji 11
+INFO  15:43:16,061 - Deklarisan je formalni parametar p tipa 1 na poziciji 0 na liniji 11
+INFO  15:43:16,061 - Deklarisan je formalni parametar(niz)p2 tipa 1 na poziciji 1 na liniji 11
+INFO  15:43:16,061 - Deklarisan je formalni parametar m tipa 5 na poziciji 2 na liniji 11
+INFO  15:43:16,061 - Deklarisan je formalni parametar(niz)c tipa 2 na poziciji 3 na liniji 11
+INFO  15:43:16,061 - Deklarisana je promenljiva f tipa 1 na liniji 11
+INFO  15:43:16,061 - Deklarisana je promenljiva y tipa 1 na liniji 11
+INFO  15:43:16,061 - Procesira se p na liniji 13 na liniji 13
+INFO  15:43:16,061 - Procesira se p na liniji 14 na liniji 14
+ERROR 15:43:16,061 - Semanticka greska na liniji 14 nisu tipovi kompatibilni u izrazu za sabiranje
+INFO  15:43:16,061 - Procesira se f na liniji 15 na liniji 15
+INFO  15:43:16,061 - Tipovi su kompatibilni  na liniji 15
+INFO  15:43:16,061 - Procesira se m na liniji 16 na liniji 16
+INFO  15:43:16,061 - Tipovi su kompatibilni  na liniji 16
+INFO  15:43:16,061 - Procesira se p na liniji 17 na liniji 17
+INFO  15:43:16,061 - Tip je kompatibilan sa operatorom -- na liniji 17
+INFO  15:43:16,061 - Procesira se p na liniji 18 na liniji 18
+INFO  15:43:16,061 - Tipovi su kompatibilni  na liniji 18
+INFO  15:43:16,061 - Procesira se p na liniji 19 na liniji 19
+ERROR 15:43:16,061 - Semanticka greska na liniji 19 nisu tipovi kompatibilni u izrazu za sabiranje
+ERROR 15:43:16,061 - Semanticka greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:43:16,061 - Procesira se p na liniji 20 na liniji 20
+INFO  15:43:16,061 - Tip je kompatibilan sa operatorom ++ na liniji 20
+INFO  15:43:16,062 - Procesira se p na liniji 21 na liniji 21
+INFO  15:43:16,062 - Tipovi su kompatibilni  na liniji 21
+INFO  15:43:16,062 - Procesira se p na liniji 22 na liniji 22
+INFO  15:43:16,062 - Tipovi su kompatibilni  na liniji 22
+INFO  15:43:16,062 - Procesira se m na liniji 23 na liniji 23
+ERROR 15:43:16,062 - Semanticka greska na liniji 23 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:43:16,062 - Procesira se p na liniji 24 na liniji 24
+INFO  15:43:16,062 - Procesira se p na liniji 24 na liniji 24
+ERROR 15:43:16,062 - Semanticka greska na liniji 24 nisu tipovi kompatibilni u izrazu za sabiranje
+ERROR 15:43:16,062 - Semanticka greska na liniji 24 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:43:16,062 - Procesira se c na liniji 25 na liniji 25
+ERROR 15:43:16,062 - Semanticka greska na liniji 25 izraz nije kompatibilan sa operatorom ++!
+INFO  15:43:16,062 - Procesira se m na liniji 26 na liniji 26
+INFO  15:43:16,062 - Procesira se p na liniji 27 na liniji 27
+INFO  15:43:16,062 - Procesira se p na liniji 28 na liniji 28
+ERROR 15:43:16,062 - Semanticka greska na liniji 28 ime p nije deklarisano kao funkcija!
+INFO  15:43:16,062 - Procesira se fja na liniji 30 na liniji 30
+INFO  15:43:16,062 - Pronadjen je poziv funkcije fja na liniji 30
+INFO  15:43:16,062 - Procesira se p na liniji 32 na liniji 32
+INFO  15:43:16,062 - Return tip se slaze sa tipom funkcije na liniji 32
+INFO  15:43:16,062 - Procesira se metoda f povratnog tipa 1 na liniji 36
+INFO  15:43:16,062 - Procesira se fja na liniji 38 na liniji 38
+INFO  15:43:16,062 - Pronadjen je poziv funkcije fja na liniji 38
+ERROR 15:43:16,062 - Semanticka greska na liniji 39 tip izraza u return se ne slaze sa tipom povratne vrednosti
+INFO  15:43:16,062 - Print calls = 0
+INFO  15:43:16,064 - Parsiranje uspesno zavrseno!

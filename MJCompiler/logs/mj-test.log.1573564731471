@@ -1,0 +1,5 @@
+INFO  14:18:32,645 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:18:32,688 - #15 progam
+ERROR 14:18:32,689 - 
+Sintaksna greska na liniji 1
+ERROR 14:18:32,689 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 1

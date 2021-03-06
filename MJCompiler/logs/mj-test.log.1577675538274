@@ -1,0 +1,66 @@
+INFO  04:05:48,875 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  04:05:48,915 - #2 program
+INFO  04:05:48,915 - #15 MJProgram
+INFO  04:05:48,915 - #15 int
+INFO  04:05:48,916 - #15 x
+INFO  04:05:48,916 - #5 ;
+INFO  04:05:48,916 - #15 int
+INFO  04:05:48,917 - #15 y
+INFO  04:05:48,917 - #5 ;
+INFO  04:05:48,917 - #15 int
+INFO  04:05:48,917 - #15 u
+INFO  04:05:48,917 - #25 [
+INFO  04:05:48,917 - #26 ]
+INFO  04:05:48,917 - #8 ,
+INFO  04:05:48,917 - #15 n
+INFO  04:05:48,917 - #8 ,
+INFO  04:05:48,918 - #15 i
+INFO  04:05:48,918 - #25 [
+INFO  04:05:48,918 - #26 ]
+INFO  04:05:48,918 - #5 ;
+INFO  04:05:48,918 - #3 {
+INFO  04:05:48,918 - #15 int
+INFO  04:05:48,931 - #15 fja
+INFO  04:05:48,931 - #6 (
+INFO  04:05:48,931 - #7 )
+INFO  04:05:48,932 - #15 int
+INFO  04:05:48,932 - #15 c
+INFO  04:05:48,932 - #5 ;
+INFO  04:05:48,933 - #15 char
+INFO  04:05:48,933 - #15 b
+INFO  04:05:48,933 - #5 ;
+INFO  04:05:48,933 - #3 {
+INFO  04:05:48,933 - #15 c
+INFO  04:05:48,934 - #12 =
+INFO  04:05:48,934 - #14 2
+INFO  04:05:48,935 - #5 ;
+INFO  04:05:48,936 - #15 b
+INFO  04:05:48,936 - #12 =
+INFO  04:05:48,936 - #16 a
+INFO  04:05:48,936 - #5 ;
+INFO  04:05:48,936 - #10 return
+INFO  04:05:48,936 - #15 c
+INFO  04:05:48,937 - #11 +
+INFO  04:05:48,938 - #14 2
+INFO  04:05:48,938 - #5 ;
+INFO  04:05:48,939 - #4 }
+INFO  04:05:48,939 - #15 int
+INFO  04:05:48,940 - #15 main
+INFO  04:05:48,940 - #6 (
+INFO  04:05:48,940 - #7 )
+INFO  04:05:48,940 - #3 {
+INFO  04:05:48,940 - #15 fja
+INFO  04:05:48,940 - #6 (
+INFO  04:05:48,941 - #7 )
+INFO  04:05:48,941 - #5 ;
+INFO  04:05:48,941 - #4 }
+INFO  04:05:48,941 - #4 }
+INFO  04:05:48,954 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  04:05:48,954 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  04:05:48,954 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  04:05:48,954 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  04:05:48,955 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+INFO  04:05:48,955 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+INFO  04:05:48,955 - Deklarisana je promenljiva c tipa 1 na liniji 13
+INFO  04:05:48,955 - Deklarisana je promenljiva b tipa 2 na liniji 13
+INFO  04:05:48,955 - Procesira se c na liniji 14 na liniji 14

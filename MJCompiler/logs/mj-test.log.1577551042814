@@ -1,0 +1,28 @@
+INFO  17:36:48,710 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:36:48,745 - #2 program
+INFO  17:36:48,746 - #15 MJProgram
+INFO  17:36:48,746 - #43 const
+INFO  17:36:48,746 - #15 int
+INFO  17:36:48,748 - #15 in
+INFO  17:36:48,748 - #12 =
+INFO  17:36:48,748 - #16 c
+INFO  17:36:48,748 - #5 ;
+INFO  17:36:48,749 - #43 const
+INFO  17:36:48,749 - #15 int
+INFO  17:36:48,749 - #15 p
+INFO  17:36:48,749 - #12 =
+INFO  17:36:48,749 - #14 2
+INFO  17:36:48,749 - #5 ;
+INFO  17:36:48,749 - #43 const
+INFO  17:36:48,750 - #15 char
+INFO  17:36:48,750 - #15 pui
+INFO  17:36:48,750 - #12 =
+INFO  17:36:48,750 - #14 4
+INFO  17:36:48,750 - #5 ;
+INFO  17:36:48,751 - #3 {
+INFO  17:36:48,751 - #4 }
+ERROR 17:36:48,767 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  17:36:48,768 - Deklarisana je promenljiva p tipa 1 na liniji 7
+ERROR 17:36:48,768 - Semanticka greska na liniji 8 varijabli pui pogresno definisan tip
+INFO  17:36:48,768 - Print calls = 0
+INFO  17:36:48,770 - Parsiranje uspesno zavrseno!

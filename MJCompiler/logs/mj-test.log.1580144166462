@@ -1,0 +1,178 @@
+INFO  17:53:45,078 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:53:45,894 - #2 program
+INFO  17:53:45,895 - #15 test302
+INFO  17:53:45,895 - #43 const
+INFO  17:53:45,906 - #15 int
+INFO  17:53:45,917 - #15 jedan
+INFO  17:53:45,923 - #12 =
+INFO  17:53:45,923 - #14 1
+INFO  17:53:45,923 - #5 ;
+INFO  17:53:45,923 - #15 int
+INFO  17:53:45,924 - #15 i
+INFO  17:53:45,924 - #5 ;
+INFO  17:53:45,924 - #15 bool
+INFO  17:53:45,924 - #15 ibool
+INFO  17:53:45,924 - #5 ;
+INFO  17:53:45,925 - #15 int
+INFO  17:53:45,925 - #15 niz
+INFO  17:53:45,925 - #25 [
+INFO  17:53:45,925 - #26 ]
+INFO  17:53:45,925 - #5 ;
+INFO  17:53:45,925 - #3 {
+INFO  17:53:45,926 - #15 int
+INFO  17:53:45,932 - #15 sum
+INFO  17:53:45,932 - #6 (
+INFO  17:53:45,932 - #15 int
+INFO  17:53:45,932 - #15 z
+INFO  17:53:45,933 - #8 ,
+INFO  17:53:45,933 - #15 int
+INFO  17:53:45,933 - #15 d
+INFO  17:53:45,933 - #7 )
+INFO  17:53:45,933 - #3 {
+INFO  17:53:45,934 - #10 return
+INFO  17:53:45,939 - #15 z
+INFO  17:53:45,939 - #11 +
+INFO  17:53:45,940 - #15 d
+INFO  17:53:45,945 - #5 ;
+INFO  17:53:45,946 - #4 }
+INFO  17:53:45,946 - #15 int
+INFO  17:53:45,957 - #15 inkrement
+INFO  17:53:45,957 - #6 (
+INFO  17:53:45,958 - #15 int
+INFO  17:53:45,958 - #15 a
+INFO  17:53:45,958 - #8 ,
+INFO  17:53:45,958 - #15 int
+INFO  17:53:45,958 - #15 inc
+INFO  17:53:45,958 - #7 )
+INFO  17:53:45,958 - #15 int
+INFO  17:53:45,958 - #15 pom
+INFO  17:53:45,958 - #5 ;
+INFO  17:53:45,958 - #3 {
+INFO  17:53:45,958 - #18 if
+INFO  17:53:45,959 - #6 (
+INFO  17:53:45,970 - #15 inc
+INFO  17:53:45,970 - #37 ==
+INFO  17:53:45,970 - #15 jedan
+INFO  17:53:45,981 - #7 )
+INFO  17:53:45,982 - #15 pom
+INFO  17:53:45,982 - #12 =
+INFO  17:53:45,982 - #14 1
+INFO  17:53:45,982 - #5 ;
+INFO  17:53:45,982 - #19 else
+INFO  17:53:45,983 - #18 if
+INFO  17:53:45,993 - #6 (
+INFO  17:53:45,994 - #15 inc
+INFO  17:53:45,994 - #37 ==
+INFO  17:53:45,994 - #14 2
+INFO  17:53:45,994 - #7 )
+INFO  17:53:45,994 - #15 pom
+INFO  17:53:45,994 - #12 =
+INFO  17:53:45,994 - #15 a
+INFO  17:53:45,994 - #5 ;
+INFO  17:53:45,994 - #10 return
+INFO  17:53:45,995 - #15 sum
+INFO  17:53:45,995 - #6 (
+INFO  17:53:45,995 - #15 a
+INFO  17:53:45,995 - #8 ,
+INFO  17:53:45,996 - #15 pom
+INFO  17:53:45,996 - #7 )
+INFO  17:53:45,996 - #5 ;
+INFO  17:53:45,997 - #4 }
+INFO  17:53:45,997 - #15 bool
+INFO  17:53:45,997 - #15 verify
+INFO  17:53:45,997 - #6 (
+INFO  17:53:45,997 - #7 )
+INFO  17:53:46,005 - #3 {
+INFO  17:53:46,005 - #9 print
+INFO  17:53:46,005 - #6 (
+INFO  17:53:46,005 - #16 v
+INFO  17:53:46,005 - #7 )
+INFO  17:53:46,005 - #5 ;
+INFO  17:53:46,006 - #10 return
+INFO  17:53:46,006 - #17 false
+INFO  17:53:46,006 - #5 ;
+INFO  17:53:46,006 - #4 }
+INFO  17:53:46,006 - #13 void
+INFO  17:53:46,006 - #15 main
+INFO  17:53:46,007 - #6 (
+INFO  17:53:46,007 - #7 )
+INFO  17:53:46,007 - #3 {
+INFO  17:53:46,007 - #15 i
+INFO  17:53:46,007 - #12 =
+INFO  17:53:46,007 - #14 0
+INFO  17:53:46,007 - #5 ;
+INFO  17:53:46,008 - #31 for
+INFO  17:53:46,008 - #6 (
+INFO  17:53:46,022 - #5 ;
+INFO  17:53:46,036 - #15 i
+INFO  17:53:46,036 - #41 <
+INFO  17:53:46,037 - #14 10
+INFO  17:53:46,042 - #5 ;
+INFO  17:53:46,042 - #7 )
+INFO  17:53:46,053 - #3 {
+INFO  17:53:46,054 - #18 if
+INFO  17:53:46,054 - #6 (
+INFO  17:53:46,054 - #15 i
+INFO  17:53:46,054 - #37 ==
+INFO  17:53:46,054 - #14 3
+INFO  17:53:46,054 - #7 )
+INFO  17:53:46,054 - #3 {
+INFO  17:53:46,054 - #15 i
+INFO  17:53:46,054 - #20 ++
+INFO  17:53:46,054 - #5 ;
+INFO  17:53:46,054 - #33 continue
+INFO  17:53:46,054 - #5 ;
+INFO  17:53:46,054 - #4 }
+INFO  17:53:46,060 - #18 if
+INFO  17:53:46,060 - #6 (
+INFO  17:53:46,060 - #15 i
+INFO  17:53:46,061 - #37 ==
+INFO  17:53:46,061 - #14 4
+INFO  17:53:46,061 - #7 )
+INFO  17:53:46,061 - #32 break
+INFO  17:53:46,061 - #5 ;
+INFO  17:53:46,066 - #15 i
+INFO  17:53:46,072 - #12 =
+INFO  17:53:46,072 - #15 inkrement
+INFO  17:53:46,072 - #6 (
+INFO  17:53:46,072 - #15 i
+INFO  17:53:46,072 - #8 ,
+INFO  17:53:46,072 - #14 1
+INFO  17:53:46,072 - #7 )
+INFO  17:53:46,072 - #5 ;
+INFO  17:53:46,072 - #9 print
+INFO  17:53:46,072 - #6 (
+INFO  17:53:46,072 - #15 i
+INFO  17:53:46,072 - #7 )
+INFO  17:53:46,072 - #5 ;
+INFO  17:53:46,073 - #4 }
+INFO  17:53:46,073 - #4 }
+INFO  17:53:46,073 - #4 }
+INFO  17:53:46,133 - Deklarisana je promenljiva jedan tipa 1 i vrednosti 1 na liniji 5
+INFO  17:53:46,133 - Deklarisana je promenljiva i tipa 1 na liniji 7
+INFO  17:53:46,133 - Deklarisana je promenljiva ibool tipa 5 na liniji 8
+INFO  17:53:46,133 - Deklarisana je promenljiva(niz) niz tipa 1 na liniji 10
+INFO  17:53:46,133 - Procesira se metoda sum povratnog tipa 1 na liniji 13
+INFO  17:53:46,133 - Deklarisan je formalni parametar z tipa 1 na poziciji 0 na liniji 13
+INFO  17:53:46,133 - Deklarisan je formalni parametar d tipa 1 na poziciji 1 na liniji 13
+INFO  17:53:46,134 - Return tip se slaze sa tipom funkcije na liniji 16
+INFO  17:53:46,134 - Procesira se metoda inkrement povratnog tipa 1 na liniji 20
+INFO  17:53:46,134 - Deklarisan je formalni parametar a tipa 1 na poziciji 0 na liniji 20
+INFO  17:53:46,134 - Deklarisan je formalni parametar inc tipa 1 na poziciji 1 na liniji 20
+INFO  17:53:46,134 - Deklarisana je promenljiva pom tipa 1 na liniji 20
+INFO  17:53:46,134 - Tipovi su kompatibilni  na liniji 22
+INFO  17:53:46,134 - Tipovi su kompatibilni  na liniji 23
+INFO  17:53:46,135 - Pronadjen je poziv funkcijesum na liniji 26
+INFO  17:53:46,135 - Return tip se slaze sa tipom funkcije na liniji 26
+INFO  17:53:46,135 - Procesira se metoda verify povratnog tipa 5 na liniji 29
+INFO  17:53:46,135 - Return tip se slaze sa tipom funkcije na liniji 31
+INFO  17:53:46,135 - Procesira se metoda main bez povratnog tipa (0) na liniji 34
+INFO  17:53:46,135 - Tipovi su kompatibilni  na liniji 36
+INFO  17:53:46,135 - Tip je kompatibilan sa operatorom ++ na liniji 41
+INFO  17:53:46,136 - Uspesno ste nastavili petlju
+INFO  17:53:46,136 - Uspesno ste iskocili iz petlje
+INFO  17:53:46,136 - Pronadjen je poziv funkcijeinkrement na liniji 45
+INFO  17:53:46,136 - Tipovi su kompatibilni  na liniji 45
+INFO  17:53:46,136 - Print calls = 2
+INFO  17:53:46,137 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:53:46,230 - Parsiranje uspesno zavrseno!

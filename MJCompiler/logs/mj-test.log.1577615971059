@@ -1,0 +1,76 @@
+INFO  11:38:33,648 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:38:33,684 - #2 program
+INFO  11:38:33,684 - #15 MJProgram
+INFO  11:38:33,684 - #15 int
+INFO  11:38:33,685 - #15 u
+INFO  11:38:33,686 - #25 [
+INFO  11:38:33,686 - #26 ]
+INFO  11:38:33,686 - #8 ,
+INFO  11:38:33,686 - #15 s
+INFO  11:38:33,687 - #8 ,
+INFO  11:38:33,687 - #15 i
+INFO  11:38:33,687 - #25 [
+INFO  11:38:33,687 - #26 ]
+INFO  11:38:33,687 - #5 ;
+INFO  11:38:33,687 - #43 const
+INFO  11:38:33,688 - #15 int
+INFO  11:38:33,689 - #15 in
+INFO  11:38:33,689 - #12 =
+INFO  11:38:33,689 - #16 c
+INFO  11:38:33,689 - #5 ;
+INFO  11:38:33,689 - #43 const
+INFO  11:38:33,690 - #15 int
+INFO  11:38:33,690 - #15 p
+INFO  11:38:33,690 - #12 =
+INFO  11:38:33,690 - #14 2
+INFO  11:38:33,690 - #5 ;
+INFO  11:38:33,690 - #43 const
+INFO  11:38:33,690 - #15 char
+INFO  11:38:33,691 - #15 pui
+INFO  11:38:33,691 - #12 =
+INFO  11:38:33,691 - #14 4
+INFO  11:38:33,691 - #5 ;
+INFO  11:38:33,691 - #43 const
+INFO  11:38:33,691 - #15 bool
+INFO  11:38:33,691 - #15 init
+INFO  11:38:33,691 - #12 =
+INFO  11:38:33,691 - #17 true
+INFO  11:38:33,691 - #8 ,
+INFO  11:38:33,691 - #15 false1
+INFO  11:38:33,691 - #12 =
+INFO  11:38:33,691 - #17 false
+INFO  11:38:33,691 - #8 ,
+INFO  11:38:33,691 - #15 ddddd
+INFO  11:38:33,692 - #12 =
+INFO  11:38:33,692 - #14 5
+INFO  11:38:33,692 - #5 ;
+INFO  11:38:33,692 - #43 const
+INFO  11:38:33,692 - #15 int
+INFO  11:38:33,693 - #15 a
+INFO  11:38:33,693 - #12 =
+INFO  11:38:33,693 - #14 1
+INFO  11:38:33,693 - #8 ,
+INFO  11:38:33,693 - #15 b
+INFO  11:38:33,693 - #12 =
+INFO  11:38:33,693 - #14 22
+INFO  11:38:33,693 - #8 ,
+INFO  11:38:33,693 - #15 c
+INFO  11:38:33,693 - #12 =
+INFO  11:38:33,693 - #17 false
+INFO  11:38:33,693 - #5 ;
+INFO  11:38:33,693 - #3 {
+INFO  11:38:33,694 - #4 }
+INFO  11:38:33,709 - Deklarisana je promenljiva s tipa 1 na liniji 3
+INFO  11:38:33,709 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  11:38:33,709 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 11:38:33,709 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  11:38:33,710 - Deklarisana je promenljiva p tipa 1 i vrednosti 2 na liniji 7
+ERROR 11:38:33,710 - Semanticka greska na liniji 8 varijabli pui pogresno definisan tip
+ERROR 11:38:33,710 - Semanticka greska na liniji 9 varijabli ddddd pogresno definisan tip
+INFO  11:38:33,710 - Deklarisana je promenljiva false1 tipa 5 i vrednosti false na liniji 9
+INFO  11:38:33,711 - Deklarisana je promenljiva init tipa 5 i vrednosti true na liniji 9
+ERROR 11:38:33,711 - Semanticka greska na liniji 10 varijabli c pogresno definisan tip
+INFO  11:38:33,712 - Deklarisana je promenljiva b tipa 1 i vrednosti 22 na liniji 10
+INFO  11:38:33,712 - Deklarisana je promenljiva a tipa 1 i vrednosti 1 na liniji 10
+INFO  11:38:33,712 - Print calls = 0
+INFO  11:38:33,713 - Parsiranje uspesno zavrseno!

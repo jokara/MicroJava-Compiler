@@ -1,0 +1,48 @@
+INFO  17:29:25,348 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:29:25,383 - #2 program
+INFO  17:29:25,383 - #15 MJProgram
+INFO  17:29:25,384 - #15 int
+INFO  17:29:25,384 - #15 x
+INFO  17:29:25,385 - #5 ;
+INFO  17:29:25,385 - #15 int
+INFO  17:29:25,386 - #15 y
+INFO  17:29:25,386 - #5 ;
+INFO  17:29:25,386 - #15 int
+INFO  17:29:25,386 - #15 u
+INFO  17:29:25,386 - #25 [
+INFO  17:29:25,386 - #26 ]
+INFO  17:29:25,386 - #8 ,
+INFO  17:29:25,386 - #15 s
+INFO  17:29:25,387 - #8 ,
+INFO  17:29:25,387 - #15 i
+INFO  17:29:25,387 - #25 [
+INFO  17:29:25,387 - #26 ]
+INFO  17:29:25,387 - #5 ;
+INFO  17:29:25,387 - #15 char
+INFO  17:29:25,387 - #15 i
+INFO  17:29:25,388 - #5 ;
+INFO  17:29:25,388 - #43 const
+INFO  17:29:25,389 - #15 int
+INFO  17:29:25,390 - #15 in
+INFO  17:29:25,390 - #12 =
+INFO  17:29:25,390 - #16 c
+INFO  17:29:25,390 - #5 ;
+INFO  17:29:25,390 - #43 const
+INFO  17:29:25,391 - #15 int
+INFO  17:29:25,391 - #15 p
+INFO  17:29:25,391 - #12 =
+INFO  17:29:25,391 - #14 2
+INFO  17:29:25,391 - #5 ;
+INFO  17:29:25,391 - #3 {
+INFO  17:29:25,392 - #4 }
+INFO  17:29:25,410 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  17:29:25,410 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  17:29:25,410 - Deklarisana je promenljiva s tipa 1 na liniji 3
+INFO  17:29:25,410 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  17:29:25,410 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 17:29:25,410 - Semanticka greska na liniji 4 varijabla i vec definisana
+ERROR 17:29:25,411 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  17:29:25,411 - Deklarisana je promenljiva(niz) p tipa 1 na liniji 7
+INFO  17:29:25,411 - Deklarisana je promenljiva(niz) p tipa 1 na liniji 7
+INFO  17:29:25,411 - Print calls = 0
+INFO  17:29:25,412 - Parsiranje uspesno zavrseno!

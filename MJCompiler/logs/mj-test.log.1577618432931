@@ -1,0 +1,86 @@
+INFO  12:19:55,199 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:19:55,234 - #2 program
+INFO  12:19:55,235 - #15 MJProgram
+INFO  12:19:55,235 - #15 int
+INFO  12:19:55,235 - #15 u
+INFO  12:19:55,236 - #25 [
+INFO  12:19:55,236 - #26 ]
+INFO  12:19:55,236 - #8 ,
+INFO  12:19:55,236 - #15 s
+INFO  12:19:55,236 - #8 ,
+INFO  12:19:55,236 - #15 i
+INFO  12:19:55,236 - #25 [
+INFO  12:19:55,236 - #26 ]
+INFO  12:19:55,236 - #5 ;
+INFO  12:19:55,237 - #43 const
+INFO  12:19:55,237 - #15 int
+INFO  12:19:55,238 - #15 in
+INFO  12:19:55,238 - #12 =
+INFO  12:19:55,238 - #16 c
+INFO  12:19:55,238 - #5 ;
+INFO  12:19:55,238 - #43 const
+INFO  12:19:55,239 - #15 int
+INFO  12:19:55,239 - #15 p
+INFO  12:19:55,239 - #12 =
+INFO  12:19:55,239 - #14 2
+INFO  12:19:55,239 - #5 ;
+INFO  12:19:55,239 - #43 const
+INFO  12:19:55,240 - #15 char
+INFO  12:19:55,240 - #15 pui
+INFO  12:19:55,240 - #12 =
+INFO  12:19:55,240 - #16 a
+INFO  12:19:55,240 - #5 ;
+INFO  12:19:55,240 - #43 const
+INFO  12:19:55,240 - #15 bool
+INFO  12:19:55,240 - #15 init
+INFO  12:19:55,240 - #12 =
+INFO  12:19:55,240 - #17 true
+INFO  12:19:55,240 - #8 ,
+INFO  12:19:55,240 - #15 false1
+INFO  12:19:55,241 - #12 =
+INFO  12:19:55,241 - #17 false
+INFO  12:19:55,241 - #8 ,
+INFO  12:19:55,241 - #15 ddddd
+INFO  12:19:55,241 - #12 =
+INFO  12:19:55,241 - #14 5
+INFO  12:19:55,241 - #5 ;
+INFO  12:19:55,241 - #43 const
+INFO  12:19:55,242 - #15 int
+INFO  12:19:55,242 - #15 a
+INFO  12:19:55,242 - #12 =
+INFO  12:19:55,242 - #14 1
+INFO  12:19:55,242 - #8 ,
+INFO  12:19:55,242 - #15 b
+INFO  12:19:55,242 - #12 =
+INFO  12:19:55,243 - #14 22
+INFO  12:19:55,243 - #8 ,
+INFO  12:19:55,243 - #15 c
+INFO  12:19:55,243 - #12 =
+INFO  12:19:55,243 - #17 false
+INFO  12:19:55,243 - #5 ;
+INFO  12:19:55,243 - #3 {
+INFO  12:19:55,244 - #15 int
+INFO  12:19:55,245 - #15 fja
+INFO  12:19:55,245 - #6 (
+INFO  12:19:55,245 - #7 )
+INFO  12:19:55,246 - #3 {
+INFO  12:19:55,246 - #4 }
+INFO  12:19:55,246 - #15 int
+INFO  12:19:55,247 - #15 fja2
+INFO  12:19:55,252 - #6 (
+INFO  12:19:55,252 - #7 )
+INFO  12:19:55,252 - #3 {
+INFO  12:19:55,252 - #4 }
+INFO  12:19:55,252 - #4 }
+INFO  12:19:55,263 - Deklarisana je promenljiva s tipa 1 na liniji 3
+INFO  12:19:55,263 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  12:19:55,263 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 12:19:55,263 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  12:19:55,264 - Deklarisana je promenljiva p tipa 1 i vrednosti 2 na liniji 7
+INFO  12:19:55,264 - Deklarisana je promenljiva pui tipa 2 i vrednosti a na liniji 8
+ERROR 12:19:55,264 - Semanticka greska na liniji 9 varijabli ddddd pogresno definisan tip
+INFO  12:19:55,264 - Deklarisana je promenljiva false1 tipa 5 i vrednosti false na liniji 9
+INFO  12:19:55,264 - Deklarisana je promenljiva init tipa 5 i vrednosti true na liniji 9
+ERROR 12:19:55,264 - Semanticka greska na liniji 10 varijabli c pogresno definisan tip
+INFO  12:19:55,264 - Deklarisana je promenljiva b tipa 1 i vrednosti 22 na liniji 10
+INFO  12:19:55,264 - Deklarisana je promenljiva a tipa 1 i vrednosti 1 na liniji 10

@@ -1,0 +1,182 @@
+INFO  15:00:28,814 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:00:38,199 - #2 program
+INFO  15:00:38,200 - #15 MJProgram
+INFO  15:00:38,200 - #15 char
+INFO  15:00:38,201 - #15 r
+INFO  15:00:38,203 - #5 ;
+INFO  15:00:38,203 - #43 const
+INFO  15:00:38,204 - #15 char
+INFO  15:00:38,206 - #15 m
+INFO  15:00:38,206 - #12 =
+INFO  15:00:38,206 - #16 a
+INFO  15:00:38,206 - #8 ,
+INFO  15:00:38,207 - #15 n
+INFO  15:00:38,208 - #12 =
+INFO  15:00:38,208 - #16 s
+INFO  15:00:38,208 - #5 ;
+INFO  15:00:38,208 - #15 int
+INFO  15:00:38,209 - #15 b
+INFO  15:00:38,209 - #8 ,
+INFO  15:00:38,209 - #15 x
+INFO  15:00:38,209 - #25 [
+INFO  15:00:38,210 - #26 ]
+INFO  15:00:38,210 - #8 ,
+INFO  15:00:38,210 - #15 y
+INFO  15:00:38,210 - #25 [
+INFO  15:00:38,210 - #26 ]
+INFO  15:00:38,210 - #8 ,
+INFO  15:00:38,211 - #15 z
+INFO  15:00:38,211 - #25 [
+INFO  15:00:38,211 - #26 ]
+INFO  15:00:38,211 - #5 ;
+INFO  15:00:38,211 - #43 const
+INFO  15:00:38,212 - #15 bool
+INFO  15:00:38,212 - #15 flag
+INFO  15:00:38,212 - #12 =
+INFO  15:00:38,212 - #17 true
+INFO  15:00:38,212 - #8 ,
+INFO  15:00:38,212 - #15 k
+INFO  15:00:38,212 - #12 =
+INFO  15:00:38,212 - #17 false
+INFO  15:00:38,213 - #5 ;
+INFO  15:00:38,214 - #43 const
+INFO  15:00:38,214 - #15 int
+INFO  15:00:38,214 - #15 o
+INFO  15:00:38,215 - #12 =
+INFO  15:00:38,216 - #14 0
+INFO  15:00:38,216 - #8 ,
+INFO  15:00:38,216 - #15 p
+INFO  15:00:38,217 - #12 =
+INFO  15:00:38,217 - #14 1
+INFO  15:00:38,219 - #5 ;
+INFO  15:00:38,245 - #3 {
+INFO  15:00:38,246 - #15 int
+INFO  15:00:38,247 - #15 fja
+INFO  15:00:38,247 - #6 (
+INFO  15:00:38,249 - #15 int
+INFO  15:00:38,249 - #15 p
+INFO  15:00:38,249 - #8 ,
+INFO  15:00:38,249 - #15 int
+INFO  15:00:38,249 - #15 p2
+INFO  15:00:38,250 - #25 [
+INFO  15:00:38,250 - #26 ]
+INFO  15:00:38,250 - #8 ,
+INFO  15:00:38,255 - #15 bool
+INFO  15:00:38,256 - #15 m
+INFO  15:00:38,256 - #8 ,
+INFO  15:00:38,256 - #15 char
+INFO  15:00:38,272 - #15 c
+INFO  15:00:38,273 - #25 [
+INFO  15:00:38,273 - #26 ]
+INFO  15:00:38,273 - #7 )
+INFO  15:00:38,274 - #15 int
+INFO  15:00:38,274 - #15 f
+INFO  15:00:38,274 - #5 ;
+INFO  15:00:38,274 - #15 int
+INFO  15:00:38,275 - #15 y
+INFO  15:00:38,275 - #5 ;
+INFO  15:00:38,275 - #3 {
+INFO  15:00:38,275 - #9 print
+INFO  15:00:38,276 - #6 (
+INFO  15:00:38,276 - #15 p
+INFO  15:00:38,276 - #11 +
+INFO  15:00:38,278 - #14 3
+INFO  15:00:38,278 - #8 ,
+INFO  15:00:38,279 - #14 2
+INFO  15:00:38,279 - #7 )
+INFO  15:00:38,279 - #5 ;
+INFO  15:00:38,280 - #15 f
+INFO  15:00:38,280 - #12 =
+INFO  15:00:38,280 - #14 1
+INFO  15:00:38,280 - #5 ;
+INFO  15:00:38,280 - #15 m
+INFO  15:00:38,281 - #12 =
+INFO  15:00:38,282 - #17 true
+INFO  15:00:38,282 - #5 ;
+INFO  15:00:38,282 - #15 p
+INFO  15:00:38,282 - #12 =
+INFO  15:00:38,283 - #14 3
+INFO  15:00:38,283 - #11 +
+INFO  15:00:38,283 - #14 3
+INFO  15:00:38,283 - #5 ;
+INFO  15:00:38,284 - #15 p
+INFO  15:00:38,284 - #12 =
+INFO  15:00:38,284 - #14 3
+INFO  15:00:38,284 - #11 +
+INFO  15:00:38,284 - #24 new
+INFO  15:00:38,284 - #15 int
+INFO  15:00:38,284 - #5 ;
+INFO  15:00:38,285 - #15 p
+INFO  15:00:38,285 - #20 ++
+INFO  15:00:38,285 - #5 ;
+INFO  15:00:38,285 - #15 p
+INFO  15:00:38,285 - #12 =
+INFO  15:00:38,285 - #24 new
+INFO  15:00:38,286 - #15 int
+INFO  15:00:38,286 - #25 [
+INFO  15:00:38,286 - #14 1
+INFO  15:00:38,286 - #26 ]
+INFO  15:00:38,286 - #5 ;
+INFO  15:00:38,286 - #22 read
+INFO  15:00:38,287 - #6 (
+INFO  15:00:38,287 - #15 m
+INFO  15:00:38,287 - #7 )
+INFO  15:00:38,287 - #5 ;
+INFO  15:00:38,287 - #22 read
+INFO  15:00:38,287 - #6 (
+INFO  15:00:38,287 - #15 p
+INFO  15:00:38,288 - #7 )
+INFO  15:00:38,288 - #5 ;
+INFO  15:00:38,288 - #15 fja
+INFO  15:00:38,288 - #6 (
+INFO  15:00:38,288 - #14 2
+INFO  15:00:38,288 - #7 )
+INFO  15:00:38,289 - #5 ;
+INFO  15:00:38,289 - #10 return
+INFO  15:00:38,289 - #23 -
+INFO  15:00:38,289 - #15 p
+INFO  15:00:38,289 - #5 ;
+INFO  15:00:38,290 - #4 }
+INFO  15:00:38,290 - #15 int
+INFO  15:00:38,293 - #15 f
+INFO  15:00:38,293 - #6 (
+INFO  15:00:38,293 - #7 )
+INFO  15:00:38,294 - #3 {
+INFO  15:00:38,294 - #15 fja
+INFO  15:00:38,294 - #6 (
+INFO  15:00:38,294 - #14 2
+INFO  15:00:38,294 - #11 +
+INFO  15:00:38,294 - #14 3
+INFO  15:00:38,294 - #7 )
+INFO  15:00:38,295 - #5 ;
+INFO  15:00:38,295 - #10 return
+INFO  15:00:38,295 - #14 2
+INFO  15:00:38,295 - #5 ;
+INFO  15:00:38,295 - #4 }
+INFO  15:00:38,295 - #4 }
+INFO  15:00:38,393 - Deklarisana je promenljiva r tipa 2 na liniji 3
+INFO  15:00:38,394 - Deklarisana je promenljiva n tipa 2 i vrednosti s na liniji 4
+INFO  15:00:38,394 - Deklarisana je promenljiva m tipa 2 i vrednosti a na liniji 4
+INFO  15:00:38,394 - Deklarisana je promenljiva b tipa 1 na liniji 5
+INFO  15:00:38,394 - Deklarisana je promenljiva(niz) z tipa 1 na liniji 5
+INFO  15:00:38,394 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 5
+INFO  15:00:38,394 - Deklarisana je promenljiva(niz) x tipa 1 na liniji 5
+INFO  15:00:38,394 - Deklarisana je promenljiva k tipa 5 i vrednosti false na liniji 6
+INFO  15:00:38,395 - Deklarisana je promenljiva flag tipa 5 i vrednosti true na liniji 6
+INFO  15:00:38,395 - Deklarisana je promenljiva p tipa 1 i vrednosti 1 na liniji 7
+INFO  15:00:38,395 - Deklarisana je promenljiva o tipa 1 i vrednosti 0 na liniji 7
+INFO  15:00:38,395 - Procesira se metoda fja povratnog tipa 1 na liniji 11
+INFO  15:00:38,395 - Deklarisan je formalni parametar p tipa 1 na poziciji 0 na liniji 11
+INFO  15:00:38,395 - Deklarisan je formalni parametar(niz)p2 tipa 1 na poziciji 1 na liniji 11
+INFO  15:00:38,395 - Deklarisan je formalni parametar m tipa 5 na poziciji 2 na liniji 11
+INFO  15:00:38,396 - Deklarisan je formalni parametar(niz)c tipa 2 na poziciji 3 na liniji 11
+INFO  15:00:38,396 - Deklarisana je promenljiva f tipa 1 na liniji 11
+INFO  15:00:38,397 - Deklarisana je promenljiva y tipa 1 na liniji 11
+INFO  15:00:38,397 - Procesira se p na liniji 13 na liniji 13
+INFO  15:01:17,233 - Procesira se f na liniji 15 na liniji 15
+INFO  15:01:17,234 - Tipovi su kompatibilni  na liniji 15
+INFO  15:01:17,234 - Procesira se m na liniji 16 na liniji 16
+INFO  15:01:17,234 - Tipovi su kompatibilni  na liniji 16
+INFO  15:01:17,234 - Procesira se p na liniji 17 na liniji 17
+INFO  15:01:36,148 - Tipovi su kompatibilni  na liniji 17
+INFO  15:01:36,149 - Procesira se p na liniji 18 na liniji 18

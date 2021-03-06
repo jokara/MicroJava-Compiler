@@ -1,0 +1,33 @@
+INFO  15:17:22,699 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:17:22,737 - #2 program
+INFO  15:17:22,737 - #15 MJProgram
+INFO  15:17:22,737 - #15 int
+INFO  15:17:22,738 - #15 x
+INFO  15:17:22,738 - #5 ;
+INFO  15:17:22,739 - #15 int
+INFO  15:17:22,739 - #15 y
+INFO  15:17:22,739 - #5 ;
+INFO  15:17:22,739 - #15 int
+INFO  15:17:22,739 - #15 u
+INFO  15:17:22,739 - #25 [
+INFO  15:17:22,739 - #26 ]
+INFO  15:17:22,739 - #8 ,
+INFO  15:17:22,740 - #15 s
+INFO  15:17:22,740 - #8 ,
+INFO  15:17:22,740 - #15 i
+INFO  15:17:22,740 - #25 [
+INFO  15:17:22,740 - #26 ]
+INFO  15:17:22,740 - #5 ;
+INFO  15:17:22,740 - #15 char
+INFO  15:17:22,740 - #15 i
+INFO  15:17:22,741 - #5 ;
+INFO  15:17:22,741 - #3 {
+INFO  15:17:22,741 - #4 }
+INFO  15:17:22,748 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  15:17:22,748 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  15:17:22,748 - Deklarisana je promenljiva s tipa 1 na liniji 3
+INFO  15:17:22,749 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  15:17:22,749 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+ERROR 15:17:22,749 - Semanticka greska na liniji 4varijabla vec definisana
+INFO  15:17:22,749 - Print calls = 0
+INFO  15:17:22,750 - Parsiranje uspesno zavrseno!

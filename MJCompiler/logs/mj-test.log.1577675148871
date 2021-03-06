@@ -1,0 +1,63 @@
+INFO  03:05:31,855 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  03:05:31,913 - #2 program
+INFO  03:05:31,913 - #15 MJProgram
+INFO  03:05:31,914 - #15 int
+INFO  03:05:31,915 - #15 x
+INFO  03:05:31,916 - #5 ;
+INFO  03:05:31,916 - #15 int
+INFO  03:05:31,917 - #15 y
+INFO  03:05:31,918 - #5 ;
+INFO  03:05:31,918 - #15 int
+INFO  03:05:31,918 - #15 u
+INFO  03:05:31,918 - #25 [
+INFO  03:05:31,918 - #26 ]
+INFO  03:05:31,918 - #8 ,
+INFO  03:05:31,919 - #15 n
+INFO  03:05:31,920 - #8 ,
+INFO  03:05:31,920 - #15 i
+INFO  03:05:31,920 - #25 [
+INFO  03:05:31,920 - #26 ]
+INFO  03:05:31,920 - #5 ;
+INFO  03:05:31,921 - #3 {
+INFO  03:05:31,922 - #15 int
+INFO  03:05:31,924 - #15 fja
+INFO  03:05:31,924 - #6 (
+INFO  03:05:31,924 - #7 )
+INFO  03:05:31,925 - #15 int
+INFO  03:05:31,925 - #15 c
+INFO  03:05:31,925 - #5 ;
+INFO  03:05:31,925 - #3 {
+INFO  03:05:31,926 - #15 c
+INFO  03:05:31,926 - #12 =
+INFO  03:05:31,927 - #14 2
+INFO  03:05:31,927 - #5 ;
+INFO  03:05:31,927 - #10 return
+INFO  03:05:31,928 - #15 c
+INFO  03:05:31,928 - #11 +
+INFO  03:05:31,928 - #14 2
+INFO  03:05:31,929 - #5 ;
+INFO  03:05:31,929 - #4 }
+INFO  03:05:31,929 - #15 int
+INFO  03:05:31,930 - #15 main
+INFO  03:05:31,930 - #6 (
+INFO  03:05:31,931 - #7 )
+INFO  03:05:31,931 - #3 {
+INFO  03:05:31,931 - #15 fja
+INFO  03:05:31,931 - #6 (
+INFO  03:05:31,931 - #7 )
+INFO  03:05:31,931 - #5 ;
+INFO  03:05:31,932 - #4 }
+INFO  03:05:31,932 - #4 }
+INFO  03:05:31,951 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  03:05:31,951 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  03:05:31,951 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  03:05:31,951 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  03:05:31,952 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+INFO  03:05:31,952 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+INFO  03:05:31,952 - Deklarisana je promenljiva c tipa 1 na liniji 13
+INFO  03:05:31,952 - Procesira se c na liniji 14 na liniji 14
+INFO  03:05:31,952 - Procesira se c na liniji 15 na liniji 15
+INFO  03:05:31,953 - Procesira se metoda main povratnog tipa 1 na liniji 18
+INFO  03:05:31,953 - Procesira se fja na liniji 19 na liniji 19
+INFO  03:05:31,953 - Print calls = 0
+INFO  03:05:31,954 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,167 @@
+INFO  18:23:54,760 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:23:54,859 - #2 program
+INFO  18:23:54,859 - #15 MJProgram
+INFO  18:23:54,859 - #15 int
+INFO  18:23:54,861 - #15 x
+INFO  18:23:54,861 - #5 ;
+INFO  18:23:54,861 - #15 int
+INFO  18:23:54,862 - #15 y
+INFO  18:23:54,862 - #25 [
+INFO  18:23:54,862 - #26 ]
+INFO  18:23:54,862 - #5 ;
+INFO  18:23:54,862 - #3 {
+INFO  18:23:54,862 - #15 int
+INFO  18:23:54,863 - #15 fja
+INFO  18:23:54,864 - #6 (
+INFO  18:23:54,864 - #15 int
+INFO  18:23:54,864 - #15 c
+INFO  18:23:54,864 - #7 )
+INFO  18:23:54,865 - #3 {
+INFO  18:23:54,865 - #10 return
+INFO  18:23:54,865 - #14 7
+INFO  18:23:54,866 - #5 ;
+INFO  18:23:54,866 - #4 }
+INFO  18:23:54,866 - #13 void
+INFO  18:23:54,867 - #15 fff
+INFO  18:23:54,867 - #6 (
+INFO  18:23:54,867 - #7 )
+INFO  18:23:54,868 - #3 {
+INFO  18:23:54,868 - #4 }
+INFO  18:23:54,868 - #15 bool
+INFO  18:23:54,868 - #15 jjj
+INFO  18:23:54,868 - #6 (
+INFO  18:23:54,868 - #7 )
+INFO  18:23:54,868 - #3 {
+INFO  18:23:54,868 - #10 return
+INFO  18:23:54,868 - #17 false
+INFO  18:23:54,868 - #5 ;
+INFO  18:23:54,869 - #4 }
+INFO  18:23:54,869 - #15 int
+INFO  18:23:54,869 - #15 main
+INFO  18:23:54,869 - #6 (
+INFO  18:23:54,869 - #7 )
+INFO  18:23:54,869 - #3 {
+INFO  18:23:54,869 - #15 x
+INFO  18:23:54,869 - #12 =
+INFO  18:23:54,869 - #14 4
+INFO  18:23:54,870 - #5 ;
+INFO  18:23:54,870 - #15 y
+INFO  18:23:54,870 - #12 =
+INFO  18:23:54,870 - #24 new
+INFO  18:23:54,870 - #15 int
+INFO  18:23:54,870 - #25 [
+INFO  18:23:54,870 - #14 3
+INFO  18:23:54,870 - #26 ]
+INFO  18:23:54,871 - #5 ;
+INFO  18:23:54,871 - #15 y
+INFO  18:23:54,871 - #25 [
+INFO  18:23:54,871 - #14 0
+INFO  18:23:54,871 - #26 ]
+INFO  18:23:54,871 - #12 =
+INFO  18:23:54,871 - #14 1
+INFO  18:23:54,871 - #5 ;
+INFO  18:23:54,871 - #15 y
+INFO  18:23:54,871 - #25 [
+INFO  18:23:54,871 - #14 0
+INFO  18:23:54,871 - #26 ]
+INFO  18:23:54,872 - #20 ++
+INFO  18:23:54,872 - #5 ;
+INFO  18:23:54,872 - #15 y
+INFO  18:23:54,878 - #25 [
+INFO  18:23:54,878 - #14 1
+INFO  18:23:54,878 - #26 ]
+INFO  18:23:54,878 - #12 =
+INFO  18:23:54,878 - #14 5
+INFO  18:23:54,878 - #5 ;
+INFO  18:23:54,878 - #15 y
+INFO  18:23:54,878 - #25 [
+INFO  18:23:54,878 - #14 2
+INFO  18:23:54,878 - #26 ]
+INFO  18:23:54,878 - #12 =
+INFO  18:23:54,878 - #14 13
+INFO  18:23:54,879 - #5 ;
+INFO  18:23:54,879 - #9 print
+INFO  18:23:54,879 - #6 (
+INFO  18:23:54,879 - #15 y
+INFO  18:23:54,879 - #25 [
+INFO  18:23:54,879 - #15 y
+INFO  18:23:54,879 - #25 [
+INFO  18:23:54,879 - #14 0
+INFO  18:23:54,879 - #26 ]
+INFO  18:23:54,879 - #26 ]
+INFO  18:23:54,880 - #7 )
+INFO  18:23:54,880 - #5 ;
+INFO  18:23:54,880 - #9 print
+INFO  18:23:54,880 - #6 (
+INFO  18:23:54,880 - #14 2
+INFO  18:23:54,880 - #7 )
+INFO  18:23:54,881 - #5 ;
+INFO  18:23:54,881 - #9 print
+INFO  18:23:54,881 - #6 (
+INFO  18:23:54,881 - #15 x
+INFO  18:23:54,881 - #7 )
+INFO  18:23:54,881 - #5 ;
+INFO  18:23:54,881 - #15 fja
+INFO  18:23:54,881 - #6 (
+INFO  18:23:54,881 - #14 5
+INFO  18:23:54,882 - #7 )
+INFO  18:23:54,882 - #5 ;
+INFO  18:23:54,883 - #9 print
+INFO  18:23:54,883 - #6 (
+INFO  18:23:54,883 - #15 fja
+INFO  18:23:54,883 - #6 (
+INFO  18:23:54,883 - #14 5
+INFO  18:23:54,883 - #7 )
+INFO  18:23:54,883 - #7 )
+INFO  18:23:54,883 - #5 ;
+INFO  18:23:54,884 - #9 print
+INFO  18:23:54,884 - #6 (
+INFO  18:23:54,884 - #14 2
+INFO  18:23:54,884 - #11 +
+INFO  18:23:54,884 - #14 8
+INFO  18:23:54,885 - #7 )
+INFO  18:23:54,885 - #5 ;
+INFO  18:23:54,885 - #9 print
+INFO  18:23:54,885 - #6 (
+INFO  18:23:54,885 - #14 8
+INFO  18:23:54,885 - #23 -
+INFO  18:23:54,885 - #14 2
+INFO  18:23:54,886 - #7 )
+INFO  18:23:54,886 - #5 ;
+INFO  18:23:54,886 - #15 fff
+INFO  18:23:54,886 - #6 (
+INFO  18:23:54,886 - #7 )
+INFO  18:23:54,886 - #5 ;
+INFO  18:23:54,886 - #10 return
+INFO  18:23:54,886 - #14 1
+INFO  18:23:54,886 - #5 ;
+INFO  18:23:54,886 - #4 }
+INFO  18:23:54,886 - #4 }
+INFO  18:23:54,900 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  18:23:54,900 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 3
+INFO  18:23:54,900 - Procesira se metoda fja povratnog tipa 1 na liniji 7
+INFO  18:23:54,900 - Deklarisan je formalni parametar c tipa 1 na poziciji 0 na liniji 7
+INFO  18:23:54,900 - Return tip se slaze sa tipom funkcije na liniji 9
+INFO  18:23:54,900 - Procesira se metoda fff bez povratnog tipa (0) na liniji 13
+INFO  18:23:54,900 - Procesira se metoda jjj povratnog tipa 5 na liniji 18
+INFO  18:23:54,900 - Return tip se slaze sa tipom funkcije na liniji 20
+INFO  18:23:54,900 - Procesira se metoda main povratnog tipa 1 na liniji 24
+INFO  18:23:54,900 - Tipovi su kompatibilni  na liniji 25
+INFO  18:23:54,901 - Tipovi su kompatibilni  na liniji 26
+INFO  18:23:54,901 - Procesira se y na liniji 27 na liniji 27
+INFO  18:23:54,901 - Tipovi su kompatibilni  na liniji 27
+INFO  18:23:54,901 - Procesira se y na liniji 28 na liniji 28
+INFO  18:23:54,901 - Tip je kompatibilan sa operatorom ++ na liniji 28
+INFO  18:23:54,901 - Procesira se y na liniji 29 na liniji 29
+INFO  18:23:54,901 - Tipovi su kompatibilni  na liniji 29
+INFO  18:23:54,901 - Procesira se y na liniji 30 na liniji 30
+INFO  18:23:54,901 - Tipovi su kompatibilni  na liniji 30
+INFO  18:23:54,901 - Procesira se y na liniji 32 na liniji 32
+INFO  18:23:54,901 - Procesira se y na liniji 32 na liniji 32
+INFO  18:23:54,902 - Pronadjen je poziv funkcije fja na liniji 35
+INFO  18:23:54,902 - Pronadjen je poziv funkcijefja na liniji 36
+INFO  18:23:54,902 - Pronadjen je poziv funkcijefff na liniji 39
+INFO  18:23:54,902 - Return tip se slaze sa tipom funkcije na liniji 40
+INFO  18:23:54,902 - Print calls = 6
+INFO  18:23:54,903 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:23:54,916 - Parsiranje uspesno zavrseno!

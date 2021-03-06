@@ -1,0 +1,169 @@
+INFO  18:06:23,233 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:06:23,271 - #2 program
+INFO  18:06:23,272 - #15 test302
+INFO  18:06:23,272 - #43 const
+INFO  18:06:23,273 - #15 int
+INFO  18:06:23,273 - #15 jedan
+INFO  18:06:23,274 - #12 =
+INFO  18:06:23,274 - #14 1
+INFO  18:06:23,274 - #5 ;
+INFO  18:06:23,274 - #15 int
+INFO  18:06:23,274 - #15 i
+INFO  18:06:23,274 - #5 ;
+INFO  18:06:23,274 - #15 bool
+INFO  18:06:23,275 - #15 ibool
+INFO  18:06:23,275 - #5 ;
+INFO  18:06:23,275 - #15 int
+INFO  18:06:23,275 - #15 niz
+INFO  18:06:23,275 - #25 [
+INFO  18:06:23,275 - #26 ]
+INFO  18:06:23,275 - #5 ;
+INFO  18:06:23,275 - #3 {
+INFO  18:06:23,276 - #15 int
+INFO  18:06:23,276 - #15 sum
+INFO  18:06:23,277 - #6 (
+INFO  18:06:23,277 - #15 int
+INFO  18:06:23,277 - #15 z
+INFO  18:06:23,277 - #8 ,
+INFO  18:06:23,277 - #15 int
+INFO  18:06:23,277 - #15 d
+INFO  18:06:23,277 - #7 )
+INFO  18:06:23,278 - #3 {
+INFO  18:06:23,278 - #10 return
+INFO  18:06:23,278 - #15 z
+INFO  18:06:23,278 - #11 +
+INFO  18:06:23,279 - #15 d
+INFO  18:06:23,279 - #5 ;
+INFO  18:06:23,279 - #4 }
+INFO  18:06:23,280 - #15 int
+INFO  18:06:23,281 - #15 inkrement
+INFO  18:06:23,281 - #6 (
+INFO  18:06:23,281 - #15 int
+INFO  18:06:23,281 - #15 a
+INFO  18:06:23,281 - #8 ,
+INFO  18:06:23,281 - #15 int
+INFO  18:06:23,281 - #15 inc
+INFO  18:06:23,281 - #7 )
+INFO  18:06:23,281 - #15 int
+INFO  18:06:23,281 - #15 pom
+INFO  18:06:23,281 - #5 ;
+INFO  18:06:23,281 - #3 {
+INFO  18:06:23,282 - #9 print
+INFO  18:06:23,282 - #6 (
+INFO  18:06:23,282 - #15 a
+INFO  18:06:23,282 - #7 )
+INFO  18:06:23,282 - #5 ;
+INFO  18:06:23,282 - #9 print
+INFO  18:06:23,282 - #6 (
+INFO  18:06:23,282 - #16 -
+INFO  18:06:23,282 - #7 )
+INFO  18:06:23,283 - #5 ;
+INFO  18:06:23,283 - #9 print
+INFO  18:06:23,283 - #6 (
+INFO  18:06:23,283 - #15 inc
+INFO  18:06:23,283 - #7 )
+INFO  18:06:23,283 - #5 ;
+INFO  18:06:23,283 - #9 print
+INFO  18:06:23,283 - #6 (
+INFO  18:06:23,283 - #15 eol
+INFO  18:06:23,283 - #7 )
+INFO  18:06:23,283 - #5 ;
+INFO  18:06:23,283 - #18 if
+INFO  18:06:23,284 - #6 (
+INFO  18:06:23,285 - #15 inc
+INFO  18:06:23,285 - #37 ==
+INFO  18:06:23,285 - #15 jedan
+INFO  18:06:23,286 - #7 )
+INFO  18:06:23,287 - #15 pom
+INFO  18:06:23,287 - #12 =
+INFO  18:06:23,287 - #14 1
+INFO  18:06:23,287 - #5 ;
+INFO  18:06:23,287 - #19 else
+INFO  18:06:23,287 - #18 if
+INFO  18:06:23,288 - #6 (
+INFO  18:06:23,288 - #15 inc
+INFO  18:06:23,288 - #37 ==
+INFO  18:06:23,289 - #14 2
+INFO  18:06:23,289 - #7 )
+INFO  18:06:23,289 - #15 pom
+INFO  18:06:23,289 - #12 =
+INFO  18:06:23,289 - #15 a
+INFO  18:06:23,289 - #5 ;
+INFO  18:06:23,289 - #10 return
+INFO  18:06:23,289 - #15 sum
+INFO  18:06:23,290 - #6 (
+INFO  18:06:23,290 - #15 a
+INFO  18:06:23,290 - #8 ,
+INFO  18:06:23,290 - #15 pom
+INFO  18:06:23,290 - #7 )
+INFO  18:06:23,290 - #5 ;
+INFO  18:06:23,290 - #4 }
+INFO  18:06:23,290 - #15 bool
+INFO  18:06:23,290 - #15 verify
+INFO  18:06:23,290 - #6 (
+INFO  18:06:23,291 - #7 )
+INFO  18:06:23,291 - #3 {
+INFO  18:06:23,291 - #9 print
+INFO  18:06:23,291 - #6 (
+INFO  18:06:23,291 - #16 v
+INFO  18:06:23,291 - #7 )
+INFO  18:06:23,291 - #5 ;
+INFO  18:06:23,291 - #10 return
+INFO  18:06:23,291 - #17 false
+INFO  18:06:23,291 - #5 ;
+INFO  18:06:23,292 - #4 }
+INFO  18:06:23,292 - #13 void
+INFO  18:06:23,292 - #15 main
+INFO  18:06:23,292 - #6 (
+INFO  18:06:23,292 - #7 )
+INFO  18:06:23,292 - #3 {
+INFO  18:06:23,292 - #15 i
+INFO  18:06:23,292 - #12 =
+INFO  18:06:23,292 - #14 0
+INFO  18:06:23,292 - #5 ;
+INFO  18:06:23,293 - #31 for
+INFO  18:06:23,293 - #6 (
+INFO  18:06:23,293 - #5 ;
+INFO  18:06:23,294 - #15 i
+INFO  18:06:23,294 - #41 <
+INFO  18:06:23,294 - #14 3
+INFO  18:06:23,295 - #5 ;
+INFO  18:06:23,295 - #7 )
+INFO  18:06:23,296 - #3 {
+INFO  18:06:23,296 - #15 i
+INFO  18:06:23,300 - #12 =
+INFO  18:06:23,300 - #15 inkrement
+INFO  18:06:23,300 - #6 (
+INFO  18:06:23,300 - #15 i
+INFO  18:06:23,300 - #8 ,
+INFO  18:06:23,300 - #14 1
+INFO  18:06:23,300 - #7 )
+INFO  18:06:23,301 - #5 ;
+INFO  18:06:23,301 - #4 }
+INFO  18:06:23,301 - #4 }
+INFO  18:06:23,301 - #4 }
+INFO  18:06:23,310 - Deklarisana je promenljiva jedan tipa 1 i vrednosti 1 na liniji 5
+INFO  18:06:23,310 - Deklarisana je promenljiva i tipa 1 na liniji 7
+INFO  18:06:23,310 - Deklarisana je promenljiva ibool tipa 5 na liniji 8
+INFO  18:06:23,310 - Deklarisana je promenljiva(niz) niz tipa 1 na liniji 10
+INFO  18:06:23,310 - Procesira se metoda sum povratnog tipa 1 na liniji 13
+INFO  18:06:23,310 - Deklarisan je formalni parametar z tipa 1 na poziciji 0 na liniji 13
+INFO  18:06:23,310 - Deklarisan je formalni parametar d tipa 1 na poziciji 1 na liniji 13
+INFO  18:06:23,311 - Return tip se slaze sa tipom funkcije na liniji 16
+INFO  18:06:23,311 - Procesira se metoda inkrement povratnog tipa 1 na liniji 20
+INFO  18:06:23,311 - Deklarisan je formalni parametar a tipa 1 na poziciji 0 na liniji 20
+INFO  18:06:23,311 - Deklarisan je formalni parametar inc tipa 1 na poziciji 1 na liniji 20
+INFO  18:06:23,311 - Deklarisana je promenljiva pom tipa 1 na liniji 20
+INFO  18:06:23,311 - Tipovi su kompatibilni  na liniji 24
+INFO  18:06:23,311 - Tipovi su kompatibilni  na liniji 25
+INFO  18:06:23,311 - Pronadjen je poziv funkcijesum na liniji 28
+INFO  18:06:23,311 - Return tip se slaze sa tipom funkcije na liniji 28
+INFO  18:06:23,311 - Procesira se metoda verify povratnog tipa 5 na liniji 31
+INFO  18:06:23,311 - Return tip se slaze sa tipom funkcije na liniji 33
+INFO  18:06:23,311 - Procesira se metoda main bez povratnog tipa (0) na liniji 36
+INFO  18:06:23,311 - Tipovi su kompatibilni  na liniji 38
+INFO  18:06:23,311 - Pronadjen je poziv funkcijeinkrement na liniji 41
+INFO  18:06:23,311 - Tipovi su kompatibilni  na liniji 41
+INFO  18:06:23,312 - Print calls = 5
+INFO  18:06:23,313 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:06:23,327 - Parsiranje uspesno zavrseno!

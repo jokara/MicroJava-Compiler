@@ -1,0 +1,30 @@
+INFO  12:50:13,607 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:50:13,631 - #2 program
+INFO  12:50:13,631 - #15 MJProgram
+INFO  12:50:13,631 - #15 int
+INFO  12:50:13,632 - #15 x
+INFO  12:50:13,632 - #5 ;
+INFO  12:50:13,632 - #15 int
+INFO  12:50:13,633 - #15 y
+INFO  12:50:13,633 - #5 ;
+INFO  12:50:13,633 - #15 int
+INFO  12:50:13,633 - #15 z
+INFO  12:50:13,633 - #8 ,
+INFO  12:50:13,633 - #15 t
+INFO  12:50:13,633 - #8 ,
+INFO  12:50:13,633 - #15 a
+INFO  12:50:13,633 - #25 [
+INFO  12:50:13,633 - #26 ]
+INFO  12:50:13,633 - #8 ,
+INFO  12:50:13,634 - #15 b
+INFO  12:50:13,634 - #25 [
+INFO  12:50:13,634 - #26 ]
+INFO  12:50:13,634 - #8 ,
+INFO  12:50:13,634 - #15 c
+INFO  12:50:13,634 - #5 ;
+INFO  12:50:13,634 - #3 {
+INFO  12:50:13,635 - #36 enum
+ERROR 12:50:13,635 - 
+Sintaksna greska na liniji 6
+ERROR 12:50:13,635 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6
+ERROR 12:50:13,635 - Parsiranje NIJE uspesno zavrseno!

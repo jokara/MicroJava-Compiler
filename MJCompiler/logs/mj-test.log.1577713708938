@@ -1,0 +1,68 @@
+INFO  14:46:20,434 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:46:20,518 - #2 program
+INFO  14:46:20,518 - #15 MJProgram
+INFO  14:46:20,519 - #15 int
+INFO  14:46:20,520 - #15 x
+INFO  14:46:20,522 - #5 ;
+INFO  14:46:20,522 - #15 int
+INFO  14:46:20,523 - #15 y
+INFO  14:46:20,523 - #5 ;
+INFO  14:46:20,523 - #15 int
+INFO  14:46:20,523 - #15 u
+INFO  14:46:20,523 - #25 [
+INFO  14:46:20,523 - #26 ]
+INFO  14:46:20,523 - #8 ,
+INFO  14:46:20,523 - #15 n
+INFO  14:46:20,523 - #8 ,
+INFO  14:46:20,523 - #15 i
+INFO  14:46:20,524 - #25 [
+INFO  14:46:20,524 - #26 ]
+INFO  14:46:20,524 - #5 ;
+INFO  14:46:20,524 - #3 {
+INFO  14:46:20,524 - #15 int
+INFO  14:46:20,525 - #15 fja
+INFO  14:46:20,525 - #6 (
+INFO  14:46:20,526 - #7 )
+INFO  14:46:20,526 - #15 int
+INFO  14:46:20,527 - #15 c
+INFO  14:46:20,527 - #5 ;
+INFO  14:46:20,527 - #15 int
+INFO  14:46:20,527 - #15 b
+INFO  14:46:20,527 - #5 ;
+INFO  14:46:20,527 - #3 {
+INFO  14:46:20,527 - #15 c
+INFO  14:46:20,529 - #12 =
+INFO  14:46:20,530 - #14 2
+INFO  14:46:20,530 - #5 ;
+INFO  14:46:20,531 - #10 return
+INFO  14:46:20,531 - #15 c
+INFO  14:46:20,531 - #11 +
+INFO  14:46:20,531 - #14 2
+INFO  14:46:20,532 - #5 ;
+INFO  14:46:20,533 - #4 }
+INFO  14:46:20,533 - #15 int
+INFO  14:46:20,534 - #15 main
+INFO  14:46:20,534 - #6 (
+INFO  14:46:20,534 - #7 )
+INFO  14:46:20,534 - #3 {
+INFO  14:46:20,534 - #15 fja
+INFO  14:46:20,534 - #6 (
+INFO  14:46:20,534 - #7 )
+INFO  14:46:20,535 - #5 ;
+INFO  14:46:20,535 - #4 }
+INFO  14:46:20,535 - #4 }
+INFO  14:46:20,550 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  14:46:20,550 - Deklarisana je promenljiva y tipa 1 na liniji 2
+INFO  14:46:20,550 - Deklarisana je promenljiva n tipa 1 na liniji 3
+INFO  14:46:20,550 - Deklarisana je promenljiva(niz) i tipa 1 na liniji 3
+INFO  14:46:20,550 - Deklarisana je promenljiva(niz) u tipa 1 na liniji 3
+INFO  14:46:20,550 - Procesira se metoda fja povratnog tipa 1 na liniji 13
+INFO  14:46:20,551 - Deklarisana je promenljiva c tipa 1 na liniji 13
+INFO  14:46:20,551 - Deklarisana je promenljiva b tipa 1 na liniji 13
+INFO  14:46:20,551 - Procesira se c na liniji 14 na liniji 14
+INFO  14:46:20,551 - Procesira se c na liniji 15 na liniji 15
+INFO  14:46:20,552 - Procesira se metoda main povratnog tipa 1 na liniji 18
+INFO  14:46:20,552 - Procesira se fja na liniji 19 na liniji 19
+ERROR 14:46:20,552 - Semanticka greska na liniji 18 funkcija main nema return iskaz
+INFO  14:46:20,552 - Print calls = 0
+INFO  14:46:20,554 - Parsiranje uspesno zavrseno!

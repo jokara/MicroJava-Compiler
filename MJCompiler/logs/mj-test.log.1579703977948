@@ -1,0 +1,221 @@
+INFO  14:31:50,892 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:31:51,000 - #2 program
+INFO  14:31:51,001 - #15 MJProgram
+INFO  14:31:51,001 - #43 const
+INFO  14:31:51,006 - #15 char
+INFO  14:31:51,011 - #15 r
+INFO  14:31:51,012 - #12 =
+INFO  14:31:51,012 - #16 a
+INFO  14:31:51,012 - #5 ;
+INFO  14:31:51,012 - #43 const
+INFO  14:31:51,013 - #15 char
+INFO  14:31:51,013 - #15 m
+INFO  14:31:51,013 - #12 =
+INFO  14:31:51,013 - #16 a
+INFO  14:31:51,014 - #8 ,
+INFO  14:31:51,014 - #15 n
+INFO  14:31:51,014 - #12 =
+INFO  14:31:51,014 - #16 s
+INFO  14:31:51,014 - #5 ;
+INFO  14:31:51,014 - #15 int
+INFO  14:31:51,015 - #15 b
+INFO  14:31:51,015 - #8 ,
+INFO  14:31:51,016 - #15 x
+INFO  14:31:51,016 - #25 [
+INFO  14:31:51,016 - #26 ]
+INFO  14:31:51,016 - #8 ,
+INFO  14:31:51,016 - #15 y
+INFO  14:31:51,016 - #25 [
+INFO  14:31:51,016 - #26 ]
+INFO  14:31:51,016 - #8 ,
+INFO  14:31:51,016 - #15 z
+INFO  14:31:51,016 - #25 [
+INFO  14:31:51,017 - #26 ]
+INFO  14:31:51,017 - #5 ;
+INFO  14:31:51,017 - #43 const
+INFO  14:31:51,018 - #15 bool
+INFO  14:31:51,018 - #15 flag
+INFO  14:31:51,018 - #12 =
+INFO  14:31:51,018 - #17 true
+INFO  14:31:51,019 - #8 ,
+INFO  14:31:51,019 - #15 k
+INFO  14:31:51,019 - #12 =
+INFO  14:31:51,019 - #17 false
+INFO  14:31:51,019 - #5 ;
+INFO  14:31:51,019 - #43 const
+INFO  14:31:51,020 - #15 int
+INFO  14:31:51,020 - #15 o
+INFO  14:31:51,020 - #12 =
+INFO  14:31:51,021 - #14 0
+INFO  14:31:51,021 - #8 ,
+INFO  14:31:51,021 - #15 p
+INFO  14:31:51,021 - #12 =
+INFO  14:31:51,021 - #14 1
+INFO  14:31:51,021 - #5 ;
+INFO  14:31:51,021 - #3 {
+INFO  14:31:51,022 - #15 int
+INFO  14:31:51,023 - #15 ml
+INFO  14:31:51,023 - #6 (
+INFO  14:31:51,024 - #7 )
+INFO  14:31:51,024 - #3 {
+INFO  14:31:51,024 - #10 return
+INFO  14:31:51,025 - #14 1
+INFO  14:31:51,025 - #5 ;
+INFO  14:31:51,026 - #4 }
+INFO  14:31:51,026 - #15 int
+INFO  14:31:51,027 - #15 sl
+INFO  14:31:51,027 - #6 (
+INFO  14:31:51,028 - #7 )
+INFO  14:31:51,028 - #3 {
+INFO  14:31:51,028 - #4 }
+INFO  14:31:51,028 - #15 bool
+INFO  14:31:51,028 - #15 kl
+INFO  14:31:51,028 - #6 (
+INFO  14:31:51,029 - #7 )
+INFO  14:31:51,029 - #3 {
+INFO  14:31:51,029 - #10 return
+INFO  14:31:51,029 - #16 a
+INFO  14:31:51,029 - #5 ;
+INFO  14:31:51,029 - #4 }
+INFO  14:31:51,029 - #15 bool
+INFO  14:31:51,030 - #15 ll
+INFO  14:31:51,030 - #6 (
+INFO  14:31:51,030 - #7 )
+INFO  14:31:51,030 - #3 {
+INFO  14:31:51,030 - #10 return
+INFO  14:31:51,030 - #17 false
+INFO  14:31:51,030 - #5 ;
+INFO  14:31:51,030 - #4 }
+INFO  14:31:51,031 - #13 void
+INFO  14:31:51,031 - #15 sss
+INFO  14:31:51,031 - #6 (
+INFO  14:31:51,031 - #7 )
+INFO  14:31:51,031 - #3 {
+INFO  14:31:51,031 - #15 r
+INFO  14:31:51,031 - #12 =
+INFO  14:31:51,032 - #16 a
+INFO  14:31:51,032 - #5 ;
+INFO  14:31:51,032 - #15 b
+INFO  14:31:51,033 - #12 =
+INFO  14:31:51,033 - #14 4
+INFO  14:31:51,033 - #11 +
+INFO  14:31:51,033 - #14 1
+INFO  14:31:51,034 - #5 ;
+INFO  14:31:51,035 - #15 b
+INFO  14:31:51,035 - #12 =
+INFO  14:31:51,035 - #14 3
+INFO  14:31:51,035 - #11 +
+INFO  14:31:51,035 - #16 a
+INFO  14:31:51,035 - #5 ;
+INFO  14:31:51,035 - #15 b
+INFO  14:31:51,035 - #12 =
+INFO  14:31:51,036 - #15 b
+INFO  14:31:51,036 - #11 +
+INFO  14:31:51,036 - #14 2
+INFO  14:31:51,037 - #5 ;
+INFO  14:31:51,037 - #15 b
+INFO  14:31:51,037 - #12 =
+INFO  14:31:51,037 - #15 b
+INFO  14:31:51,037 - #5 ;
+INFO  14:31:51,038 - #9 print
+INFO  14:31:51,038 - #6 (
+INFO  14:31:51,038 - #14 3
+INFO  14:31:51,038 - #11 +
+INFO  14:31:51,039 - #14 3
+INFO  14:31:51,039 - #7 )
+INFO  14:31:51,039 - #5 ;
+INFO  14:31:51,039 - #9 print
+INFO  14:31:51,039 - #6 (
+INFO  14:31:51,039 - #15 b
+INFO  14:31:51,039 - #11 +
+INFO  14:31:51,040 - #15 b
+INFO  14:31:51,040 - #8 ,
+INFO  14:31:51,040 - #14 3
+INFO  14:31:51,045 - #7 )
+INFO  14:31:51,045 - #5 ;
+INFO  14:31:51,045 - #15 b
+INFO  14:31:51,046 - #12 =
+INFO  14:31:51,046 - #14 8
+INFO  14:31:51,046 - #28 *
+INFO  14:31:51,046 - #14 7
+INFO  14:31:51,046 - #5 ;
+INFO  14:31:51,046 - #15 b
+INFO  14:31:51,046 - #12 =
+INFO  14:31:51,046 - #14 8
+INFO  14:31:51,046 - #28 *
+INFO  14:31:51,047 - #17 true
+INFO  14:31:51,047 - #5 ;
+INFO  14:31:51,047 - #15 x
+INFO  14:31:51,047 - #25 [
+INFO  14:31:51,047 - #14 2
+INFO  14:31:51,047 - #26 ]
+INFO  14:31:51,047 - #12 =
+INFO  14:31:51,047 - #14 4
+INFO  14:31:51,047 - #5 ;
+INFO  14:31:51,047 - #15 x
+INFO  14:31:51,047 - #25 [
+INFO  14:31:51,047 - #14 2
+INFO  14:31:51,047 - #11 +
+INFO  14:31:51,047 - #14 2
+INFO  14:31:51,047 - #26 ]
+INFO  14:31:51,047 - #12 =
+INFO  14:31:51,047 - #15 b
+INFO  14:31:51,047 - #5 ;
+INFO  14:31:51,047 - #15 b
+INFO  14:31:51,048 - #12 =
+INFO  14:31:51,048 - #23 -
+INFO  14:31:51,048 - #15 b
+INFO  14:31:51,048 - #5 ;
+INFO  14:31:51,048 - #15 b
+INFO  14:31:51,048 - #12 =
+INFO  14:31:51,048 - #23 -
+INFO  14:31:51,048 - #14 3
+INFO  14:31:51,048 - #28 *
+INFO  14:31:51,048 - #14 5
+INFO  14:31:51,048 - #5 ;
+INFO  14:31:51,048 - #15 b
+INFO  14:31:51,048 - #12 =
+INFO  14:31:51,048 - #23 -
+INFO  14:31:51,048 - #16 a
+INFO  14:31:51,048 - #5 ;
+INFO  14:31:51,048 - #4 }
+INFO  14:31:51,048 - #4 }
+INFO  14:31:51,066 - Deklarisana je promenljiva r tipa 2 i vrednosti a na liniji 3
+INFO  14:31:51,066 - Deklarisana je promenljiva n tipa 2 i vrednosti s na liniji 4
+INFO  14:31:51,066 - Deklarisana je promenljiva m tipa 2 i vrednosti a na liniji 4
+INFO  14:31:51,066 - Deklarisana je promenljiva b tipa 1 na liniji 5
+INFO  14:31:51,066 - Deklarisana je promenljiva(niz) z tipa 1 na liniji 5
+INFO  14:31:51,066 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 5
+INFO  14:31:51,067 - Deklarisana je promenljiva(niz) x tipa 1 na liniji 5
+INFO  14:31:51,067 - Deklarisana je promenljiva k tipa 5 i vrednosti false na liniji 6
+INFO  14:31:51,067 - Deklarisana je promenljiva flag tipa 5 i vrednosti true na liniji 6
+INFO  14:31:51,067 - Deklarisana je promenljiva p tipa 1 i vrednosti 1 na liniji 7
+INFO  14:31:51,067 - Deklarisana je promenljiva o tipa 1 i vrednosti 0 na liniji 7
+INFO  14:31:51,067 - Procesira se metoda ml povratnog tipa 1 na liniji 11
+INFO  14:31:51,067 - Return tip se slaze sa tipom funkcije na liniji 13
+INFO  14:31:51,067 - Procesira se metoda sl povratnog tipa 1 na liniji 16
+ERROR 14:31:51,067 - Semanticka greska na liniji 16 funkcija sl nema return iskaz
+INFO  14:31:51,067 - Procesira se metoda kl povratnog tipa 5 na liniji 21
+ERROR 14:31:51,068 - Semanticka greska na liniji 23 tip izraza u return se ne slaze sa tipom povratne vrednosti
+INFO  14:31:51,068 - Procesira se metoda ll povratnog tipa 5 na liniji 27
+INFO  14:31:51,068 - Return tip se slaze sa tipom funkcije na liniji 29
+INFO  14:31:51,068 - Procesira se metoda sss bez povratnog tipa (0) na liniji 35
+ERROR 14:31:51,068 - Semanticka greska na liniji 36 konstanti se ne moze promeniti vrednost
+INFO  14:31:51,068 - Tipovi su kompatibilni  na liniji 37
+ERROR 14:31:51,068 - Semanticka greska na liniji 38 nisu tipovi kompatibilni u izrazu za sabiranje/oduzimanje
+ERROR 14:31:51,068 - Semanticka greska na liniji 38 nekompatibilni tipovi u dodeli vrednosti
+INFO  14:31:51,068 - Tipovi su kompatibilni  na liniji 39
+INFO  14:31:51,068 - Tipovi su kompatibilni  na liniji 40
+INFO  14:31:51,068 - Tipovi su kompatibilni  na liniji 43
+ERROR 14:31:51,068 - Semanticka greska na liniji 44 nisu tipovi kompatibilni u izrazu za mnozenje/deljenje
+ERROR 14:31:51,068 - Semanticka greska na liniji 44 nekompatibilni tipovi u dodeli vrednosti
+INFO  14:31:51,068 - Procesira se x na liniji 45 na liniji 45
+INFO  14:31:51,068 - Tipovi su kompatibilni  na liniji 45
+INFO  14:31:51,068 - Procesira se x na liniji 46 na liniji 46
+INFO  14:31:51,069 - Tipovi su kompatibilni  na liniji 46
+INFO  14:31:51,069 - Tipovi su kompatibilni  na liniji 47
+INFO  14:31:51,069 - Tipovi su kompatibilni  na liniji 48
+ERROR 14:31:51,069 - Semanticka greska na liniji 49 nekompatibilni tipovi za operator minus
+ERROR 14:31:51,069 - Semanticka greska na liniji 49 nekompatibilni tipovi u dodeli vrednosti
+INFO  14:31:51,069 - Print calls = 2
+INFO  14:31:51,070 - Parsiranje uspesno zavrseno!

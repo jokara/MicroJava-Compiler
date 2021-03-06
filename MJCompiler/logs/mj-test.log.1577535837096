@@ -1,0 +1,14 @@
+INFO  13:20:08,859 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:20:08,898 - #2 program
+INFO  13:20:08,898 - #15 MJProgram
+INFO  13:20:08,898 - #15 int
+INFO  13:20:08,899 - #15 x
+INFO  13:20:08,899 - #5 ;
+INFO  13:20:08,900 - #15 int
+INFO  13:20:08,900 - #15 y
+INFO  13:20:08,900 - #5 ;
+INFO  13:20:08,900 - #43 const
+ERROR 13:20:08,900 - 
+Sintaksna greska na liniji 3
+ERROR 13:20:08,901 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 3
+ERROR 13:20:08,901 - Parsiranje NIJE uspesno zavrseno!

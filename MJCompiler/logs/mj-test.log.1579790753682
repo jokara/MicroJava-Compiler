@@ -1,0 +1,153 @@
+INFO  15:45:32,729 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:45:32,767 - #2 program
+INFO  15:45:32,768 - #15 MJProgram
+INFO  15:45:32,768 - #43 const
+INFO  15:45:32,769 - #15 char
+INFO  15:45:32,769 - #15 r
+INFO  15:45:32,770 - #12 =
+INFO  15:45:32,770 - #16 a
+INFO  15:45:32,770 - #5 ;
+INFO  15:45:32,770 - #43 const
+INFO  15:45:32,770 - #15 char
+INFO  15:45:32,770 - #15 m
+INFO  15:45:32,771 - #12 =
+INFO  15:45:32,771 - #16 a
+INFO  15:45:32,771 - #8 ,
+INFO  15:45:32,771 - #15 n
+INFO  15:45:32,771 - #12 =
+INFO  15:45:32,771 - #16 s
+INFO  15:45:32,771 - #5 ;
+INFO  15:45:32,771 - #15 int
+INFO  15:45:32,771 - #15 b
+INFO  15:45:32,772 - #8 ,
+INFO  15:45:32,772 - #15 x
+INFO  15:45:32,772 - #25 [
+INFO  15:45:32,772 - #26 ]
+INFO  15:45:32,772 - #8 ,
+INFO  15:45:32,772 - #15 y
+INFO  15:45:32,772 - #25 [
+INFO  15:45:32,773 - #26 ]
+INFO  15:45:32,773 - #8 ,
+INFO  15:45:32,773 - #15 z
+INFO  15:45:32,773 - #25 [
+INFO  15:45:32,773 - #26 ]
+INFO  15:45:32,773 - #5 ;
+INFO  15:45:32,773 - #15 char
+INFO  15:45:32,774 - #15 niz
+INFO  15:45:32,774 - #25 [
+INFO  15:45:32,774 - #26 ]
+INFO  15:45:32,774 - #5 ;
+INFO  15:45:32,774 - #43 const
+INFO  15:45:32,774 - #15 bool
+INFO  15:45:32,774 - #15 flag
+INFO  15:45:32,774 - #12 =
+INFO  15:45:32,774 - #17 true
+INFO  15:45:32,774 - #8 ,
+INFO  15:45:32,775 - #15 k
+INFO  15:45:32,775 - #12 =
+INFO  15:45:32,775 - #17 false
+INFO  15:45:32,775 - #5 ;
+INFO  15:45:32,775 - #43 const
+INFO  15:45:32,775 - #15 int
+INFO  15:45:32,776 - #15 o
+INFO  15:45:32,776 - #12 =
+INFO  15:45:32,776 - #14 0
+INFO  15:45:32,776 - #8 ,
+INFO  15:45:32,776 - #15 p
+INFO  15:45:32,776 - #12 =
+INFO  15:45:32,776 - #14 1
+INFO  15:45:32,776 - #5 ;
+INFO  15:45:32,776 - #15 char
+INFO  15:45:32,776 - #15 c
+INFO  15:45:32,777 - #5 ;
+INFO  15:45:32,777 - #3 {
+INFO  15:45:32,777 - #15 int
+INFO  15:45:32,777 - #15 ml
+INFO  15:45:32,777 - #6 (
+INFO  15:45:32,778 - #7 )
+INFO  15:45:32,778 - #3 {
+INFO  15:45:32,778 - #10 return
+INFO  15:45:32,784 - #14 1
+INFO  15:45:32,784 - #5 ;
+INFO  15:45:32,786 - #4 }
+INFO  15:45:32,786 - #15 int
+INFO  15:45:32,787 - #15 sl
+INFO  15:45:32,787 - #6 (
+INFO  15:45:32,787 - #7 )
+INFO  15:45:32,788 - #3 {
+INFO  15:45:32,788 - #4 }
+INFO  15:45:32,788 - #15 bool
+INFO  15:45:32,788 - #15 kl
+INFO  15:45:32,788 - #6 (
+INFO  15:45:32,788 - #15 int
+INFO  15:45:32,788 - #15 intidzer
+INFO  15:45:32,788 - #8 ,
+INFO  15:45:32,788 - #15 int
+INFO  15:45:32,788 - #15 klo
+INFO  15:45:32,789 - #7 )
+INFO  15:45:32,789 - #3 {
+INFO  15:45:32,789 - #15 kl
+INFO  15:45:32,789 - #6 (
+INFO  15:45:32,789 - #14 3
+INFO  15:45:32,789 - #8 ,
+INFO  15:45:32,789 - #16 a
+INFO  15:45:32,789 - #7 )
+INFO  15:45:32,790 - #5 ;
+INFO  15:45:32,790 - #10 return
+INFO  15:45:32,790 - #17 true
+INFO  15:45:32,790 - #5 ;
+INFO  15:45:32,790 - #4 }
+INFO  15:45:32,790 - #15 bool
+INFO  15:45:32,791 - #15 ll
+INFO  15:45:32,791 - #6 (
+INFO  15:45:32,791 - #7 )
+INFO  15:45:32,791 - #3 {
+INFO  15:45:32,791 - #10 return
+INFO  15:45:32,791 - #17 false
+INFO  15:45:32,791 - #5 ;
+INFO  15:45:32,791 - #4 }
+INFO  15:45:32,791 - #13 void
+INFO  15:45:32,791 - #15 sss
+INFO  15:45:32,791 - #6 (
+INFO  15:45:32,792 - #7 )
+INFO  15:45:32,792 - #3 {
+INFO  15:45:32,792 - #18 if
+INFO  15:45:32,792 - #6 (
+INFO  15:45:32,792 - #15 c
+INFO  15:45:32,792 - #7 )
+INFO  15:45:32,793 - #3 {
+INFO  15:45:32,793 - #15 b
+INFO  15:45:32,793 - #20 ++
+INFO  15:45:32,793 - #5 ;
+INFO  15:45:32,793 - #4 }
+INFO  15:45:32,794 - #4 }
+INFO  15:45:32,794 - #4 }
+INFO  15:45:32,807 - Deklarisana je promenljiva r tipa 2 i vrednosti a na liniji 3
+INFO  15:45:32,807 - Deklarisana je promenljiva n tipa 2 i vrednosti s na liniji 4
+INFO  15:45:32,807 - Deklarisana je promenljiva m tipa 2 i vrednosti a na liniji 4
+INFO  15:45:32,807 - Deklarisana je promenljiva b tipa 1 na liniji 5
+INFO  15:45:32,807 - Deklarisana je promenljiva(niz) z tipa 1 na liniji 5
+INFO  15:45:32,807 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 5
+INFO  15:45:32,807 - Deklarisana je promenljiva(niz) x tipa 1 na liniji 5
+INFO  15:45:32,808 - Deklarisana je promenljiva(niz) niz tipa 2 na liniji 6
+INFO  15:45:32,808 - Deklarisana je promenljiva k tipa 5 i vrednosti false na liniji 7
+INFO  15:45:32,808 - Deklarisana je promenljiva flag tipa 5 i vrednosti true na liniji 7
+INFO  15:45:32,808 - Deklarisana je promenljiva p tipa 1 i vrednosti 1 na liniji 8
+INFO  15:45:32,808 - Deklarisana je promenljiva o tipa 1 i vrednosti 0 na liniji 8
+INFO  15:45:32,808 - Deklarisana je promenljiva c tipa 2 na liniji 9
+INFO  15:45:32,808 - Procesira se metoda ml povratnog tipa 1 na liniji 13
+INFO  15:45:32,808 - Return tip se slaze sa tipom funkcije na liniji 15
+INFO  15:45:32,808 - Procesira se metoda sl povratnog tipa 1 na liniji 18
+ERROR 15:45:32,809 - Semanticka greska na liniji 18 funkcija sl nema return iskaz
+INFO  15:45:32,809 - Procesira se metoda kl povratnog tipa 5 na liniji 23
+INFO  15:45:32,809 - Deklarisan je formalni parametar intidzer tipa 1 na poziciji 0 na liniji 23
+INFO  15:45:32,809 - Deklarisan je formalni parametar klo tipa 1 na poziciji 1 na liniji 23
+ERROR 15:45:32,809 - Semanticka greska: tipovi formalnih i stvarnih argumenata se ne poklapaju na liniji 25
+INFO  15:45:32,810 - Return tip se slaze sa tipom funkcije na liniji 27
+INFO  15:45:32,810 - Procesira se metoda ll povratnog tipa 5 na liniji 31
+INFO  15:45:32,810 - Return tip se slaze sa tipom funkcije na liniji 33
+INFO  15:45:32,810 - Procesira se metoda sss bez povratnog tipa (0) na liniji 39
+ERROR 15:45:32,810 - Izraz nije odgovarajuceg tipa na liniji 61
+INFO  15:45:32,810 - Tip je kompatibilan sa operatorom ++ na liniji 62
+INFO  15:45:32,810 - Print calls = 0
+INFO  15:45:32,811 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,326 @@
+INFO  17:34:12,336 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:34:12,375 - #2 program
+INFO  17:34:12,375 - #15 MJProgram
+INFO  17:34:12,375 - #15 int
+INFO  17:34:12,376 - #15 x
+INFO  17:34:12,376 - #5 ;
+INFO  17:34:12,376 - #15 int
+INFO  17:34:12,376 - #15 y
+INFO  17:34:12,377 - #25 [
+INFO  17:34:12,377 - #26 ]
+INFO  17:34:12,377 - #5 ;
+INFO  17:34:12,377 - #3 {
+INFO  17:34:12,377 - #15 int
+INFO  17:34:12,377 - #15 fja
+INFO  17:34:12,377 - #6 (
+INFO  17:34:12,378 - #15 int
+INFO  17:34:12,378 - #15 c
+INFO  17:34:12,378 - #7 )
+INFO  17:34:12,378 - #3 {
+INFO  17:34:12,378 - #10 return
+INFO  17:34:12,379 - #14 7
+INFO  17:34:12,379 - #5 ;
+INFO  17:34:12,380 - #4 }
+INFO  17:34:12,380 - #13 void
+INFO  17:34:12,381 - #15 fff
+INFO  17:34:12,381 - #6 (
+INFO  17:34:12,381 - #7 )
+INFO  17:34:12,382 - #3 {
+INFO  17:34:12,382 - #4 }
+INFO  17:34:12,382 - #15 bool
+INFO  17:34:12,382 - #15 jjj
+INFO  17:34:12,382 - #6 (
+INFO  17:34:12,382 - #7 )
+INFO  17:34:12,382 - #3 {
+INFO  17:34:12,382 - #10 return
+INFO  17:34:12,382 - #17 false
+INFO  17:34:12,383 - #5 ;
+INFO  17:34:12,383 - #4 }
+INFO  17:34:12,383 - #15 int
+INFO  17:34:12,383 - #15 main
+INFO  17:34:12,383 - #6 (
+INFO  17:34:12,383 - #7 )
+INFO  17:34:12,383 - #3 {
+INFO  17:34:12,383 - #15 x
+INFO  17:34:12,383 - #12 =
+INFO  17:34:12,383 - #14 2
+INFO  17:34:12,383 - #5 ;
+INFO  17:34:12,384 - #31 for
+INFO  17:34:12,384 - #6 (
+INFO  17:34:12,385 - #15 x
+INFO  17:34:12,385 - #12 =
+INFO  17:34:12,385 - #14 1
+INFO  17:34:12,385 - #5 ;
+INFO  17:34:12,385 - #15 x
+INFO  17:34:12,385 - #41 <
+INFO  17:34:12,385 - #14 4
+INFO  17:34:12,386 - #5 ;
+INFO  17:34:12,386 - #15 x
+INFO  17:34:12,386 - #20 ++
+INFO  17:34:12,386 - #7 )
+INFO  17:34:12,387 - #3 {
+INFO  17:34:12,387 - #9 print
+INFO  17:34:12,387 - #6 (
+INFO  17:34:12,387 - #15 x
+INFO  17:34:12,387 - #7 )
+INFO  17:34:12,387 - #5 ;
+INFO  17:34:12,387 - #4 }
+INFO  17:34:12,387 - #18 if
+INFO  17:34:12,388 - #6 (
+INFO  17:34:12,393 - #15 x
+INFO  17:34:12,393 - #39 >
+INFO  17:34:12,394 - #14 2
+INFO  17:34:12,394 - #7 )
+INFO  17:34:12,394 - #3 {
+INFO  17:34:12,394 - #15 x
+INFO  17:34:12,394 - #12 =
+INFO  17:34:12,394 - #14 1111
+INFO  17:34:12,394 - #5 ;
+INFO  17:34:12,395 - #9 print
+INFO  17:34:12,395 - #6 (
+INFO  17:34:12,395 - #15 x
+INFO  17:34:12,395 - #7 )
+INFO  17:34:12,395 - #5 ;
+INFO  17:34:12,395 - #18 if
+INFO  17:34:12,395 - #6 (
+INFO  17:34:12,395 - #14 1
+INFO  17:34:12,395 - #28 *
+INFO  17:34:12,395 - #14 2
+INFO  17:34:12,396 - #37 ==
+INFO  17:34:12,396 - #14 4
+INFO  17:34:12,397 - #7 )
+INFO  17:34:12,397 - #3 {
+INFO  17:34:12,397 - #9 print
+INFO  17:34:12,397 - #6 (
+INFO  17:34:12,397 - #14 8
+INFO  17:34:12,397 - #7 )
+INFO  17:34:12,397 - #5 ;
+INFO  17:34:12,397 - #4 }
+INFO  17:34:12,397 - #19 else
+INFO  17:34:12,397 - #3 {
+INFO  17:34:12,398 - #9 print
+INFO  17:34:12,398 - #6 (
+INFO  17:34:12,399 - #14 9
+INFO  17:34:12,399 - #7 )
+INFO  17:34:12,399 - #5 ;
+INFO  17:34:12,399 - #4 }
+INFO  17:34:12,399 - #4 }
+INFO  17:34:12,399 - #19 else
+INFO  17:34:12,399 - #3 {
+INFO  17:34:12,399 - #15 x
+INFO  17:34:12,399 - #12 =
+INFO  17:34:12,399 - #14 222
+INFO  17:34:12,399 - #5 ;
+INFO  17:34:12,400 - #9 print
+INFO  17:34:12,400 - #6 (
+INFO  17:34:12,400 - #15 x
+INFO  17:34:12,400 - #7 )
+INFO  17:34:12,400 - #5 ;
+INFO  17:34:12,400 - #4 }
+INFO  17:34:12,400 - #15 x
+INFO  17:34:12,400 - #12 =
+INFO  17:34:12,400 - #14 1
+INFO  17:34:12,400 - #5 ;
+INFO  17:34:12,400 - #15 y
+INFO  17:34:12,400 - #12 =
+INFO  17:34:12,400 - #24 new
+INFO  17:34:12,400 - #15 int
+INFO  17:34:12,400 - #25 [
+INFO  17:34:12,401 - #14 2
+INFO  17:34:12,401 - #26 ]
+INFO  17:34:12,401 - #5 ;
+INFO  17:34:12,401 - #15 y
+INFO  17:34:12,401 - #25 [
+INFO  17:34:12,401 - #14 0
+INFO  17:34:12,401 - #26 ]
+INFO  17:34:12,401 - #12 =
+INFO  17:34:12,401 - #14 1
+INFO  17:34:12,401 - #5 ;
+INFO  17:34:12,401 - #15 y
+INFO  17:34:12,401 - #25 [
+INFO  17:34:12,401 - #14 1
+INFO  17:34:12,401 - #26 ]
+INFO  17:34:12,401 - #12 =
+INFO  17:34:12,401 - #14 13
+INFO  17:34:12,401 - #5 ;
+INFO  17:34:12,401 - #15 y
+INFO  17:34:12,402 - #25 [
+INFO  17:34:12,402 - #14 1
+INFO  17:34:12,402 - #26 ]
+INFO  17:34:12,402 - #20 ++
+INFO  17:34:12,402 - #5 ;
+INFO  17:34:12,402 - #15 x
+INFO  17:34:12,402 - #21 --
+INFO  17:34:12,402 - #5 ;
+INFO  17:34:12,402 - #9 print
+INFO  17:34:12,402 - #6 (
+INFO  17:34:12,402 - #15 x
+INFO  17:34:12,402 - #7 )
+INFO  17:34:12,402 - #5 ;
+INFO  17:34:12,402 - #15 x
+INFO  17:34:12,402 - #12 =
+INFO  17:34:12,402 - #14 2
+INFO  17:34:12,402 - #28 *
+INFO  17:34:12,402 - #14 3
+INFO  17:34:12,402 - #5 ;
+INFO  17:34:12,403 - #15 x
+INFO  17:34:12,403 - #12 =
+INFO  17:34:12,403 - #23 -
+INFO  17:34:12,403 - #6 (
+INFO  17:34:12,403 - #23 -
+INFO  17:34:12,403 - #14 2
+INFO  17:34:12,404 - #28 *
+INFO  17:34:12,404 - #6 (
+INFO  17:34:12,404 - #14 3
+INFO  17:34:12,404 - #29 /
+INFO  17:34:12,404 - #6 (
+INFO  17:34:12,404 - #23 -
+INFO  17:34:12,405 - #14 1
+INFO  17:34:12,405 - #7 )
+INFO  17:34:12,405 - #7 )
+INFO  17:34:12,405 - #7 )
+INFO  17:34:12,405 - #5 ;
+INFO  17:34:12,405 - #9 print
+INFO  17:34:12,405 - #6 (
+INFO  17:34:12,405 - #15 x
+INFO  17:34:12,405 - #7 )
+INFO  17:34:12,405 - #5 ;
+INFO  17:34:12,405 - #15 x
+INFO  17:34:12,405 - #12 =
+INFO  17:34:12,405 - #23 -
+INFO  17:34:12,405 - #14 2
+INFO  17:34:12,405 - #11 +
+INFO  17:34:12,406 - #14 3
+INFO  17:34:12,406 - #5 ;
+INFO  17:34:12,406 - #9 print
+INFO  17:34:12,406 - #6 (
+INFO  17:34:12,406 - #15 x
+INFO  17:34:12,406 - #7 )
+INFO  17:34:12,407 - #5 ;
+INFO  17:34:12,407 - #15 x
+INFO  17:34:12,407 - #12 =
+INFO  17:34:12,407 - #23 -
+INFO  17:34:12,407 - #6 (
+INFO  17:34:12,407 - #14 2
+INFO  17:34:12,407 - #23 -
+INFO  17:34:12,407 - #14 3
+INFO  17:34:12,408 - #7 )
+INFO  17:34:12,408 - #5 ;
+INFO  17:34:12,408 - #9 print
+INFO  17:34:12,408 - #6 (
+INFO  17:34:12,408 - #15 x
+INFO  17:34:12,408 - #7 )
+INFO  17:34:12,408 - #5 ;
+INFO  17:34:12,408 - #15 x
+INFO  17:34:12,408 - #12 =
+INFO  17:34:12,408 - #23 -
+INFO  17:34:12,408 - #6 (
+INFO  17:34:12,408 - #14 2
+INFO  17:34:12,408 - #11 +
+INFO  17:34:12,408 - #14 3
+INFO  17:34:12,408 - #7 )
+INFO  17:34:12,409 - #5 ;
+INFO  17:34:12,409 - #9 print
+INFO  17:34:12,409 - #6 (
+INFO  17:34:12,409 - #15 x
+INFO  17:34:12,409 - #7 )
+INFO  17:34:12,409 - #5 ;
+INFO  17:34:12,409 - #9 print
+INFO  17:34:12,409 - #6 (
+INFO  17:34:12,409 - #15 y
+INFO  17:34:12,409 - #25 [
+INFO  17:34:12,409 - #15 y
+INFO  17:34:12,409 - #25 [
+INFO  17:34:12,410 - #14 0
+INFO  17:34:12,410 - #26 ]
+INFO  17:34:12,410 - #26 ]
+INFO  17:34:12,410 - #7 )
+INFO  17:34:12,410 - #5 ;
+INFO  17:34:12,410 - #15 x
+INFO  17:34:12,410 - #12 =
+INFO  17:34:12,410 - #14 4
+INFO  17:34:12,410 - #5 ;
+INFO  17:34:12,410 - #9 print
+INFO  17:34:12,410 - #6 (
+INFO  17:34:12,410 - #14 2
+INFO  17:34:12,410 - #7 )
+INFO  17:34:12,410 - #5 ;
+INFO  17:34:12,410 - #9 print
+INFO  17:34:12,410 - #6 (
+INFO  17:34:12,410 - #15 x
+INFO  17:34:12,410 - #7 )
+INFO  17:34:12,410 - #5 ;
+INFO  17:34:12,411 - #15 fja
+INFO  17:34:12,411 - #6 (
+INFO  17:34:12,411 - #14 5
+INFO  17:34:12,411 - #7 )
+INFO  17:34:12,411 - #5 ;
+INFO  17:34:12,412 - #9 print
+INFO  17:34:12,412 - #6 (
+INFO  17:34:12,412 - #15 fja
+INFO  17:34:12,412 - #6 (
+INFO  17:34:12,412 - #14 5
+INFO  17:34:12,412 - #7 )
+INFO  17:34:12,412 - #7 )
+INFO  17:34:12,412 - #5 ;
+INFO  17:34:12,412 - #9 print
+INFO  17:34:12,412 - #6 (
+INFO  17:34:12,412 - #14 8
+INFO  17:34:12,412 - #11 +
+INFO  17:34:12,412 - #14 2
+INFO  17:34:12,412 - #7 )
+INFO  17:34:12,413 - #5 ;
+INFO  17:34:12,413 - #9 print
+INFO  17:34:12,413 - #6 (
+INFO  17:34:12,413 - #14 2
+INFO  17:34:12,413 - #23 -
+INFO  17:34:12,413 - #14 3
+INFO  17:34:12,413 - #7 )
+INFO  17:34:12,413 - #5 ;
+INFO  17:34:12,413 - #15 fff
+INFO  17:34:12,413 - #6 (
+INFO  17:34:12,413 - #7 )
+INFO  17:34:12,413 - #5 ;
+INFO  17:34:12,413 - #10 return
+INFO  17:34:12,413 - #14 1
+INFO  17:34:12,413 - #5 ;
+INFO  17:34:12,414 - #4 }
+INFO  17:34:12,414 - #4 }
+INFO  17:34:12,423 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  17:34:12,423 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 3
+INFO  17:34:12,423 - Procesira se metoda fja povratnog tipa 1 na liniji 8
+INFO  17:34:12,423 - Deklarisan je formalni parametar c tipa 1 na poziciji 0 na liniji 8
+INFO  17:34:12,424 - Return tip se slaze sa tipom funkcije na liniji 10
+INFO  17:34:12,424 - Procesira se metoda fff bez povratnog tipa (0) na liniji 14
+INFO  17:34:12,424 - Procesira se metoda jjj povratnog tipa 5 na liniji 19
+INFO  17:34:12,424 - Return tip se slaze sa tipom funkcije na liniji 21
+INFO  17:34:12,424 - Procesira se metoda main povratnog tipa 1 na liniji 25
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 26
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 28
+INFO  17:34:12,424 - Tip je kompatibilan sa operatorom ++ na liniji 28
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 33
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 43
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 46
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 47
+INFO  17:34:12,424 - Procesira se y na liniji 48 na liniji 48
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 48
+INFO  17:34:12,424 - Procesira se y na liniji 49 na liniji 49
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 49
+INFO  17:34:12,424 - Procesira se y na liniji 50 na liniji 50
+INFO  17:34:12,424 - Tip je kompatibilan sa operatorom ++ na liniji 50
+INFO  17:34:12,424 - Tip je kompatibilan sa operatorom -- na liniji 51
+INFO  17:34:12,424 - Tipovi su kompatibilni  na liniji 53
+INFO  17:34:12,425 - Tipovi su kompatibilni  na liniji 54
+INFO  17:34:12,425 - Tipovi su kompatibilni  na liniji 56
+INFO  17:34:12,425 - Tipovi su kompatibilni  na liniji 58
+INFO  17:34:12,425 - Tipovi su kompatibilni  na liniji 60
+INFO  17:34:12,425 - Procesira se y na liniji 62 na liniji 62
+INFO  17:34:12,425 - Procesira se y na liniji 62 na liniji 62
+INFO  17:34:12,425 - Tipovi su kompatibilni  na liniji 63
+INFO  17:34:12,425 - Pronadjen je poziv funkcije fja na liniji 66
+INFO  17:34:12,425 - Pronadjen je poziv funkcijefja na liniji 67
+INFO  17:34:12,425 - Pronadjen je poziv funkcijefff na liniji 70
+INFO  17:34:12,425 - Return tip se slaze sa tipom funkcije na liniji 71
+INFO  17:34:12,425 - Print calls = 16
+INFO  17:34:12,426 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:34:12,442 - Parsiranje uspesno zavrseno!

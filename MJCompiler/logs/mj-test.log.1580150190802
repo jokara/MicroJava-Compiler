@@ -1,0 +1,148 @@
+INFO  18:42:26,601 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:42:26,639 - #2 program
+INFO  18:42:26,639 - #15 test302
+INFO  18:42:26,639 - #43 const
+INFO  18:42:26,640 - #15 int
+INFO  18:42:26,640 - #15 jedan
+INFO  18:42:26,641 - #12 =
+INFO  18:42:26,641 - #14 1
+INFO  18:42:26,641 - #5 ;
+INFO  18:42:26,641 - #15 int
+INFO  18:42:26,641 - #15 i
+INFO  18:42:26,641 - #5 ;
+INFO  18:42:26,642 - #15 bool
+INFO  18:42:26,642 - #15 ibool
+INFO  18:42:26,642 - #5 ;
+INFO  18:42:26,642 - #15 int
+INFO  18:42:26,642 - #15 niz
+INFO  18:42:26,642 - #25 [
+INFO  18:42:26,642 - #26 ]
+INFO  18:42:26,642 - #5 ;
+INFO  18:42:26,642 - #3 {
+INFO  18:42:26,643 - #15 int
+INFO  18:42:26,644 - #15 sum
+INFO  18:42:26,644 - #6 (
+INFO  18:42:26,644 - #15 int
+INFO  18:42:26,645 - #15 z
+INFO  18:42:26,645 - #8 ,
+INFO  18:42:26,645 - #15 int
+INFO  18:42:26,645 - #15 d
+INFO  18:42:26,645 - #7 )
+INFO  18:42:26,646 - #3 {
+INFO  18:42:26,646 - #10 return
+INFO  18:42:26,646 - #15 z
+INFO  18:42:26,647 - #11 +
+INFO  18:42:26,647 - #15 d
+INFO  18:42:26,648 - #5 ;
+INFO  18:42:26,648 - #4 }
+INFO  18:42:26,648 - #15 int
+INFO  18:42:26,649 - #15 inkrement
+INFO  18:42:26,649 - #6 (
+INFO  18:42:26,649 - #15 int
+INFO  18:42:26,649 - #15 a
+INFO  18:42:26,650 - #8 ,
+INFO  18:42:26,650 - #15 int
+INFO  18:42:26,650 - #15 inc
+INFO  18:42:26,650 - #7 )
+INFO  18:42:26,650 - #3 {
+INFO  18:42:26,650 - #9 print
+INFO  18:42:26,650 - #6 (
+INFO  18:42:26,650 - #15 a
+INFO  18:42:26,650 - #7 )
+INFO  18:42:26,651 - #5 ;
+INFO  18:42:26,651 - #9 print
+INFO  18:42:26,651 - #6 (
+INFO  18:42:26,651 - #16 -
+INFO  18:42:26,651 - #7 )
+INFO  18:42:26,651 - #5 ;
+INFO  18:42:26,651 - #9 print
+INFO  18:42:26,651 - #6 (
+INFO  18:42:26,651 - #15 inc
+INFO  18:42:26,652 - #7 )
+INFO  18:42:26,652 - #5 ;
+INFO  18:42:26,652 - #9 print
+INFO  18:42:26,652 - #6 (
+INFO  18:42:26,652 - #15 eol
+INFO  18:42:26,652 - #7 )
+INFO  18:42:26,652 - #5 ;
+INFO  18:42:26,652 - #10 return
+INFO  18:42:26,655 - #14 1
+INFO  18:42:26,662 - #5 ;
+INFO  18:42:26,662 - #4 }
+INFO  18:42:26,663 - #15 bool
+INFO  18:42:26,663 - #15 verify
+INFO  18:42:26,663 - #6 (
+INFO  18:42:26,663 - #7 )
+INFO  18:42:26,664 - #3 {
+INFO  18:42:26,664 - #9 print
+INFO  18:42:26,664 - #6 (
+INFO  18:42:26,664 - #16 v
+INFO  18:42:26,664 - #7 )
+INFO  18:42:26,664 - #5 ;
+INFO  18:42:26,664 - #10 return
+INFO  18:42:26,665 - #17 false
+INFO  18:42:26,665 - #5 ;
+INFO  18:42:26,665 - #4 }
+INFO  18:42:26,665 - #13 void
+INFO  18:42:26,665 - #15 main
+INFO  18:42:26,665 - #6 (
+INFO  18:42:26,665 - #7 )
+INFO  18:42:26,665 - #3 {
+INFO  18:42:26,665 - #15 i
+INFO  18:42:26,666 - #12 =
+INFO  18:42:26,666 - #14 0
+INFO  18:42:26,666 - #5 ;
+INFO  18:42:26,666 - #15 i
+INFO  18:42:26,666 - #12 =
+INFO  18:42:26,667 - #15 inkrement
+INFO  18:42:26,667 - #6 (
+INFO  18:42:26,667 - #15 i
+INFO  18:42:26,667 - #8 ,
+INFO  18:42:26,667 - #14 1
+INFO  18:42:26,668 - #7 )
+INFO  18:42:26,668 - #5 ;
+INFO  18:42:26,668 - #9 print
+INFO  18:42:26,668 - #6 (
+INFO  18:42:26,669 - #15 i
+INFO  18:42:26,669 - #7 )
+INFO  18:42:26,669 - #5 ;
+INFO  18:42:26,669 - #31 for
+INFO  18:42:26,669 - #6 (
+INFO  18:42:26,670 - #15 i
+INFO  18:42:26,670 - #12 =
+INFO  18:42:26,670 - #14 0
+INFO  18:42:26,670 - #5 ;
+INFO  18:42:26,670 - #15 i
+INFO  18:42:26,670 - #41 <
+INFO  18:42:26,670 - #14 3
+INFO  18:42:26,671 - #5 ;
+INFO  18:42:26,672 - #15 i
+INFO  18:42:26,672 - #20 ++
+INFO  18:42:26,672 - #7 )
+INFO  18:42:26,672 - #3 {
+INFO  18:42:26,672 - #4 }
+INFO  18:42:26,672 - #4 }
+INFO  18:42:26,673 - #4 }
+INFO  18:42:26,687 - Deklarisana je promenljiva jedan tipa 1 i vrednosti 1 na liniji 5
+INFO  18:42:26,688 - Deklarisana je promenljiva i tipa 1 na liniji 7
+INFO  18:42:26,688 - Deklarisana je promenljiva ibool tipa 5 na liniji 8
+INFO  18:42:26,688 - Deklarisana je promenljiva(niz) niz tipa 1 na liniji 10
+INFO  18:42:26,688 - Procesira se metoda sum povratnog tipa 1 na liniji 13
+INFO  18:42:26,688 - Deklarisan je formalni parametar z tipa 1 na poziciji 0 na liniji 13
+INFO  18:42:26,688 - Deklarisan je formalni parametar d tipa 1 na poziciji 1 na liniji 13
+INFO  18:42:26,688 - Return tip se slaze sa tipom funkcije na liniji 16
+INFO  18:42:26,689 - Procesira se metoda inkrement povratnog tipa 1 na liniji 20
+INFO  18:42:26,689 - Deklarisan je formalni parametar a tipa 1 na poziciji 0 na liniji 20
+INFO  18:42:26,689 - Deklarisan je formalni parametar inc tipa 1 na poziciji 1 na liniji 20
+INFO  18:42:26,689 - Return tip se slaze sa tipom funkcije na liniji 28
+INFO  18:42:26,689 - Procesira se metoda verify povratnog tipa 5 na liniji 32
+INFO  18:42:26,689 - Return tip se slaze sa tipom funkcije na liniji 34
+INFO  18:42:26,689 - Procesira se metoda main bez povratnog tipa (0) na liniji 37
+INFO  18:42:26,689 - Tipovi su kompatibilni  na liniji 39
+INFO  18:42:26,689 - Pronadjen je poziv funkcijeinkrement na liniji 40
+INFO  18:42:26,689 - Tipovi su kompatibilni  na liniji 40
+INFO  18:42:26,689 - Tipovi su kompatibilni  na liniji 42
+INFO  18:42:26,690 - Tip je kompatibilan sa operatorom ++ na liniji 42
+INFO  18:42:26,690 - Print calls = 6
+INFO  18:42:26,691 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:42:26,708 - Parsiranje uspesno zavrseno!

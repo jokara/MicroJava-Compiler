@@ -1,0 +1,172 @@
+INFO  17:41:00,630 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:41:00,722 - #2 program
+INFO  17:41:00,723 - #15 MJProgram
+INFO  17:41:00,727 - #15 int
+INFO  17:41:00,736 - #15 x
+INFO  17:41:00,737 - #5 ;
+INFO  17:41:00,737 - #15 int
+INFO  17:41:00,738 - #15 y
+INFO  17:41:00,738 - #25 [
+INFO  17:41:00,738 - #26 ]
+INFO  17:41:00,738 - #5 ;
+INFO  17:41:00,739 - #3 {
+INFO  17:41:00,739 - #15 int
+INFO  17:41:00,740 - #15 fja
+INFO  17:41:00,741 - #6 (
+INFO  17:41:00,741 - #15 int
+INFO  17:41:00,741 - #15 c
+INFO  17:41:00,744 - #7 )
+INFO  17:41:00,745 - #3 {
+INFO  17:41:00,745 - #10 return
+INFO  17:41:00,746 - #14 7
+INFO  17:41:00,747 - #5 ;
+INFO  17:41:00,747 - #4 }
+INFO  17:41:00,748 - #13 void
+INFO  17:41:00,749 - #15 fff
+INFO  17:41:00,749 - #6 (
+INFO  17:41:00,749 - #7 )
+INFO  17:41:00,750 - #3 {
+INFO  17:41:00,751 - #4 }
+INFO  17:41:00,751 - #15 bool
+INFO  17:41:00,751 - #15 jjj
+INFO  17:41:00,751 - #6 (
+INFO  17:41:00,752 - #7 )
+INFO  17:41:00,752 - #3 {
+INFO  17:41:00,752 - #10 return
+INFO  17:41:00,752 - #17 false
+INFO  17:41:00,752 - #5 ;
+INFO  17:41:00,752 - #4 }
+INFO  17:41:00,752 - #15 int
+INFO  17:41:00,753 - #15 main
+INFO  17:41:00,753 - #6 (
+INFO  17:41:00,753 - #7 )
+INFO  17:41:00,753 - #3 {
+INFO  17:41:00,753 - #15 x
+INFO  17:41:00,753 - #12 =
+INFO  17:41:00,753 - #14 4
+INFO  17:41:00,757 - #5 ;
+INFO  17:41:00,757 - #15 y
+INFO  17:41:00,758 - #12 =
+INFO  17:41:00,758 - #24 new
+INFO  17:41:00,759 - #15 int
+INFO  17:41:00,759 - #25 [
+INFO  17:41:00,759 - #14 3
+INFO  17:41:00,760 - #26 ]
+INFO  17:41:00,760 - #5 ;
+INFO  17:41:00,760 - #15 y
+INFO  17:41:00,760 - #25 [
+INFO  17:41:00,760 - #14 0
+INFO  17:41:00,760 - #26 ]
+INFO  17:41:00,761 - #12 =
+INFO  17:41:00,761 - #14 1
+INFO  17:41:00,761 - #5 ;
+INFO  17:41:00,761 - #15 y
+INFO  17:41:00,761 - #25 [
+INFO  17:41:00,762 - #14 1
+INFO  17:41:00,762 - #26 ]
+INFO  17:41:00,762 - #12 =
+INFO  17:41:00,763 - #14 5
+INFO  17:41:00,763 - #5 ;
+INFO  17:41:00,773 - #15 y
+INFO  17:41:00,775 - #25 [
+INFO  17:41:00,775 - #14 2
+INFO  17:41:00,775 - #26 ]
+INFO  17:41:00,775 - #12 =
+INFO  17:41:00,777 - #14 13
+INFO  17:41:00,777 - #5 ;
+INFO  17:41:00,777 - #15 y
+INFO  17:41:00,777 - #25 [
+INFO  17:41:00,778 - #14 0
+INFO  17:41:00,778 - #26 ]
+INFO  17:41:00,778 - #12 =
+INFO  17:41:00,779 - #15 y
+INFO  17:41:00,779 - #25 [
+INFO  17:41:00,779 - #14 1
+INFO  17:41:00,779 - #26 ]
+INFO  17:41:00,780 - #5 ;
+INFO  17:41:00,781 - #9 print
+INFO  17:41:00,781 - #6 (
+INFO  17:41:00,781 - #15 y
+INFO  17:41:00,782 - #25 [
+INFO  17:41:00,782 - #15 y
+INFO  17:41:00,782 - #25 [
+INFO  17:41:00,782 - #14 0
+INFO  17:41:00,783 - #26 ]
+INFO  17:41:00,783 - #26 ]
+INFO  17:41:00,783 - #7 )
+INFO  17:41:00,784 - #5 ;
+INFO  17:41:00,784 - #9 print
+INFO  17:41:00,784 - #6 (
+INFO  17:41:00,784 - #14 2
+INFO  17:41:00,784 - #7 )
+INFO  17:41:00,785 - #5 ;
+INFO  17:41:00,785 - #9 print
+INFO  17:41:00,785 - #6 (
+INFO  17:41:00,785 - #15 x
+INFO  17:41:00,785 - #7 )
+INFO  17:41:00,785 - #5 ;
+INFO  17:41:00,785 - #15 fja
+INFO  17:41:00,785 - #6 (
+INFO  17:41:00,785 - #14 5
+INFO  17:41:00,785 - #7 )
+INFO  17:41:00,786 - #5 ;
+INFO  17:41:00,786 - #9 print
+INFO  17:41:00,786 - #6 (
+INFO  17:41:00,786 - #15 fja
+INFO  17:41:00,786 - #6 (
+INFO  17:41:00,786 - #14 5
+INFO  17:41:00,786 - #7 )
+INFO  17:41:00,787 - #7 )
+INFO  17:41:00,787 - #5 ;
+INFO  17:41:00,787 - #9 print
+INFO  17:41:00,787 - #6 (
+INFO  17:41:00,787 - #14 2
+INFO  17:41:00,787 - #11 +
+INFO  17:41:00,787 - #14 8
+INFO  17:41:00,788 - #7 )
+INFO  17:41:00,788 - #5 ;
+INFO  17:41:00,789 - #9 print
+INFO  17:41:00,789 - #6 (
+INFO  17:41:00,789 - #14 8
+INFO  17:41:00,789 - #23 -
+INFO  17:41:00,789 - #14 2
+INFO  17:41:00,790 - #7 )
+INFO  17:41:00,790 - #5 ;
+INFO  17:41:00,790 - #15 fff
+INFO  17:41:00,790 - #6 (
+INFO  17:41:00,790 - #7 )
+INFO  17:41:00,790 - #5 ;
+INFO  17:41:00,790 - #10 return
+INFO  17:41:00,790 - #14 1
+INFO  17:41:00,790 - #5 ;
+INFO  17:41:00,791 - #4 }
+INFO  17:41:00,791 - #4 }
+INFO  17:41:00,813 - Deklarisana je promenljiva x tipa 1 na liniji 2
+INFO  17:41:00,814 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 3
+INFO  17:41:00,814 - Procesira se metoda fja povratnog tipa 1 na liniji 7
+INFO  17:41:00,814 - Deklarisan je formalni parametar c tipa 1 na poziciji 0 na liniji 7
+INFO  17:41:00,814 - Return tip se slaze sa tipom funkcije na liniji 9
+INFO  17:41:00,814 - Procesira se metoda fff bez povratnog tipa (0) na liniji 13
+INFO  17:41:00,815 - Procesira se metoda jjj povratnog tipa 5 na liniji 18
+INFO  17:41:00,815 - Return tip se slaze sa tipom funkcije na liniji 20
+INFO  17:41:00,815 - Procesira se metoda main povratnog tipa 1 na liniji 24
+INFO  17:41:00,815 - Tipovi su kompatibilni  na liniji 25
+INFO  17:41:00,815 - Tipovi su kompatibilni  na liniji 26
+INFO  17:41:00,815 - Procesira se y na liniji 27 na liniji 27
+INFO  17:41:00,815 - Tipovi su kompatibilni  na liniji 27
+INFO  17:41:00,815 - Procesira se y na liniji 28 na liniji 28
+INFO  17:41:00,815 - Tipovi su kompatibilni  na liniji 28
+INFO  17:41:00,816 - Procesira se y na liniji 29 na liniji 29
+INFO  17:41:00,816 - Tipovi su kompatibilni  na liniji 29
+INFO  17:41:00,816 - Procesira se y na liniji 30 na liniji 30
+INFO  17:41:00,816 - Procesira se y na liniji 30 na liniji 30
+INFO  17:41:00,816 - Tipovi su kompatibilni  na liniji 30
+INFO  17:41:00,816 - Procesira se y na liniji 31 na liniji 31
+INFO  17:41:00,816 - Procesira se y na liniji 31 na liniji 31
+INFO  17:41:00,817 - Pronadjen je poziv funkcije fja na liniji 34
+INFO  17:41:00,817 - Pronadjen je poziv funkcijefja na liniji 35
+INFO  17:41:00,817 - Pronadjen je poziv funkcijefff na liniji 38
+INFO  17:41:00,817 - Return tip se slaze sa tipom funkcije na liniji 39
+INFO  17:41:00,817 - Print calls = 6
+INFO  17:41:00,818 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:41:00,839 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,132 @@
+INFO  19:39:19,970 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:39:20,020 - #2 program
+INFO  19:39:20,020 - #15 test302
+INFO  19:39:20,020 - #43 const
+INFO  19:39:20,021 - #15 int
+INFO  19:39:20,022 - #15 jedan
+INFO  19:39:20,022 - #12 =
+INFO  19:39:20,023 - #14 1
+INFO  19:39:20,023 - #5 ;
+INFO  19:39:20,023 - #15 int
+INFO  19:39:20,023 - #15 i
+INFO  19:39:20,023 - #5 ;
+INFO  19:39:20,024 - #15 bool
+INFO  19:39:20,024 - #15 ibool
+INFO  19:39:20,024 - #5 ;
+INFO  19:39:20,024 - #15 int
+INFO  19:39:20,024 - #15 niz
+INFO  19:39:20,024 - #25 [
+INFO  19:39:20,025 - #26 ]
+INFO  19:39:20,025 - #5 ;
+INFO  19:39:20,025 - #3 {
+INFO  19:39:20,048 - #15 int
+INFO  19:39:20,049 - #15 sum
+INFO  19:39:20,049 - #6 (
+INFO  19:39:20,049 - #15 int
+INFO  19:39:20,049 - #15 z
+INFO  19:39:20,049 - #8 ,
+INFO  19:39:20,049 - #15 int
+INFO  19:39:20,049 - #15 d
+INFO  19:39:20,049 - #7 )
+INFO  19:39:20,050 - #3 {
+INFO  19:39:20,050 - #10 return
+INFO  19:39:20,050 - #15 z
+INFO  19:39:20,050 - #11 +
+INFO  19:39:20,051 - #15 d
+INFO  19:39:20,051 - #5 ;
+INFO  19:39:20,051 - #4 }
+INFO  19:39:20,052 - #15 int
+INFO  19:39:20,053 - #15 inkrement
+INFO  19:39:20,053 - #6 (
+INFO  19:39:20,053 - #15 int
+INFO  19:39:20,053 - #15 a
+INFO  19:39:20,053 - #8 ,
+INFO  19:39:20,053 - #15 int
+INFO  19:39:20,053 - #15 inc
+INFO  19:39:20,053 - #7 )
+INFO  19:39:20,053 - #3 {
+INFO  19:39:20,053 - #9 print
+INFO  19:39:20,054 - #6 (
+INFO  19:39:20,054 - #15 a
+INFO  19:39:20,054 - #7 )
+INFO  19:39:20,054 - #5 ;
+INFO  19:39:20,054 - #9 print
+INFO  19:39:20,054 - #6 (
+INFO  19:39:20,055 - #16 -
+INFO  19:39:20,055 - #7 )
+INFO  19:39:20,055 - #5 ;
+INFO  19:39:20,055 - #9 print
+INFO  19:39:20,055 - #6 (
+INFO  19:39:20,055 - #15 inc
+INFO  19:39:20,055 - #7 )
+INFO  19:39:20,056 - #5 ;
+INFO  19:39:20,056 - #9 print
+INFO  19:39:20,056 - #6 (
+INFO  19:39:20,056 - #15 eol
+INFO  19:39:20,056 - #7 )
+INFO  19:39:20,056 - #5 ;
+INFO  19:39:20,056 - #10 return
+INFO  19:39:20,056 - #14 1
+INFO  19:39:20,063 - #5 ;
+INFO  19:39:20,063 - #4 }
+INFO  19:39:20,063 - #13 void
+INFO  19:39:20,063 - #15 main
+INFO  19:39:20,063 - #6 (
+INFO  19:39:20,063 - #7 )
+INFO  19:39:20,064 - #3 {
+INFO  19:39:20,064 - #15 i
+INFO  19:39:20,064 - #12 =
+INFO  19:39:20,064 - #14 5
+INFO  19:39:20,064 - #5 ;
+INFO  19:39:20,065 - #15 i
+INFO  19:39:20,065 - #12 =
+INFO  19:39:20,065 - #15 inkrement
+INFO  19:39:20,065 - #6 (
+INFO  19:39:20,065 - #15 i
+INFO  19:39:20,065 - #8 ,
+INFO  19:39:20,066 - #14 1
+INFO  19:39:20,066 - #7 )
+INFO  19:39:20,066 - #5 ;
+INFO  19:39:20,066 - #9 print
+INFO  19:39:20,066 - #6 (
+INFO  19:39:20,067 - #15 i
+INFO  19:39:20,067 - #7 )
+INFO  19:39:20,067 - #5 ;
+INFO  19:39:20,067 - #31 for
+INFO  19:39:20,067 - #6 (
+INFO  19:39:20,068 - #15 i
+INFO  19:39:20,068 - #12 =
+INFO  19:39:20,069 - #14 0
+INFO  19:39:20,069 - #5 ;
+INFO  19:39:20,069 - #15 i
+INFO  19:39:20,069 - #41 <
+INFO  19:39:20,069 - #14 3
+INFO  19:39:20,070 - #5 ;
+INFO  19:39:20,071 - #15 i
+INFO  19:39:20,072 - #20 ++
+INFO  19:39:20,072 - #7 )
+INFO  19:39:20,072 - #3 {
+INFO  19:39:20,072 - #4 }
+INFO  19:39:20,073 - #4 }
+INFO  19:39:20,073 - #4 }
+INFO  19:39:20,093 - Deklarisana je promenljiva jedan tipa 1 i vrednosti 1 na liniji 5
+INFO  19:39:20,093 - Deklarisana je promenljiva i tipa 1 na liniji 7
+INFO  19:39:20,093 - Deklarisana je promenljiva ibool tipa 5 na liniji 8
+INFO  19:39:20,094 - Deklarisana je promenljiva(niz) niz tipa 1 na liniji 10
+INFO  19:39:20,094 - Procesira se metoda sum povratnog tipa 1 na liniji 13
+INFO  19:39:20,094 - Deklarisan je formalni parametar z tipa 1 na poziciji 0 na liniji 13
+INFO  19:39:20,094 - Deklarisan je formalni parametar d tipa 1 na poziciji 1 na liniji 13
+INFO  19:39:20,095 - Return tip se slaze sa tipom funkcije na liniji 16
+INFO  19:39:20,095 - Procesira se metoda inkrement povratnog tipa 1 na liniji 20
+INFO  19:39:20,095 - Deklarisan je formalni parametar a tipa 1 na poziciji 0 na liniji 20
+INFO  19:39:20,095 - Deklarisan je formalni parametar inc tipa 1 na poziciji 1 na liniji 20
+INFO  19:39:20,095 - Return tip se slaze sa tipom funkcije na liniji 28
+INFO  19:39:20,095 - Procesira se metoda main bez povratnog tipa (0) na liniji 32
+INFO  19:39:20,095 - Tipovi su kompatibilni  na liniji 34
+INFO  19:39:20,095 - Pronadjen je poziv funkcijeinkrement na liniji 35
+INFO  19:39:20,095 - Tipovi su kompatibilni  na liniji 35
+INFO  19:39:20,096 - Tipovi su kompatibilni  na liniji 37
+INFO  19:39:20,096 - Tip je kompatibilan sa operatorom ++ na liniji 37
+INFO  19:39:20,096 - Print calls = 5
+INFO  19:39:20,097 - Generating bytecode file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:39:20,113 - Parsiranje uspesno zavrseno!

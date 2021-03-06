@@ -1,0 +1,21 @@
+INFO  15:01:29,955 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:01:29,990 - #2 program
+INFO  15:01:29,990 - #15 MJProgram
+INFO  15:01:29,990 - #15 int
+INFO  15:01:29,991 - #15 x
+INFO  15:01:29,991 - #5 ;
+INFO  15:01:29,992 - #15 int
+INFO  15:01:29,992 - #15 y
+INFO  15:01:29,992 - #5 ;
+INFO  15:01:29,992 - #15 int
+INFO  15:01:29,992 - #15 u
+INFO  15:01:29,992 - #25 [
+INFO  15:01:29,993 - #26 ]
+INFO  15:01:29,993 - #5 ;
+INFO  15:01:29,993 - #3 {
+INFO  15:01:29,993 - #4 }
+INFO  15:01:30,006 - Deklarisana je promenljiva(niz) x tipa 1 na liniji 2
+INFO  15:01:30,006 - Deklarisana je promenljiva(niz) y tipa 1 na liniji 2
+INFO  15:01:30,007 - Deklarisana je promenljiva u tipa 1 na liniji 3
+INFO  15:01:30,007 - Print calls = 0
+INFO  15:01:30,008 - Parsiranje uspesno zavrseno!

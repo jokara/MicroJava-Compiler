@@ -1,0 +1,40 @@
+INFO  18:04:37,756 - Compiling source file: D:\Nedeljko_ETF\IV godina\PP1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:04:37,791 - #2 program
+INFO  18:04:37,791 - #15 MJProgram
+INFO  18:04:37,791 - #43 const
+INFO  18:04:37,792 - #15 int
+INFO  18:04:37,793 - #15 in
+INFO  18:04:37,793 - #12 =
+INFO  18:04:37,793 - #16 c
+INFO  18:04:37,793 - #5 ;
+INFO  18:04:37,793 - #43 const
+INFO  18:04:37,794 - #15 int
+INFO  18:04:37,794 - #15 p
+INFO  18:04:37,794 - #12 =
+INFO  18:04:37,794 - #14 2
+INFO  18:04:37,794 - #5 ;
+INFO  18:04:37,794 - #43 const
+INFO  18:04:37,794 - #15 char
+INFO  18:04:37,795 - #15 pui
+INFO  18:04:37,795 - #12 =
+INFO  18:04:37,795 - #14 4
+INFO  18:04:37,795 - #5 ;
+INFO  18:04:37,795 - #43 const
+INFO  18:04:37,795 - #15 bool
+INFO  18:04:37,795 - #15 init
+INFO  18:04:37,795 - #12 =
+INFO  18:04:37,795 - #17 true
+INFO  18:04:37,795 - #8 ,
+INFO  18:04:37,795 - #15 false1
+INFO  18:04:37,795 - #12 =
+INFO  18:04:37,795 - #17 false
+INFO  18:04:37,795 - #5 ;
+INFO  18:04:37,795 - #3 {
+INFO  18:04:37,796 - #4 }
+ERROR 18:04:37,810 - Semanticka greska na liniji 6 varijabli in pogresno definisan tip
+INFO  18:04:37,810 - Deklarisana je promenljiva p tipa 1 na liniji 7
+ERROR 18:04:37,810 - Semanticka greska na liniji 8 varijabli pui pogresno definisan tip
+INFO  18:04:37,810 - Deklarisana je promenljiva false1 tipa 5 na liniji 9
+INFO  18:04:37,810 - Deklarisana je promenljiva init tipa 5 na liniji 9
+INFO  18:04:37,810 - Print calls = 0
+INFO  18:04:37,811 - Parsiranje uspesno zavrseno!
